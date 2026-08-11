@@ -1,3 +1,4 @@
+import Image from "next/image";
 import homeData from "@/data/home.json";
 
 export default function AboutGame() {
@@ -6,6 +7,18 @@ export default function AboutGame() {
   return (
     <section className="py-16 border-t border-border">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        {/* Capsule image */}
+        <div className="mb-10 overflow-hidden rounded-xl border border-border">
+          <Image
+            src="/images/capsule.jpg"
+            alt="Expedition 33 - Clair Obscur game capsule art"
+            width={616}
+            height={353}
+            className="w-full h-auto object-cover"
+            priority
+          />
+        </div>
+
         <div className="grid gap-12 lg:grid-cols-3">
           {/* Text content */}
           <div className="lg:col-span-2">

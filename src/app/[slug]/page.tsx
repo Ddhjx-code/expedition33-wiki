@@ -1,10 +1,24 @@
 import { Metadata } from "next";
+import Image from "next/image";
 import { getAllSlugs, getPageContent } from "@/lib/content";
 import Sidebar from "@/components/Sidebar";
 import JsonLd, {
   getArticleSchema,
   getBreadcrumbSchema,
 } from "@/components/JsonLd";
+
+function getBannerImage(slug: string): { src: string; alt: string } {
+  if (slug === "guide" || slug === "beginner-guide") {
+    return { src: "/images/screenshot-combat.jpg", alt: "Expedition 33 combat gameplay" };
+  }
+  if (slug === "boss-guide") {
+    return { src: "/images/screenshot-boss.jpg", alt: "Expedition 33 boss encounter" };
+  }
+  if (slug === "best-pictos") {
+    return { src: "/images/screenshot-pictos.jpg", alt: "Expedition 33 Pictos and skills" };
+  }
+  return { src: "/images/header.jpg", alt: "Expedition 33" };
+}
 
 const BASE_URL = "https://expedition33.wiki";
 
@@ -71,6 +85,8 @@ export default function SlugPage({ params }: PageProps) {
 
     const description = `${title} - Expedition 33 Wiki guide page.`;
 
+    const banner = getBannerImage(params.slug);
+
     return (
       <>
         <JsonLd
@@ -88,6 +104,16 @@ export default function SlugPage({ params }: PageProps) {
               <h1 className="text-3xl font-bold text-foreground mb-4">
                 {title}
               </h1>
+              {/* Banner image */}
+              <div className="mb-6 overflow-hidden rounded-lg border border-border">
+                <Image
+                  src={banner.src}
+                  alt={banner.alt}
+                  width={460}
+                  height={215}
+                  className="w-full h-auto object-cover"
+                />
+              </div>
               <div className="rounded-lg border border-border bg-card p-6">
                 <p className="text-muted-foreground">
                   This guide is coming soon. Check back for comprehensive
@@ -100,6 +126,8 @@ export default function SlugPage({ params }: PageProps) {
       </>
     );
   }
+
+  const banner = getBannerImage(params.slug);
 
   return (
     <>
@@ -128,6 +156,17 @@ export default function SlugPage({ params }: PageProps) {
                 Last updated: {content.lastUpdated}
               </p>
             </header>
+
+            {/* Banner image */}
+            <div className="mb-8 overflow-hidden rounded-lg border border-border">
+              <Image
+                src={banner.src}
+                alt={banner.alt}
+                width={460}
+                height={215}
+                className="w-full h-auto object-cover"
+              />
+            </div>
 
             {/* Sections */}
             <div className="space-y-8">

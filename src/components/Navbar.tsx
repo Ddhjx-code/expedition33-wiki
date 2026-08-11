@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import Link from "next/link";
 
 const NAV_ITEMS = [
@@ -20,9 +21,16 @@ export default function Navbar() {
         {/* Logo */}
         <Link
           href="/"
-          className="text-lg font-bold text-accent hover:text-accent-hover transition-colors"
+          className="flex items-center gap-2 text-lg font-bold text-accent hover:text-accent-hover transition-colors"
         >
-          E33 Wiki
+          <Image
+            src="/images/logo.png"
+            alt="Expedition 33 Wiki"
+            width={32}
+            height={32}
+            className="h-8 w-auto"
+          />
+          <span className="sr-only sm:not-sr-only">E33 Wiki</span>
         </Link>
 
         {/* Desktop nav */}

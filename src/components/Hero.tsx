@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import homeData from "@/data/home.json";
 
@@ -6,8 +7,16 @@ export default function Hero() {
 
   return (
     <section className="relative overflow-hidden py-20 sm:py-28">
-      {/* Decorative gradient background */}
-      <div className="absolute inset-0 -z-10 bg-gradient-to-b from-accent/5 to-transparent" />
+      {/* Background image with dark overlay */}
+      <Image
+        src="/images/hero-bg.jpg"
+        alt="Expedition 33 background art"
+        fill
+        className="object-cover -z-20"
+        priority
+        quality={85}
+      />
+      <div className="absolute inset-0 -z-10 bg-black/60" />
 
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 text-center">
         {/* Eyebrow */}
