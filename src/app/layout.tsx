@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 const geistSans = localFont({
@@ -15,11 +16,11 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: {
-    default: "Expedition 33 Wiki - Clair Obscur Game Guide",
+    default: "Expedition 33 Wiki - Guides, Builds & Boss Strategies",
     template: "%s | Expedition 33 Wiki",
   },
   description:
-    "Comprehensive game guide for Clair Obscur: Expedition 33. Walkthroughs, character builds, boss strategies, collectibles, and more.",
+    "Complete Clair Obscur: Expedition 33 guide. Best builds for Maelle, Verso & Lune, boss strategies, weapon locations, Pictos tier list and full walkthrough.",
   keywords: [
     "Expedition 33",
     "Clair Obscur",
@@ -28,6 +29,8 @@ export const metadata: Metadata = {
     "walkthrough",
     "boss guide",
     "character builds",
+    "best builds",
+    "Pictos",
   ],
 };
 
@@ -41,17 +44,16 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased min-h-screen flex flex-col`}
       >
-        {/* Navigation placeholder */}
+        {/* Navigation */}
         <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur-sm">
           <nav className="mx-auto flex h-14 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
             <a href="/" className="text-lg font-bold text-accent">
               Expedition 33 Wiki
             </a>
             <div className="flex items-center gap-4 text-sm text-muted-foreground">
-              {/* Nav links will be added in a later task */}
-              <span>Characters</span>
-              <span>Bosses</span>
-              <span>Walkthrough</span>
+              <a href="/guide" className="hover:text-accent transition-colors">Guide</a>
+              <a href="/best-builds" className="hover:text-accent transition-colors">Builds</a>
+              <a href="/boss-guide" className="hover:text-accent transition-colors">Bosses</a>
             </div>
           </nav>
         </header>
@@ -59,15 +61,8 @@ export default function RootLayout({
         {/* Main content */}
         <main className="flex-1">{children}</main>
 
-        {/* Footer placeholder */}
-        <footer className="border-t border-border bg-background py-8">
-          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-            <p className="text-center text-sm text-muted-foreground">
-              Expedition 33 Wiki &mdash; A fan-made guide for Clair Obscur:
-              Expedition 33
-            </p>
-          </div>
-        </footer>
+        {/* Footer */}
+        <Footer />
       </body>
     </html>
   );

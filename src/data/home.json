@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "title": "Expedition 33 Wiki - Guides, Builds & Boss Strategies",
+    "description": "Complete Clair Obscur: Expedition 33 guide. Best builds for Maelle, Verso & Lune, boss strategies, weapon locations, Pictos tier list and full walkthrough."
+  },
+  "officialLinks": {
+    "steam": "https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/",
+    "reddit": "https://www.reddit.com/r/expedition33/"
+  },
+  "hero": {
+    "eyebrow": "The Ultimate Guide",
+    "title": "Clair Obscur: Expedition 33 Wiki",
+    "description": "Your complete guide to builds, boss strategies, weapons, and walkthrough for Expedition 33.",
+    "stats": ["91/100 OpenCritic", "500K+ Copies Sold", "6 Playable Characters", "165 Bosses"],
+    "cta": [
+      { "text": "Beginner Guide", "href": "/guide" },
+      { "text": "Best Builds", "href": "/best-builds" },
+      { "text": "Boss Guide", "href": "/boss-guide" }
+    ]
+  },
+  "start": {
+    "cards": [
+      { "title": "Beginner Guide", "desc": "Essential tips and core mechanics", "href": "/guide", "type": "guide" },
+      { "title": "Best Builds", "desc": "Top builds for all 6 characters", "href": "/best-builds", "type": "builds" },
+      { "title": "Boss Guide", "desc": "Strategies for all 165 bosses", "href": "/boss-guide", "type": "boss" },
+      { "title": "Best Pictos", "desc": "Most powerful Pictos & locations", "href": "/best-pictos", "type": "system" }
+    ]
+  },
+  "aboutGame": {
+    "paragraphs": [
+      "Clair Obscur: Expedition 33 is a turn-based RPG with real-time combat mechanics from Sandfall Interactive. Combine strategic party builds with skill-based dodging and parrying to overcome challenging bosses.",
+      "Six playable characters, each with unique mechanics: Gustave's Charge system, Lune's Elemental Stains, Maelle's Battle Stances, Sciel's Foretell, Verso's Perfection Ranks, and Monoco's Bestial Wheel."
+    ],
+    "stats": [
+      { "label": "Rating", "value": "91/100" },
+      { "label": "Players", "value": "500K+" },
+      { "label": "Characters", "value": "6" },
+      { "label": "Bosses", "value": "165" }
+    ]
+  },
+  "sidebarCodes": ["暂无"],
+  "footer": {
+    "about": "Expedition 33 Wiki is a community-driven guide site.",
+    "links": {
+      "steam": "https://store.steampowered.com/app/1903340/Clair_Obscur_Expedition_33/",
+      "reddit": "https://www.reddit.com/r/expedition33/"
+    }
+  }
+}
