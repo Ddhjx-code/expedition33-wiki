@@ -1,6 +1,12 @@
 import { Metadata } from "next";
 import { getAllSlugs, getPageContent } from "@/lib/content";
 import Sidebar from "@/components/Sidebar";
+import JsonLd, {
+  getArticleSchema,
+  getBreadcrumbSchema,
+} from "@/components/JsonLd";
+
+const BASE_URL = "https://expedition33.wiki";
 
 interface PageProps {
   params: { slug: string };
@@ -19,9 +25,20 @@ export function generateMetadata({ params }: PageProps): Metadata {
       .split("-")
       .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
       .join(" ");
+    const description = `${title} - Expedition 33 Wiki guide page.`;
     return {
       title,
-      description: `${title} - Expedition 33 Wiki guide page.`,
+      description,
+      alternates: {
+        canonical: `${BASE_URL}/${params.slug}`,
+      },
+      openGraph: {
+        title,
+        description,
+        url: `${BASE_URL}/${params.slug}`,
+        siteName: "Expedition 33 Wiki",
+        type: "article",
+      },
     };
   }
 
@@ -29,6 +46,16 @@ export function generateMetadata({ params }: PageProps): Metadata {
     title: content.title,
     description: content.description,
     keywords: [content.keyword, "Expedition 33", "Clair Obscur"],
+    alternates: {
+      canonical: `${BASE_URL}/${params.slug}`,
+    },
+    openGraph: {
+      title: content.title,
+      description: content.description,
+      url: `${BASE_URL}/${params.slug}`,
+      siteName: "Expedition 33 Wiki",
+      type: "article",
+    },
   };
 }
 
@@ -42,57 +69,82 @@ export default function SlugPage({ params }: PageProps) {
       .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
       .join(" ");
 
+    const description = `${title} - Expedition 33 Wiki guide page.`;
+
     return (
-      <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
-        <div className="flex gap-8">
-          <Sidebar sections={[]} />
-          <article className="flex-1 min-w-0">
-            <h1 className="text-3xl font-bold text-foreground mb-4">
-              {title}
-            </h1>
-            <div className="rounded-lg border border-border bg-card p-6">
-              <p className="text-muted-foreground">
-                This guide is coming soon. Check back for comprehensive coverage
-                of {title.toLowerCase()} in Expedition 33.
-              </p>
-            </div>
-          </article>
+      <>
+        <JsonLd
+          data={getArticleSchema({
+            title,
+            description,
+            slug: params.slug,
+          })}
+        />
+        <JsonLd data={getBreadcrumbSchema({ title, slug: params.slug })} />
+        <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+          <div className="flex gap-8">
+            <Sidebar sections={[]} />
+            <article className="flex-1 min-w-0">
+              <h1 className="text-3xl font-bold text-foreground mb-4">
+                {title}
+              </h1>
+              <div className="rounded-lg border border-border bg-card p-6">
+                <p className="text-muted-foreground">
+                  This guide is coming soon. Check back for comprehensive
+                  coverage of {title.toLowerCase()} in Expedition 33.
+                </p>
+              </div>
+            </article>
+          </div>
         </div>
-      </div>
+      </>
     );
   }
 
   return (
-    <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
-      <div className="flex gap-8">
-        <Sidebar sections={content.sections} />
+    <>
+      <JsonLd
+        data={getArticleSchema({
+          title: content.title,
+          description: content.description,
+          slug: params.slug,
+          lastUpdated: content.lastUpdated,
+        })}
+      />
+      <JsonLd
+        data={getBreadcrumbSchema({ title: content.title, slug: params.slug })}
+      />
+      <div className="mx-auto max-w-7xl px-4 py-12 sm:px-6 lg:px-8">
+        <div className="flex gap-8">
+          <Sidebar sections={content.sections} />
 
-        <article className="flex-1 min-w-0">
-          {/* Page header */}
-          <header className="mb-8">
-            <h1 className="text-3xl font-bold text-foreground mb-2">
-              {content.title}
-            </h1>
-            <p className="text-sm text-muted-foreground">
-              Last updated: {content.lastUpdated}
-            </p>
-          </header>
+          <article className="flex-1 min-w-0">
+            {/* Page header */}
+            <header className="mb-8">
+              <h1 className="text-3xl font-bold text-foreground mb-2">
+                {content.title}
+              </h1>
+              <p className="text-sm text-muted-foreground">
+                Last updated: {content.lastUpdated}
+              </p>
+            </header>
 
-          {/* Sections */}
-          <div className="space-y-8">
-            {content.sections.map((section) => (
-              <section key={section.id} id={section.id}>
-                <h2 className="text-xl font-semibold text-foreground mb-3 scroll-mt-20">
-                  {section.title}
-                </h2>
-                <div className="text-muted-foreground leading-relaxed whitespace-pre-line">
-                  {section.content}
-                </div>
-              </section>
-            ))}
-          </div>
-        </article>
+            {/* Sections */}
+            <div className="space-y-8">
+              {content.sections.map((section) => (
+                <section key={section.id} id={section.id}>
+                  <h2 className="text-xl font-semibold text-foreground mb-3 scroll-mt-20">
+                    {section.title}
+                  </h2>
+                  <div className="text-muted-foreground leading-relaxed whitespace-pre-line">
+                    {section.content}
+                  </div>
+                </section>
+              ))}
+            </div>
+          </article>
+        </div>
       </div>
-    </div>
+    </>
   );
 }
