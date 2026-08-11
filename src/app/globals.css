@@ -3,21 +3,57 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Light theme - warm ivory with gold accents */
+  --background: 40 30% 97%;
+  --foreground: 230 30% 15%;
+  --nav-theme: 230 60% 50%;
+  --nav-theme-light: 45 30% 95%;
+  --accent: 35 80% 55%;
+  --accent-hover: 35 80% 45%;
+  --muted: 230 15% 90%;
+  --muted-foreground: 230 10% 45%;
+  --border: 230 15% 85%;
+  --card: 0 0% 100%;
+  --card-foreground: 230 30% 15%;
 }
 
+[data-theme="dark"] {
+  /* Dark theme - deep navy/purple backgrounds */
+  --background: 230 40% 8%;
+  --foreground: 40 20% 92%;
+  --nav-theme: 230 40% 20%;
+  --nav-theme-light: 230 20% 12%;
+  --accent: 35 70% 60%;
+  --accent-hover: 35 70% 70%;
+  --muted: 230 30% 18%;
+  --muted-foreground: 230 15% 65%;
+  --border: 230 25% 22%;
+  --card: 230 35% 12%;
+  --card-foreground: 40 20% 92%;
+}
+
+/* Also support system preference for initial load */
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  :root:not([data-theme="light"]) {
+    --background: 230 40% 8%;
+    --foreground: 40 20% 92%;
+    --nav-theme: 230 40% 20%;
+    --nav-theme-light: 230 20% 12%;
+    --accent: 35 70% 60%;
+    --accent-hover: 35 70% 70%;
+    --muted: 230 30% 18%;
+    --muted-foreground: 230 15% 65%;
+    --border: 230 25% 22%;
+    --card: 230 35% 12%;
+    --card-foreground: 40 20% 92%;
   }
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  color: hsl(var(--foreground));
+  background: hsl(var(--background));
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+  min-height: 100vh;
 }
 
 @layer utilities {
