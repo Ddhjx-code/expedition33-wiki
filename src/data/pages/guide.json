@@ -1,0 +1,23 @@
+{
+  "title": "Expedition 33 Complete Guide",
+  "description": "Full guide for Clair Obscur: Expedition 33 covering combat, exploration, builds, and boss strategies.",
+  "keyword": "expedition 33 guide",
+  "lastUpdated": "2025-06-01",
+  "sections": [
+    {
+      "id": "getting-started",
+      "title": "Getting Started",
+      "content": "Expedition 33 is a turn-based RPG with real-time action elements. You'll lead a party of characters through a dark fantasy world, battling The Paintress and her creations. This guide covers everything you need to know from early game to endgame. Start by mastering the parry system — it's essential for surviving boss encounters. Build your party around synergies between characters like Maelle (tank/DPS), Verso (support/healer), and Lune (ranged DPS)."
+    },
+    {
+      "id": "combat-basics",
+      "title": "Combat Basics",
+      "content": "Combat in Expedition 33 blends turn-based strategy with action timing. Each character has a unique attack pattern that requires precise button presses. Parrying enemy attacks reduces damage and builds your counter gauge. Master the timing window for each enemy type — bosses have distinct visual tells before their attacks. Use the Paint gauge strategically; it charges through successful parries and dealing damage, then unleashes powerful Lumina abilities."
+    },
+    {
+      "id": "exploration-tips",
+      "title": "Exploration Tips",
+      "content": "The world of Expedition 33 is filled with hidden Pictos, weapon caches, and lore fragments. Check behind waterfalls and inside ruined structures for rare equipment. Talk to every NPC — some offer side quests that reward unique Pictos not available elsewhere. The interactive map reveals collectible locations after you discover them in-game. Fast travel unlocks at Act 2 via the Chronos Stones scattered throughout each region."
+    }
+  ]
+}

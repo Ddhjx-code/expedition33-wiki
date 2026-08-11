@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import "./globals.css";
 
@@ -45,18 +46,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased min-h-screen flex flex-col`}
       >
         {/* Navigation */}
-        <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur-sm">
-          <nav className="mx-auto flex h-14 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
-            <a href="/" className="text-lg font-bold text-accent">
-              Expedition 33 Wiki
-            </a>
-            <div className="flex items-center gap-4 text-sm text-muted-foreground">
-              <a href="/guide" className="hover:text-accent transition-colors">Guide</a>
-              <a href="/best-builds" className="hover:text-accent transition-colors">Builds</a>
-              <a href="/boss-guide" className="hover:text-accent transition-colors">Bosses</a>
-            </div>
-          </nav>
-        </header>
+        <Navbar />
 
         {/* Main content */}
         <main className="flex-1">{children}</main>
