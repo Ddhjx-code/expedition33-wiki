@@ -1,0 +1,23 @@
+{
+  "title": "Best Builds in Expedition 33",
+  "description": "Top character builds for Expedition 33. Optimal Pictos, weapons, and skill setups for Maelle, Verso, Lune and more.",
+  "keyword": "expedition 33 best builds",
+  "lastUpdated": "2025-06-01",
+  "sections": [
+    {
+      "id": "build-overview",
+      "title": "Build System Overview",
+      "content": "Builds in Expedition 33 revolve around three pillars: equipped Pictos (passive abilities), weapon choice, and skill point allocation. Each character has a unique skill tree with branching paths. You can respec at any Chronos Stone for a small Paint cost. The meta favors builds that maximize parry windows and counter damage, but pure DPS and support builds are viable for different team compositions."
+    },
+    {
+      "id": "top-builds",
+      "title": "Current Top Builds (Patch 1.2)",
+      "content": "1. Counter-Strike Maelle — Stack parry-damage Pictos with the Obsidian Greatsword for massive counter hits. Best for boss fights.\n2. Tempo Healer Verso — Rhythm-based healing build using the Conductor's Baton. Heals scale with perfect timing chains.\n3. Sniper Lune — Maximum range build with Piercing Shot Pictos. Melts single targets from safety.\n4. Hybrid Gustave — Tank/support with aggro generation and party shields. Essential for harder difficulties."
+    },
+    {
+      "id": "pictos-priority",
+      "title": "Pictos Priority Guide",
+      "content": "When building any character, prioritize Pictos in this order: 1) Core mechanic enhancers (parry window, timing bonus), 2) Damage multipliers (crit rate, elemental damage), 3) Survivability (HP%, damage reduction), 4) Utility (movement speed, Paint generation). Rare Pictos from boss drops are generally stronger than found ones. The Tier List page ranks all Pictos by effectiveness."
+    }
+  ]
+}
