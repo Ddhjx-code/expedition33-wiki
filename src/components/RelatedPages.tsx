@@ -1,0 +1,55 @@
+import Link from "next/link";
+
+interface RelatedPage {
+  slug: string;
+  title: string;
+  description: string;
+}
+
+const ALL_PAGES: RelatedPage[] = [
+  { slug: "guide", title: "Beginner Guide", description: "Core mechanics & tips" },
+  { slug: "best-builds", title: "Best Builds", description: "Top builds for all characters" },
+  { slug: "boss-guide", title: "Boss Guide", description: "Strategies for every boss" },
+  { slug: "best-weapons", title: "Best Weapons", description: "Top weapon picks & locations" },
+  { slug: "best-pictos", title: "Best Pictos", description: "Most powerful Pictos ranked" },
+  { slug: "walkthrough", title: "Walkthrough", description: "Full story walkthrough" },
+  { slug: "how-to-parry", title: "How to Parry", description: "Master the parry system" },
+  { slug: "tier-list", title: "Tier List", description: "Character rankings" },
+  { slug: "endings-explained", title: "Endings Explained", description: "All endings & how to get them" },
+  { slug: "locations", title: "All Locations", description: "Map & area guide" },
+  { slug: "abbest-cave", title: "Abbest Cave", description: "DANGER dungeon walkthrough" },
+  { slug: "chosen-path", title: "Chosen Path", description: "Branching routes & endings" },
+  { slug: "camp-guide", title: "Camp Guide", description: "Upgrades, relationships & Lumina" },
+  { slug: "weapons-tier-list", title: "Weapons Tier List", description: "All weapons ranked" },
+  { slug: "side-quests", title: "Side Quests", description: "Optional quests & rewards" },
+  { slug: "trophy-guide", title: "Trophy Guide", description: "All achievements" },
+];
+
+export default function RelatedPages({ currentSlug }: { currentSlug: string }) {
+  // Show 4 related pages, excluding the current page
+  const related = ALL_PAGES.filter((p) => p.slug !== currentSlug).slice(0, 4);
+
+  return (
+    <nav className="mt-12 border-t border-border pt-8" aria-label="Related guides">
+      <h2 className="text-lg font-semibold text-foreground mb-4">
+        Related Guides
+      </h2>
+      <div className="grid gap-3 sm:grid-cols-2">
+        {related.map((page) => (
+          <Link
+            key={page.slug}
+            href={`/${page.slug}`}
+            className="group rounded-lg border border-border bg-card p-4 transition-all hover:border-accent hover:shadow-sm"
+          >
+            <h3 className="font-medium text-card-foreground group-hover:text-accent transition-colors">
+              {page.title}
+            </h3>
+            <p className="mt-1 text-xs text-muted-foreground">
+              {page.description}
+            </p>
+          </Link>
+        ))}
+      </div>
+    </nav>
+  );
+}

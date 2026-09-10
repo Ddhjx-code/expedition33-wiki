@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import Image from "next/image";
 import { getAllSlugs, getPageContent } from "@/lib/content";
 import Sidebar from "@/components/Sidebar";
+import RelatedPages from "@/components/RelatedPages";
 import JsonLd, {
   getArticleSchema,
   getBreadcrumbSchema,
@@ -182,6 +183,9 @@ export default function SlugPage({ params }: PageProps) {
                 </section>
               ))}
             </div>
+
+            {/* Related Pages */}
+            <RelatedPages currentSlug={params.slug} />
           </article>
         </div>
       </div>

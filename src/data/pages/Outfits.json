@@ -1,0 +1,33 @@
+{
+  "title": "All 97 Outfits - Expedition 33 Costume Guide & Locations",
+  "description": "Complete outfit guide for Clair Obscur: Expedition 33. All 97 unlockable costumes, locations, unlock methods including DLC outfits and swimsuits.",
+  "keyword": "expedition 33 outfits",
+  "lastUpdated": "2026-08-19",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Outfits Overview",
+      "content": "<div style=\"float:right;margin:0 0 16px 16px;text-align:center\"><img src=\"/images/characters/maelle.png\" alt=\"Outfits - Expedition 33\" style=\"width:180px;border-radius:8px;border:1px solid #2a2a35\" /><p style=\"font-size:11px;color:#9898a8;margin-top:4px\"><a href=\"/build-maelle\" style=\"color:var(--accent)\">Maelle</a> - outfit customization</p></div><p>Expedition 33 has <strong>97 unlockable outfits</strong> across all characters. Outfits are purely cosmetic and obtained through side quests, merchants, exploration, relationship levels, and DLC content.</p><h3>Unlock Methods</h3><table><thead><tr><th>Method</th><th>Examples</th><th>Count</th></tr></thead><tbody><tr><td><strong>Side Quests</strong></td><td>NPC quest rewards</td><td>~30</td></tr><tr><td><strong>Merchants</strong></td><td>Purchased from vendors</td><td>~20</td></tr><tr><td><strong>Exploration</strong></td><td>Found in chests/hidden areas</td><td>~25</td></tr><tr><td><strong>Relationships</strong></td><td>Max relationship rewards (e.g., Swimsuits at Level 6)</td><td>~10</td></tr><tr><td><strong>Story/Endings</strong></td><td>Defeating Maelle ending, talking to NPCs</td><td>~5</td></tr><tr><td><strong>DLC</strong></td><td>Chic, Osquio, Visage, Baguette outfits</td><td>~7</td></tr></tbody></table>"
+    },
+    {
+      "id": "dlc-outfits",
+      "title": "DLC Outfits (Patch 1.5+)",
+      "content": "<h3>New DLC Outfits</h3><ul><li><strong>Chic Outfit</strong> — Elegant formal wear for characters</li><li><strong><a href=\"/best-builds\" style=\"color:var(--accent)\">Monoco</a> Baguette Outfit</strong> — Unique Monoco-specific costume</li><li><strong>Esquire Outfit</strong> — Dapper gentleman style</li><li><strong>Osquio Outfit</strong> — Multiple locations across the world</li><li><strong>Visage Outfit</strong> — Mysterious masked appearance</li></ul><p>DLC outfits are found at specific new locations added in patches. Check merchant inventories and new areas after updating.</p>"
+    },
+    {
+      "id": "by-character",
+      "title": "Outfits by Character",
+      "content": "<h3><a href=\"/best-builds\" style=\"color:var(--accent)\">Gustave</a></h3><ul><li>Default, Expedition formal, Arena Champion, Chic, + exploration finds</li></ul><h3><a href=\"/build-lune\" style=\"color:var(--accent)\">Lune</a></h3><ul><li>Default, Ceremonial, Swimsuit I (Relationship Lv6), + quest rewards</li></ul><h3><a href=\"/build-maelle\" style=\"color:var(--accent)\">Maelle</a></h3><ul><li>Default, Arena outfit (from <a href=\"/locations\" style=\"color:var(--accent)\">Gestral Arena</a> — earn Medalum weapon here too), + combat rewards</li><li>Special: Maelle Ending outfit (defeat Clea → talk to Young Boy in Central Plaza)</li></ul><h3><a href=\"/best-builds\" style=\"color:var(--accent)\">Sciel</a></h3><ul><li>Default, Civilian (choose to fight as Maelle at end), Swimsuit I (Relationship Lv6)</li></ul><h3><a href=\"/build-verso\" style=\"color:var(--accent)\">Verso</a></h3><ul><li>Default + multiple unlockable styles through exploration and quests</li></ul><h3><a href=\"/best-builds\" style=\"color:var(--accent)\">Monoco</a></h3><ul><li>Default, Baguette (DLC), + Gestral-themed outfits</li></ul>"
+    },
+    {
+      "id": "swimsuits",
+      "title": "Swimsuit Outfits",
+      "content": "<p>Swimsuits are unlocked by reaching <strong>Relationship Level 6</strong> with specific characters:</p><ul><li><strong><a href=\"/build-lune\" style=\"color:var(--accent)\">Lune</a> Swimsuit I</strong> — Reach Relationship Level 6 with Lune</li><li><strong><a href=\"/best-builds\" style=\"color:var(--accent)\">Sciel</a> Swimsuit I</strong> — Reach Relationship Level 6 with Sciel</li><li>Other characters have similar swimsuit unlocks at high relationship levels</li></ul><p>See our <a href=\"/camp-guide\">Camp Guide</a> for tips on building relationships quickly.</p>"
+    },
+    {
+      "id": "tips",
+      "title": "Tips for Collecting All Outfits",
+      "content": "<ul><li><strong>Talk to every merchant</strong> — Many outfits are simply purchased from vendors</li><li><strong>Complete all side quests</strong> — A large portion of outfits come from quest rewards</li><li><strong>Max relationships</strong> — Level 6 unlocks swimsuits, earlier levels give other outfits</li><li><strong>Explore off the beaten path</strong> — Hidden chests in secret areas contain exclusive outfits</li><li><strong>Check after story milestones</strong> — New outfits become available at vendors after major events</li><li><strong>DLC areas</strong> — Update to latest patch and explore new locations for Chic/Osquio/Visage sets</li><li><strong>Multiple playthroughs</strong> — Some outfits require specific <a href=\"/chosen-path\">Chosen Path</a> routes or endings</li></ul>"
+    }
+  ]
+}

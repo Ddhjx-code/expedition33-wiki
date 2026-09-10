@@ -1,0 +1,28 @@
+{
+  "title": "Jules - Expedition 33 NPC Guide | Richard's Son",
+  "description": "Complete guide to Jules in Clair Obscur: Expedition 33. A young boy from Lumière and Richard's son who dreams of becoming an expeditioner.",
+  "keyword": "jules expedition 33",
+  "lastUpdated": "2026-08-19",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Jules — Character Overview",
+      "content": "<div style=\"float:right;margin:0 0 16px 16px;text-align:center\"><img src=\"/images/hero-official.webp\" alt=\"Jules - Expedition 33\" style=\"width:180px;border-radius:8px;border:1px solid #2a2a35\" /><p style=\"font-size:11px;color:#9898a8;margin-top:4px\">Jules, son of Richard</p></div><p><strong>Jules</strong> is a young boy and NPC in Clair Obscur: Expedition 33. He is Richard's son and lives in <a href=\"/locations\" style=\"color:var(--accent)\">Lumière</a>. Despite his young age, Jules dreams of training to become an expeditioner — a desire that puts him at odds with his father.</p><table><thead><tr><th>Detail</th><th>Info</th></tr></thead><tbody><tr><td><strong>Name</strong></td><td>Jules</td></tr><tr><td><strong>Type</strong></td><td>NPC</td></tr><tr><td><strong>Location</strong></td><td>Lumière</td></tr><tr><td><strong>Family</strong></td><td>Son of Richard</td></tr><tr><td><strong>Dream</strong></td><td>Wants to train as an expeditioner</td></tr></tbody></table>"
+    },
+    {
+      "id": "story",
+      "title": "Story & Background",
+      "content": "<p>The night before his father Richard's Gommage in Monolith Year 33, Jules argues with him about his wish to train and become an expeditioner. This creates an emotional tension — Richard faces the Paintress's ritual while his son wants to follow in the dangerous footsteps of those who fight against it.</p><h3>Key Moments</h3><ul><li><strong>Night before the Gommage</strong> — Argues with Richard about wanting to train</li><li><strong>Richard's departure</strong> — Emotional farewell scene</li><li><strong>Post-story</strong> — Jules's fate depends on the outcome of the expedition</li></ul><h3>Thematic Significance</h3><p>Jules represents the next generation — the children who will inherit the world that Expedition 33 is fighting to save. His desire to become an expeditioner mirrors the hope that the cycle can be broken.</p>"
+    },
+    {
+      "id": "location",
+      "title": "Where to Find Jules",
+      "content": "<p>Jules can be found in <strong><a href=\"/locations\" style=\"color:var(--accent)\">Lumière</a></strong>, primarily in the residential area near Richard's home. He appears in:</p><ul><li>The prologue during pre-Gommage events</li><li>Specific story moments connected to Richard's arc</li><li>Post-game depending on your chosen path</li></ul>"
+    },
+    {
+      "id": "related",
+      "title": "Related Characters & Content",
+      "content": "<ul><li><strong>Richard</strong> — Jules's father, an important NPC</li><li><strong>The Gommage</strong> — The ritual that threatens Richard</li><li><strong><a href=\"/locations\" style=\"color:var(--accent)\">Lumière</a> residents</strong> — Other NPCs in the same area</li></ul><p>See also: <a href=\"/guide\">Beginner Guide</a> | <a href=\"/side-quests\">Side Quests</a></p>"
+    }
+  ]
+}

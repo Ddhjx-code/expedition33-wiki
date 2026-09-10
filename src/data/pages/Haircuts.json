@@ -1,0 +1,38 @@
+{
+  "title": "All 121 Haircuts - Expedition 33 Hairstyle Locations Guide",
+  "description": "Complete haircut guide for Clair Obscur: Expedition 33. All 121 hairstyles with locations, including Lune's 18 styles, Gustave's cuts, and how to unlock them all.",
+  "keyword": "expedition 33 haircuts",
+  "lastUpdated": "2026-08-19",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Haircuts Overview",
+      "content": "<div style=\"float:right;margin:0 0 16px 16px;text-align:center\"><img src=\"/images/characters/lune.png\" alt=\"Haircuts - Expedition 33\" style=\"width:180px;border-radius:8px;border:1px solid #2a2a35\" /><p style=\"font-size:11px;color:#9898a8;margin-top:4px\"><a href=\"/build-lune\" style=\"color:var(--accent)\">Lune</a> - 18 hairstyle options</p></div><p>Expedition 33 has <strong>121 unlockable hairstyles</strong> across all characters. Haircuts are obtained from merchants, boss drops, NPC questlines, and exploration finds. About half are sold by merchants, the rest are found in the world.</p><h3>How to Change Haircuts</h3><ul><li>Visit any <strong>stylist NPC</strong> in towns/hubs</li><li>Access the <strong>customization menu</strong> once haircuts are unlocked</li><li>Haircuts are purely cosmetic — no gameplay effect</li><li>Visible in all cutscenes</li></ul>"
+    },
+    {
+      "id": "lune-haircuts",
+      "title": "Lune — All Hairstyles (18 total)",
+      "content": "<p><a href=\"/build-lune\" style=\"color:var(--accent)\">Lune</a> has the most hairstyles in the game with <strong>18 options</strong>:</p><table><thead><tr><th>Hairstyle</th><th>How to Unlock</th></tr></thead><tbody><tr><td>Default</td><td>Starting style</td></tr><tr><td>Baguette</td><td>Merchant</td></tr><tr><td>Artist</td><td>Merchant / Quest</td></tr><tr><td>Sakapatate</td><td>Exploration find</td></tr><tr><td>Braid</td><td>Merchant</td></tr><tr><td>French Bob</td><td>Merchant</td></tr><tr><td>Short</td><td>Quest reward</td></tr><tr><td>Ponytail</td><td>Merchant</td></tr><tr><td>Messy Bun</td><td>Exploration</td></tr><tr><td>Voluminous</td><td>Merchant</td></tr><tr><td>Half Ponytail</td><td>Quest reward</td></tr><tr><td>Double Braid</td><td>Exploration</td></tr><tr><td>Sirene</td><td>Special unlock</td></tr><tr><td>Bald</td><td>Special unlock</td></tr><tr><td>Clea</td><td>Story-related</td></tr><tr><td>Rebellious White</td><td>Late-game unlock</td></tr><tr><td>Anniversary (DLC)</td><td>Patch content</td></tr><tr><td>+ Additional styles</td><td>Various</td></tr></tbody></table>"
+    },
+    {
+      "id": "gustave-haircuts",
+      "title": "Gustave — All Hairstyles",
+      "content": "<p><a href=\"/best-builds\" style=\"color:var(--accent)\">Gustave</a> has approximately <strong>8-10 hairstyles</strong> available:</p><ul><li>Default</li><li>Short Cropped — Merchant</li><li>Slicked Back — Quest reward</li><li>Messy — Exploration find</li><li>Military — Merchant</li><li>Long — Late-game unlock</li><li>+ Additional DLC/patch styles</li></ul>"
+    },
+    {
+      "id": "other-characters",
+      "title": "Other Characters",
+      "content": "<h3><a href=\"/build-maelle\" style=\"color:var(--accent)\">Maelle</a></h3><ul><li>~10 hairstyles including braids, short cuts, and combat styles</li><li>Some unlock from <a href=\"/locations\" style=\"color:var(--accent)\">Gestral Arena</a> progression</li></ul><h3><a href=\"/best-builds\" style=\"color:var(--accent)\">Sciel</a></h3><ul><li>~10 hairstyles tied to her mystical/ethereal aesthetic</li></ul><h3><a href=\"/build-verso\" style=\"color:var(--accent)\">Verso</a></h3><ul><li>~10 hairstyles including multiple lengths and styles</li><li>Some from Verso-specific side content</li></ul><h3><a href=\"/best-builds\" style=\"color:var(--accent)\">Monoco</a></h3><ul><li>~8 hairstyles fitting his bestial nature</li></ul>"
+    },
+    {
+      "id": "unlock-methods",
+      "title": "Unlock Methods",
+      "content": "<table><thead><tr><th>Method</th><th>% of Total</th><th>Tips</th></tr></thead><tbody><tr><td><strong>Merchants</strong></td><td>~50%</td><td>Check every vendor in every area, inventory changes after story events</td></tr><tr><td><strong>Boss Drops</strong></td><td>~15%</td><td>Some bosses drop unique hairstyles as rare rewards</td></tr><tr><td><strong>NPC Quests</strong></td><td>~15%</td><td>Complete side quest chains for style rewards</td></tr><tr><td><strong>Exploration</strong></td><td>~15%</td><td>Hidden chests off the beaten path</td></tr><tr><td><strong>DLC/Patches</strong></td><td>~5%</td><td>Anniversary and seasonal styles added in updates</td></tr></tbody></table>"
+    },
+    {
+      "id": "tips",
+      "title": "Tips for Collecting All Haircuts",
+      "content": "<ul><li><strong>Check merchants after every major story beat</strong> — New stock appears regularly</li><li><strong>Some haircuts are missable</strong> — If you progress past certain areas, you may lose access to specific merchants</li><li><strong>Boss drops are rare</strong> — You may need to retry specific fights for haircut drops</li><li><strong>DLC/Patch content</strong> — Update to the latest version for anniversary and seasonal haircuts</li><li><strong>121 total requires multiple playthroughs</strong> — Some are locked behind specific <a href=\"/chosen-path\">Chosen Path</a> routes</li></ul><p>See also: <a href=\"/Outfits\">All <a href=\"/Outfits\" style=\"color:var(--accent)\">Outfits</a></a> | <a href=\"/trophy-guide\">Trophy Guide</a></p>"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": "Lucie - Expedition 33 Character Guide | Ex-Expeditioner",
+  "description": "Complete guide to Lucie in Clair Obscur: Expedition 33. A former expeditioner who chose to stay in Lumière, with connections to Gustave and Seba.",
+  "keyword": "lucie expedition 33",
+  "lastUpdated": "2026-08-19",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Lucie — Character Overview",
+      "content": "<div style=\"float:right;margin:0 0 16px 16px;text-align:center\"><img src=\"/images/hero-official.webp\" alt=\"Lucie - Expedition 33\" style=\"width:180px;border-radius:8px;border:1px solid #2a2a35\" /><p style=\"font-size:11px;color:#9898a8;margin-top:4px\">Lucie, ex-expeditioner</p></div><p><strong>Lucie</strong> is an NPC in Clair Obscur: Expedition 33. She initially trained as an expeditioner with the intention of joining Expedition 33, but ultimately decided to remain in <a href=\"/locations\" style=\"color:var(--accent)\">Lumière</a> for her final year. Her spot on the expedition was filled by Seba.</p><table><thead><tr><th>Detail</th><th>Info</th></tr></thead><tbody><tr><td><strong>Name</strong></td><td>Lucie</td></tr><tr><td><strong>Type</strong></td><td>NPC — Ex-Expeditioner</td></tr><tr><td><strong>Location</strong></td><td>Lumière</td></tr><tr><td><strong>Role</strong></td><td>Former expedition trainee</td></tr><tr><td><strong>Replaced by</strong></td><td>Seba</td></tr><tr><td><strong>Connection</strong></td><td><a href=\"/best-builds\" style=\"color:var(--accent)\">Gustave</a></td></tr></tbody></table>"
+    },
+    {
+      "id": "story",
+      "title": "Story & Background",
+      "content": "<p>Lucie trained alongside the members of Expedition 33 and was expected to join them. However, she made the difficult decision to stay in <a href=\"/locations\" style=\"color:var(--accent)\">Lumière</a> rather than venture into the dangerous expedition. Her spot was taken by Seba.</p><h3>Key Facts</h3><ul><li>Trained as an expeditioner — has combat knowledge and expedition experience</li><li>Chose to remain in Lumière for her \"final year\" — implying she accepted the Gommage rather than fight</li><li>Has an interesting conversation with <a href=\"/best-builds\" style=\"color:var(--accent)\">Gustave</a> that reveals her reasons for staying</li><li>Her decision represents the counterpoint to the expedition — choosing to accept fate rather than fight it</li></ul><h3>Conversation with Gustave</h3><p>Lucie has a notable dialogue exchange with Gustave that explores why she decided to stay. This conversation adds depth to Gustave's character and his motivation to fight against the Paintress.</p>"
+    },
+    {
+      "id": "thematic-role",
+      "title": "Thematic Significance",
+      "content": "<p>Lucie serves as an important thematic contrast in the story:</p><ul><li><strong>Acceptance vs. Resistance</strong> — While the expedition fights against fate, Lucie chose to accept it</li><li><strong>The cost of fighting</strong> — Her decision highlights that choosing to fight isn't the only valid choice</li><li><strong><a href=\"/best-builds\" style=\"color:var(--accent)\">Gustave</a>'s drive</strong> — Her conversation with Gustave reinforces why he chose to go</li><li><strong>Seba's position</strong> — Her leaving created the opening for Seba, affecting the party composition</li></ul>"
+    },
+    {
+      "id": "location",
+      "title": "Where to Find Lucie",
+      "content": "<p>Lucie is found in <strong><a href=\"/locations\" style=\"color:var(--accent)\">Lumière</a></strong>. She can be spoken to at various points:</p><ul><li>Before the expedition departs</li><li>During returns to Lumière (if applicable)</li><li>Her dialogue may change based on story progression</li></ul><p>See also: <a href=\"/guide\">Beginner Guide</a> | <a href=\"/chosen-path\">Chosen Path</a></p>"
+    }
+  ]
+}
