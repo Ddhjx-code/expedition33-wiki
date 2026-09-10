@@ -44,6 +44,17 @@ const ALL_SLUGS = [
   "walkthrough-act-1",
   "weapons-tier-list",
   "interactive-map",
+  "locations",
+  "abbest-cave",
+  "chosen-path",
+  "camp-guide",
+  "characters",
+  "Enemies",
+  "Eloise",
+  "Jules",
+  "Lucie",
+  "Outfits",
+  "Haircuts",
 ];
 
 /**

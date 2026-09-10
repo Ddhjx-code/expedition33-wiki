@@ -1,0 +1,33 @@
+{
+  "title": "Camp Guide - Expedition 33 Camping System & Features",
+  "description": "Complete camping guide for Clair Obscur: Expedition 33. Learn how to camp, upgrade weapons, build relationships, allocate Lumina Points, and use the Curator.",
+  "keyword": "camp expedition 33",
+  "lastUpdated": "2026-08-19",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Camping Overview",
+      "content": "<p><strong>Camping</strong> is Expedition 33's hub system where you upgrade gear, build character relationships, and prepare for the next phase of your journey. Press <strong>D-Down on the world map</strong> to set up camp at any time outside of combat.</p><h3>What You Can Do at Camp</h3><ul><li>Talk to party members (build relationships)</li><li>Upgrade weapons and consumables at the Curator</li><li>Allocate Lumina Points</li><li>Change party formation</li><li>Review collected <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a></li><li>Access side activities</li></ul>"
+    },
+    {
+      "id": "curator",
+      "title": "The Curator — Weapon & Item Upgrades",
+      "content": "<p>The <strong>Curator</strong> is your upgrade specialist at camp. They handle:</p><h3>Weapon Upgrades</h3><table><thead><tr><th>Service</th><th>Cost</th><th>Effect</th></tr></thead><tbody><tr><td>Weapon Rank Up</td><td><a href=\"/best-weapons\" style=\"color:var(--accent)\">Chroma Catalysts</a></td><td>Increase weapon rank (D → C → B → A → S)</td></tr><tr><td>Consumable Upgrade</td><td>Materials</td><td>Improve healing item effectiveness</td></tr></tbody></table><h3>Tips</h3><ul><li>Prioritize upgrading your main DPS character's weapon first</li><li><a href=\"/best-weapons\" style=\"color:var(--accent)\">Chroma Catalyst</a>s are found in chests, <a href=\"/locations\" style=\"color:var(--accent)\">Paint Cages</a>, and as boss drops</li><li>Higher rank weapons gain improved scaling and sometimes new move properties</li><li>You can upgrade any party member's weapon regardless of who's in your active party</li></ul>"
+    },
+    {
+      "id": "relationships",
+      "title": "Relationship System",
+      "content": "<p>Speaking with party members at camp increases your <strong>relationship level</strong> with them. This is one of the most important camp activities.</p><h3>Relationship Levels</h3><table><thead><tr><th>Level</th><th>Unlock</th></tr></thead><tbody><tr><td>Level 1</td><td>Basic conversations, learn backstory</td></tr><tr><td>Level 2</td><td>Personal side quests become available</td></tr><tr><td>Level 3</td><td><strong>Unique <a href=\"/guide\" style=\"color:var(--accent)\">Gradient Attack</a> unlocked</strong></td></tr></tbody></table><h3>How to Build Relationships</h3><ul><li>Talk to each party member at camp after major story events</li><li>New dialogue options appear after bosses, chapter transitions, and side quests</li><li>Some responses give more relationship points than others</li><li>Include the character in your active party for bonus relationship events</li></ul><p><strong>Important:</strong> Reaching Level 3 with a character unlocks their unique Gradient Attack — these are among the strongest abilities in the game. Prioritize your main party members.</p>"
+    },
+    {
+      "id": "lumina-points",
+      "title": "Lumina Point Allocation",
+      "content": "<p><strong>Lumina Points</strong> are earned on level-up and allow you to equip unlocked <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a> effects to any character.</p><h3>How Lumina Works</h3><ol><li>Equip a Pictos and win 4 battles with it equipped</li><li>The Pictos' Lumina effect permanently unlocks</li><li>At camp, spend Lumina Points to assign that effect to any character</li><li>Characters can stack multiple Lumina effects</li></ol><h3>Tips</h3><ul><li><strong>Don't forget to allocate!</strong> Many players earn Lumina Points and never spend them.</li><li>Stack complementary effects (e.g., AP generation + crit damage)</li><li>Spread utility effects (healing, defense) across your whole party</li><li>The Lumina menu is in the Camp pause menu — check it every few levels</li></ul>"
+    },
+    {
+      "id": "when-to-camp",
+      "title": "When to Camp vs. Rest at Flags",
+      "content": "<h3>Camp (D-Down)</h3><ul><li>Does NOT respawn enemies</li><li>Full access to Curator, relationships, Lumina</li><li>Available anywhere on the world map</li><li>Does NOT heal your party</li></ul><h3>Expedition Flags (Rest Points)</h3><ul><li><strong>Heals your party fully</strong></li><li><strong>Respawns all enemies in the area</strong></li><li>Limited to specific locations</li><li>Good for farming XP, bad if you just want to heal</li></ul><h3>Chroma Elixirs (Best of Both)</h3><ul><li>Fully heals party without respawning enemies</li><li>Replenished at every rest point</li><li>Use these freely — they're designed to be consumed often</li></ul><p><strong>Pro tip:</strong> Use Chroma Elixirs for healing, Camp for upgrades/relationships, and Expedition Flags only when you want enemies back (for farming).</p>"
+    }
+  ]
+}

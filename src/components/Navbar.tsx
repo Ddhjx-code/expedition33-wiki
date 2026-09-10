@@ -6,9 +6,10 @@ import Link from "next/link";
 
 const NAV_ITEMS = [
   { label: "Guide", href: "/guide" },
-  { label: "Builds", href: "/best-builds" },
+  { label: "Characters", href: "/characters" },
   { label: "Combat", href: "/boss-guide" },
   { label: "Equipment", href: "/best-weapons" },
+  { label: "Locations", href: "/locations" },
   { label: "Story", href: "/walkthrough" },
 ];
 

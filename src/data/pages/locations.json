@@ -1,0 +1,34 @@
+{
+  "slug": "locations",
+  "title": "All Locations - Expedition 33 Map & Area Guide",
+  "description": "Complete list of all locations in Clair Obscur: Expedition 33. Explore every area, dungeon, and secret location on the Continent with our comprehensive guide.",
+  "keyword": "expedition 33 locations",
+  "lastUpdated": "2026-08-17",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "The Continent - World Overview",
+      "content": "<p>Clair Obscur: Expedition 33 takes place on a vast, painterly Continent filled with diverse environments — from coastal villages to volcanic caverns, mystical forests to ancient ruins. Each area contains unique enemies, <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a>, weapons, and secrets.</p><p>This guide covers every major location, organized by region and progression order.</p>"
+    },
+    {
+      "id": "starting-areas",
+      "title": "Starting Areas (Act 1)",
+      "content": "<table><thead><tr><th>Location</th><th>Level Range</th><th>Key Items</th><th>Notes</th></tr></thead><tbody><tr><td><strong>Festival Shore</strong></td><td>1-5</td><td>Festival Tokens, early <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a></td><td>Tutorial area, mime fight</td></tr><tr><td><strong>Flying Waters</strong></td><td>5-10</td><td><a href=\"/build-maelle\" style=\"color:var(--accent)\">Maelle</a> joins party</td><td>First major dungeon</td></tr><tr><td><strong>The Fountain</strong></td><td>8-12</td><td>Rest point, <a href=\"/camp-guide\" style=\"color:var(--accent)\">Curator</a> access</td><td>Hub area for Act 1</td></tr><tr><td><strong>Bloodied Beach</strong></td><td>10-15</td><td>Coastal weapons, shells</td><td>Optional but rewarding</td></tr></tbody></table>"
+    },
+    {
+      "id": "mid-game-areas",
+      "title": "Mid-Game Areas (Act 2)",
+      "content": "<table><thead><tr><th>Location</th><th>Level Range</th><th>Key Items</th><th>Notes</th></tr></thead><tbody><tr><td><strong>Gestral Village</strong></td><td>15-20</td><td><a href=\"/best-builds\" style=\"color:var(--accent)\">Sciel</a> joins, Gestral Arena</td><td>Important hub</td></tr><tr><td><strong>Painted Peaks</strong></td><td>18-22</td><td>Paint Spike removal unlocked</td><td>Collect 5 Gestrals here</td></tr><tr><td><strong><a href=\"/abbest-cave\">Abbest Cave</a></strong></td><td>25+</td><td>Crystal Ward <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a>, weapons</td><td>DANGER area, high rewards</td></tr><tr><td><strong>The Manor</strong></td><td>20-25</td><td>Story progression</td><td>Key boss encounter</td></tr><tr><td><strong>Bottom of the Monolith</strong></td><td>22-28</td><td>Rare Pictos</td><td>Requires <a href=\"/best-builds\" style=\"color:var(--accent)\">Esquie</a> dive ability</td></tr></tbody></table>"
+    },
+    {
+      "id": "late-game-areas",
+      "title": "Late-Game Areas (Act 3+)",
+      "content": "<table><thead><tr><th>Location</th><th>Level Range</th><th>Key Items</th><th>Notes</th></tr></thead><tbody><tr><td><strong>Chromatic Peaks</strong></td><td>30-35</td><td>Endgame weapons</td><td>Requires <a href=\"/best-builds\" style=\"color:var(--accent)\">Esquie</a> flight</td></tr><tr><td><strong>The Endless Tower</strong></td><td>35+</td><td>Best <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a>, challenge bosses</td><td>Post-game content</td></tr><tr><td><strong>Painted Depths</strong></td><td>35+</td><td>Painted Power Pictos</td><td>Removes damage cap</td></tr></tbody></table>"
+    },
+    {
+      "id": "exploration-tips",
+      "title": "General Exploration Tips",
+      "content": "<ul><li><strong>Follow lit lamps</strong> — they always mark the critical path. Unlit paths lead to optional areas with bonus loot.</li><li><strong>DANGER zones</strong> — Come back later when leveled up, or bring your strongest party.</li><li><strong><a href=\"/best-builds\" style=\"color:var(--accent)\">Esquie</a> abilities</strong> — Swim, dive, climb, and eventually fly. Many areas require specific traversal unlocks.</li><li><strong>White Nevrons</strong> — Friendly NPCs in many locations. Bring them requested items (usually found nearby) for rewards.</li><li><strong>Paint Cages</strong> — Find and shoot 3 red marks to open loot containers.</li><li><strong>Camp often</strong> — Press D-Down to camp, upgrade gear, and build relationships.</li></ul>"
+    }
+  ]
+}

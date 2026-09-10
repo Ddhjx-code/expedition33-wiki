@@ -1,0 +1,33 @@
+{
+  "title": "Eloise - Expedition 33 Character Guide & Lore",
+  "description": "Complete guide to Eloise in Clair Obscur: Expedition 33. Her role in the story, connection to the Writers, the Carousel theory, and her relationship with Sophie.",
+  "keyword": "eloise expedition 33",
+  "lastUpdated": "2026-08-19",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Eloise — Character Overview",
+      "content": "<div style=\"float:right;margin:0 0 16px 16px;text-align:center\"><img src=\"/images/hero-official.webp\" alt=\"Eloise - Expedition 33\" style=\"width:180px;border-radius:8px;border:1px solid #2a2a35\" /><p style=\"font-size:11px;color:#9898a8;margin-top:4px\"><a href=\"/locations\" style=\"color:var(--accent)\">Lumière</a>, Year 33</p></div><p><strong>Eloise</strong> is a young woman from Lumière who plays a mysterious and significant role in Clair Obscur: Expedition 33. She is encountered early in the game on the way to the Harbour on the day of the Year 33 Gommage, speaking with Sophie.</p><table><thead><tr><th>Detail</th><th>Info</th></tr></thead><tbody><tr><td><strong>Name</strong></td><td>Eloise</td></tr><tr><td><strong>Location</strong></td><td>Lumière (Harbour path)</td></tr><tr><td><strong>Type</strong></td><td>NPC — Story Character</td></tr><tr><td><strong>First Appears</strong></td><td>Prologue</td></tr><tr><td><strong>Connected To</strong></td><td>Sophie, The Writers, The Carousel</td></tr></tbody></table>"
+    },
+    {
+      "id": "story-role",
+      "title": "Story Role & Significance",
+      "content": "<p>Eloise is first encountered in the prologue speaking with Sophie near the Harbour. While she appears briefly, her role in the larger narrative is far more significant than it first seems.</p><h3>Key Story Points</h3><ul><li>Encountered on the way to the Harbour during the Year 33 Gommage</li><li>Speaks with Sophie in a conversation that foreshadows later events</li><li>Connected to the deeper mystery of the Paintress and the cyclical nature of the world</li><li>Her appearance in the prologue takes on new meaning after completing the game</li></ul><h3>Connection to the Writers</h3><p>Community theories strongly suggest Eloise is connected to the Writers — the mysterious figures who influence the fate of the world. Evidence points to her being linked to the fire and the broader timeline of events that drive the story.</p>"
+    },
+    {
+      "id": "carousel-theory",
+      "title": "The Carousel Theory",
+      "content": "<p>One of the most discussed fan theories involves Eloise and the Carousel — a recurring motif in Expedition 33.</p><h3>Theory Summary</h3><ul><li>Eloise appears connected to the Writers and the cyclical nature of the world</li><li>The timeline suggests a connection to the fire event</li><li>Some players theorize that \"Clara is Eloise\" — connecting her to another character with a deal made with the Man in Yellow</li><li>Her brief appearance in the prologue may be the game's way of introducing a character whose full significance spans across potential sequels</li></ul><p><strong>Note:</strong> These are community theories based on in-game evidence. The full truth may be revealed in future content or sequels.</p>"
+    },
+    {
+      "id": "relationships",
+      "title": "Relationships",
+      "content": "<ul><li><strong>Sophie</strong> — Seen speaking with Sophie at the Harbour. Their conversation hints at shared knowledge or concern about upcoming events.</li><li><strong>The Man in Yellow</strong> — Theorized connection through the Clara/Eloise theory.</li><li><strong>The Writers</strong> — Community evidence points to a deep connection with this mysterious group.</li><li><strong><a href=\"/best-builds\" style=\"color:var(--accent)\">Sciel</a></strong> — Some players note thematic parallels between Eloise's connections and Sciel's abilities related to fate and foresight.</li></ul>"
+    },
+    {
+      "id": "tips",
+      "title": "Tips for Players",
+      "content": "<ul><li><strong>Pay attention to the prologue conversation</strong> — Eloise's dialogue with Sophie contains hints that become meaningful after completing the story.</li><li><strong>Replay value</strong> — After finishing the game, revisit the prologue scenes for new context.</li><li><strong>Connected content</strong> — Keep an eye on the Carousel, the Writers, and any references to fire throughout the game.</li></ul><p>See also: <a href=\"/chosen-path\">Chosen Path Guide</a> | <a href=\"/endings-explained\">Endings Explained</a></p>"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Chosen Path Guide - Expedition 33 Branching Routes & Endings",
+  "description": "Complete guide to the Chosen Path system in Clair Obscur: Expedition 33. Understand branching decisions, path-specific rewards, and how your choices affect the ending.",
+  "keyword": "chosen path expedition 33",
+  "lastUpdated": "2026-08-19",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "What is the Chosen Path?",
+      "content": "<p>The <strong>Chosen Path</strong> system in Expedition 33 is the game's branching narrative mechanic. At critical story moments, you make decisions that lock your playthrough into specific story routes, affecting available content, character outcomes, and which ending you receive.</p><h3>Key Facts</h3><ul><li>Multiple branching paths exist throughout Acts 2 and 3</li><li>Once locked into a path, you cannot change it without reloading a save</li><li>Different paths unlock exclusive weapons, <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a>, and story content</li><li>Your path directly determines which ending you get</li><li>A full playthrough only sees one path — replay for others</li></ul>"
+    },
+    {
+      "id": "how-it-works",
+      "title": "How the System Works",
+      "content": "<p>The Chosen Path system activates at specific decision points throughout the story. These are clearly marked moments where you must choose between two or more options.</p><h3>Decision Point Structure</h3><ol><li><strong>Setup</strong> — Story builds to a critical moment with conflicting character goals</li><li><strong>Choice</strong> — The game presents clear options (usually 2-3 paths)</li><li><strong>Lock-in</strong> — After choosing, the game auto-saves and the path is set</li><li><strong>Consequences</strong> — Different story scenes, boss encounters, and rewards follow</li></ol><h3>Save Strategy</h3><p><strong>Critical tip:</strong> Create a manual save before every major story moment (you'll feel them coming — cutscenes get longer, music shifts). This lets you reload and explore different paths without replaying the entire game.</p>"
+    },
+    {
+      "id": "decision-points",
+      "title": "Major Decision Points",
+      "content": "<h3>Act 1 Decisions</h3><p>Act 1 decisions are mostly minor and affect relationship levels rather than path locks. Focus on building relationships with your preferred party members.</p><h3>Act 2 — First Major Branch</h3><ul><li><strong>Location:</strong> After the events at the <a href=\"/locations\" style=\"color:var(--accent)\">Gestral Village</a></li><li><strong>Choice:</strong> Which faction/character to support in the escalating conflict</li><li><strong>Impact:</strong> Determines which characters join your later expeditions and which areas become available</li></ul><h3>Act 3 — Final Path Lock</h3><ul><li><strong>Location:</strong> Before the final chapter begins</li><li><strong>Choice:</strong> Based on accumulated decisions and relationship levels</li><li><strong>Impact:</strong> Directly determines your ending</li></ul><p><em>Detailed decision trees and exact triggers will be documented as the community maps all branches.</em></p>"
+    },
+    {
+      "id": "path-rewards",
+      "title": "Path-Specific Rewards",
+      "content": "<p>Each path offers exclusive content not available on other routes:</p><table><thead><tr><th>Reward Type</th><th>Examples</th><th>Notes</th></tr></thead><tbody><tr><td><strong>Exclusive Weapons</strong></td><td>Path-specific S-rank weapons</td><td>Cannot be obtained on other paths</td></tr><tr><td><strong>Exclusive <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a></strong></td><td>Path-locked Lumina effects</td><td>Unique passive abilities</td></tr><tr><td><strong>Story Content</strong></td><td>Character backstory scenes</td><td>Reveals different lore</td></tr><tr><td><strong>Boss Encounters</strong></td><td>Path-exclusive bosses</td><td>Some bosses only appear on certain paths</td></tr></tbody></table><p>For completionists: you'll need at least 2-3 playthroughs to see all path content.</p>"
+    },
+    {
+      "id": "endings-connection",
+      "title": "Connection to Endings",
+      "content": "<p>Your Chosen Path directly feeds into which ending you receive. See our <a href=\"/endings-explained\">Endings Explained</a> guide for full details on all endings and their requirements.</p><h3>General Rules</h3><ul><li>Path choice is the <strong>primary</strong> factor in ending determination</li><li>Relationship levels are the <strong>secondary</strong> factor</li><li>Some endings require specific path + maximum relationship with a character</li><li>There is at least one \"true\" ending that requires specific conditions across the entire game</li></ul>"
+    },
+    {
+      "id": "tips",
+      "title": "Tips & Recommendations",
+      "content": "<ul><li><strong>First playthrough:</strong> Play blind and make natural choices. The game is designed to be enjoyed without optimization.</li><li><strong>Save often:</strong> Keep 3-4 rotating manual saves, especially before any cutscene-heavy section.</li><li><strong>Talk to everyone:</strong> NPC dialogue often hints at upcoming decisions and their consequences.</li><li><strong>Relationship matters:</strong> Camp conversations build relationships that can unlock additional path options.</li><li><strong>No wrong choice:</strong> Every path has interesting content. Don't stress about \"missing\" things — that's what New Game+ is for.</li></ul>"
+    }
+  ]
+}

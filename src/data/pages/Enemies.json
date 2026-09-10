@@ -1,0 +1,33 @@
+{
+  "title": "All Enemies & Nevrons - Expedition 33 Bestiary",
+  "description": "Complete enemy list for Clair Obscur: Expedition 33. All Nevron types, bosses, weaknesses, and locations in the full bestiary guide.",
+  "keyword": "expedition 33 enemies",
+  "lastUpdated": "2026-08-19",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Enemy Overview",
+      "content": "<div style=\"float:right;margin:0 0 16px 16px;text-align:center\"><img src=\"/images/hero-official.webp\" alt=\"Enemies - Expedition 33\" style=\"width:180px;border-radius:8px;border:1px solid #2a2a35\" /><p style=\"font-size:11px;color:#9898a8;margin-top:4px\">Nevrons of the Continent</p></div><p>Expedition 33 features close to <strong>50 different Nevron types</strong> throughout the world, plus numerous boss encounters. Each Nevron has unique weaknesses, attack patterns, and drops.</p><h3>Enemy Categories</h3><table><thead><tr><th>Category</th><th>Description</th></tr></thead><tbody><tr><td><strong>Nevrons</strong></td><td>Standard enemies found throughout the Continent (~50 types)</td></tr><tr><td><strong>Optional Bosses</strong></td><td>Chromatic Nevrons and special encounters</td></tr><tr><td><strong>Story Bosses</strong></td><td>Mandatory boss fights progressing the story</td></tr><tr><td><strong>Petanks</strong></td><td>Special chase enemies with puzzle mechanics</td></tr></tbody></table>"
+    },
+    {
+      "id": "enemy-list",
+      "title": "Complete Enemy List (A-Z)",
+      "content": "<p>All confirmed enemies in Expedition 33:</p><table><thead><tr><th>Enemy</th><th>Type</th><th>Area</th></tr></thead><tbody><tr><td><strong>Abbest</strong></td><td>Nevron</td><td><a href=\"/abbest-cave\" style=\"color:var(--accent)\">Abbest Cave</a> / Mid-game</td></tr><tr><td><strong>Aberration</strong></td><td>Nevron</td><td>Late-game areas</td></tr><tr><td><strong>Ballet</strong></td><td>Nevron</td><td>Various</td></tr><tr><td><strong>Barbasucette</strong></td><td>Nevron (Patch 1.5.0)</td><td>New area</td></tr><tr><td><strong>Benisseur</strong></td><td>Nevron</td><td>Mid-game</td></tr><tr><td><strong>Boucheclier</strong></td><td>Nevron (Shielded)</td><td>Various</td></tr><tr><td><strong>Braseleur</strong></td><td>Nevron</td><td>Various</td></tr><tr><td><strong>Bruler</strong></td><td>Nevron (Fire)</td><td><a href=\"/locations\" style=\"color:var(--accent)\">Flying Waters</a></td></tr><tr><td><strong>Chevaliere</strong></td><td>Nevron (Armored)</td><td>Mid-game</td></tr><tr><td><strong>Chorale</strong></td><td>Nevron</td><td>Various</td></tr><tr><td><strong>Clair</strong></td><td>Nevron</td><td>Various</td></tr><tr><td><strong>Cruler</strong></td><td>Nevron</td><td>Flying Waters</td></tr><tr><td><strong>Démineur</strong></td><td>Nevron</td><td>Flying Waters</td></tr><tr><td><strong>Echassier</strong></td><td>Nevron</td><td>Mid-game</td></tr><tr><td><strong>Gault</strong></td><td>Nevron</td><td>Various</td></tr><tr><td><strong>Jar</strong></td><td>Nevron</td><td>Various</td></tr><tr><td><strong>Lancelier</strong></td><td>Nevron</td><td>Mid-game</td></tr><tr><td><strong>Luster</strong></td><td>Nevron</td><td>Flying Waters</td></tr><tr><td><strong>Mime</strong></td><td>Optional Boss</td><td>Festival Shore</td></tr><tr><td><strong>Orphelin</strong></td><td>Nevron</td><td>Late-game</td></tr><tr><td><strong>Pelerin</strong></td><td>Nevron</td><td>Various</td></tr><tr><td><strong>Reaper Cultist</strong></td><td>Nevron</td><td>Late-game</td></tr><tr><td><strong>Robust Sakapatate</strong></td><td>Nevron (Elite)</td><td>Various</td></tr></tbody></table><p><em>This is a partial list. Full bestiary with weaknesses and drops for all ~50 enemy types is being compiled.</em></p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Boss Encounters",
+      "content": "<h3>Optional Bosses (by area)</h3><ul><li><strong><a href=\"/locations\" style=\"color:var(--accent)\">Flying Waters</a>:</strong> Bourgeon, Chromatic Troubadour, Goblu, Mime</li><li><strong>Mid-game areas:</strong> Chromatic Nevrons (various)</li><li><strong>Late-game:</strong> <a href=\"/locations\" style=\"color:var(--accent)\">Endless Tower</a> bosses</li></ul><h3>Story Bosses</h3><p>See our full <a href=\"/boss-guide\">Boss Guide</a> for complete strategies and recommended parties for all mandatory boss encounters.</p>"
+    },
+    {
+      "id": "combat-tips",
+      "title": "Combat Tips Against Enemies",
+      "content": "<h3>Weaknesses System</h3><p>Each enemy has elemental weaknesses. Use <a href=\"/build-lune\" style=\"color:var(--accent)\">Lune</a>'s Elemental Stains to exploit them for massive bonus damage. Check the enemy info panel (visible during combat) for weakness indicators.</p><h3>Shield Breaking</h3><ul><li><strong>Boucheclier</strong> and other shielded enemies require shield removal first</li><li>Gun bullets remove 1 shield each</li><li>Burn status removes 1 shield per turn</li><li>Multi-hit skills (<a href=\"/best-builds\" style=\"color:var(--accent)\">Gustave</a>'s Lumiere Assault) excel at shield breaking</li></ul><h3>General Strategies</h3><ul><li>Always parry — +1 AP and counter damage make every fight easier</li><li>Chromatic Nevrons are tough but drop rare <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a> and weapons</li><li>Petanks require chasing to their ground symbol before fighting</li><li>Farm at <a href=\"/camp-guide\" style=\"color:var(--accent)\">Expedition Flags</a> (resting respawns enemies)</li></ul>"
+    },
+    {
+      "id": "farming",
+      "title": "Best Farming Spots",
+      "content": "<ul><li><strong>Early game:</strong> Festival Shore (Mimes drop tokens)</li><li><strong>Mid game:</strong> <a href=\"/locations\" style=\"color:var(--accent)\">Gestral Village</a> area (good XP density)</li><li><strong>Late game:</strong> <a href=\"/locations\" style=\"color:var(--accent)\">Endless Tower</a> (best drops, hardest enemies)</li><li><strong>Chromatic Nevrons:</strong> Scattered across the world — always worth fighting for rare rewards</li></ul><p>See also: <a href=\"/locations\">All Locations</a> | <a href=\"/best-weapons\">Best Weapons</a></p>"
+    }
+  ]
+}
