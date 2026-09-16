@@ -1,3 +1,4 @@
+import Link from "next/link";
 import homeData from "@/data/home.json";
 
 export default function Footer() {
@@ -6,7 +7,7 @@ export default function Footer() {
   return (
     <footer className="border-t border-border bg-card py-12">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
           {/* About */}
           <div>
             <h3 className="text-sm font-semibold uppercase tracking-wider text-foreground">
@@ -42,6 +43,39 @@ export default function Footer() {
                 >
                   r/expedition33
                 </a>
+              </li>
+            </ul>
+          </div>
+
+          {/* Site */}
+          <div>
+            <h3 className="text-sm font-semibold uppercase tracking-wider text-foreground">
+              Site
+            </h3>
+            <ul className="mt-2 space-y-2 text-sm">
+              <li>
+                <Link
+                  href="/about"
+                  className="text-muted-foreground hover:text-accent transition-colors"
+                >
+                  About Us
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/privacy-policy"
+                  className="text-muted-foreground hover:text-accent transition-colors"
+                >
+                  Privacy Policy
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/contact"
+                  className="text-muted-foreground hover:text-accent transition-colors"
+                >
+                  Contact
+                </Link>
               </li>
             </ul>
           </div>

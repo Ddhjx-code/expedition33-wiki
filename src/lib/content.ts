@@ -55,6 +55,9 @@ const ALL_SLUGS = [
   "Lucie",
   "Outfits",
   "Haircuts",
+  "about",
+  "privacy-policy",
+  "contact",
 ];
 
 /**
