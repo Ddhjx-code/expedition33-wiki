@@ -1,0 +1,33 @@
+{
+  "title": "About Expedition 33 Wiki",
+  "description": "About Expedition 33 Wiki - an independent, fan-run guide covering builds, bosses, walkthrough, Pictos and weapons for Clair Obscur: Expedition 33.",
+  "keyword": "about expedition 33 wiki",
+  "lastUpdated": "2026-09-14",
+  "sections": [
+    {
+      "id": "what-we-are",
+      "title": "What Is Expedition 33 Wiki?",
+      "content": "<p><strong>Expedition 33 Wiki</strong> is an independent, fan-run guide site dedicated to <em>Clair Obscur: Expedition 33</em>. We publish practical, tested guides to help players get through the game — from character builds and boss strategies to full walkthroughs and collectible locations.</p><p>Our goal is simple: give players clear answers without fluff, ads disguised as content, or endless video intros.</p>"
+    },
+    {
+      "id": "what-we-cover",
+      "title": "What We Cover",
+      "content": "<ul><li><strong>Character Builds</strong> — detailed build guides for Maelle, Verso, Lune and the rest of the party</li><li><strong>Boss Guides</strong> — strategies for every major and optional boss, in recommended order</li><li><strong>Walkthrough</strong> — act-by-act progression guide covering the main story</li><li><strong>Pictos &amp; Weapons</strong> — complete lists with locations and tier rankings</li><li><strong>Endings &amp; Choices</strong> — how branching decisions affect the story</li><li><strong>Combat Mechanics</strong> — parrying, dodging, and the systems that matter</li></ul>"
+    },
+    {
+      "id": "our-approach",
+      "title": "Our Editorial Approach",
+      "content": "<p>Every guide on this Site is written based on direct in-game testing and cross-referenced with official sources where possible. We aim to be accurate first and fast second — if a guide contains an error, we correct it as soon as it is reported.</p><p>We do not copy content from other sites. Where we reference community findings or datamined information, we say so.</p>"
+    },
+    {
+      "id": "disclaimer",
+      "title": "Disclaimer",
+      "content": "<p><strong>Expedition 33 Wiki is an unofficial fan site.</strong> We are not affiliated with, endorsed by, or sponsored by <strong>Sandfall Interactive</strong> or <strong>Kepler Interactive</strong>.</p><p><em>Clair Obscur: Expedition 33</em> and all related names, marks, and imagery are the property of their respective owners. This Site exists to help players and to celebrate the game.</p>"
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "content": "<p>Found an error, or have a suggestion? Reach us at <strong>contact@expedition33.wiki</strong>.</p>"
+    }
+  ]
+}
