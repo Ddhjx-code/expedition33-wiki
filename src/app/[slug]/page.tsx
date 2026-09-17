@@ -54,6 +54,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
         url: `${BASE_URL}/${params.slug}`,
         siteName: "Expedition 33 Wiki",
         type: "article",
+        images: [{ url: "/og-image.png", width: 1200, height: 630, alt: title }],
       },
     };
   }
@@ -71,6 +72,7 @@ export function generateMetadata({ params }: PageProps): Metadata {
       url: `${BASE_URL}/${params.slug}`,
       siteName: "Expedition 33 Wiki",
       type: "article",
+      images: [{ url: "/og-image.png", width: 1200, height: 630, alt: content.title }],
     },
   };
 }

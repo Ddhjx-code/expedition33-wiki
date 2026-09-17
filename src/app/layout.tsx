@@ -48,11 +48,20 @@ export const metadata: Metadata = {
     locale: "en_US",
     siteName: "Expedition 33 Wiki",
     url: BASE_URL,
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Expedition 33 Wiki",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Expedition 33 Wiki - Guides, Builds & Boss Strategies",
     description: "Complete Clair Obscur: Expedition 33 guide. Best builds, boss strategies, weapon locations, and full walkthrough.",
+    images: ["/og-image.png"],
   },
   robots: {
     index: true,
