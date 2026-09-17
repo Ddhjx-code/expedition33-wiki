@@ -3,6 +3,7 @@ import Image from "next/image";
 import { getAllSlugs, getPageContent } from "@/lib/content";
 import Sidebar from "@/components/Sidebar";
 import RelatedPages from "@/components/RelatedPages";
+import AdBanner from "@/components/AdBanner";
 import JsonLd, {
   getArticleSchema,
   getBreadcrumbSchema,
@@ -183,6 +184,8 @@ export default function SlugPage({ params }: PageProps) {
                 </section>
               ))}
             </div>
+
+            <AdBanner />
 
             {/* Related Pages */}
             <RelatedPages currentSlug={params.slug} />
