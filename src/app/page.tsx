@@ -3,6 +3,7 @@ import Hero from "@/components/Hero";
 import StartCards from "@/components/StartCards";
 import AboutGame from "@/components/AboutGame";
 import JsonLd, { getWebSiteSchema } from "@/components/JsonLd";
+import AdBanner from "@/components/AdBanner";
 import homeData from "@/data/home.json";
 
 const BASE_URL = "https://expedition33.wiki";
@@ -27,6 +28,7 @@ export default function Home() {
     <>
       <JsonLd data={getWebSiteSchema()} />
       <Hero />
+      <AdBanner />
       <StartCards />
       <AboutGame />
     </>
