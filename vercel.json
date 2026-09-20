@@ -21,7 +21,7 @@
     { "source": "/Endings", "destination": "/endings-explained", "permanent": true },
     { "source": "/Pictos", "destination": "/best-pictos", "permanent": true },
     { "source": "/Simon", "destination": "/boss-guide", "permanent": true },
-    { "source": "/Sirene_(Boss)", "destination": "/boss-guide", "permanent": true },
+    { "source": "/Sirene_\\(Boss\\)", "destination": "/boss-guide", "permanent": true },
     { "source": "/Sirene's_Dress", "destination": "/Outfits", "permanent": true },
     { "source": "/Sirene%27s_Dress", "destination": "/Outfits", "permanent": true },
     { "source": "/Clea's_Life", "destination": "/characters", "permanent": true },
