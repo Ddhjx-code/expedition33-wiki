@@ -16,9 +16,13 @@
     { "source": "/expedition-33-wiki/:path*", "destination": "/guide", "permanent": true },
     { "source": "/expedition-33-wiki/:path*/", "destination": "/guide", "permanent": true },
     { "source": "/wiki/Characters", "destination": "/characters", "permanent": true },
+    { "source": "/wiki/Characters/", "destination": "/characters", "permanent": true },
     { "source": "/wiki/Enemies", "destination": "/Enemies", "permanent": true },
+    { "source": "/wiki/Enemies/", "destination": "/Enemies", "permanent": true },
     { "source": "/wiki/Clea", "destination": "/characters", "permanent": true },
+    { "source": "/wiki/Clea/", "destination": "/characters", "permanent": true },
     { "source": "/wiki/:path*", "destination": "/guide", "permanent": true },
+    { "source": "/wiki/:path*/", "destination": "/guide", "permanent": true },
     { "source": "/manor", "destination": "/locations", "permanent": true },
     { "source": "/Esquie", "destination": "/characters", "permanent": true },
 
