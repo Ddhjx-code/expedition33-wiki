@@ -1,0 +1,24 @@
+{
+  "slug": "julien-tiny-head",
+  "title": "Julien Tiny Head - Hidden Gestral Arena Boss",
+  "description": "Julien Tiny Head is fought in Expedition 33's Hidden Gestral Arena alongside Matthieu the Colossus and the Big Hands brothers. Location and arena context.",
+  "keyword": "julien tiny head expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p><strong>Julien Tiny Head</strong> is an optional boss fought in the <strong>Hidden Gestral Arena</strong>, as part of the same Arena tournament that includes <strong>Matthieu the Colossus</strong>, <strong>Bertard Big Hands</strong> and <strong>Dominique Giant Feet</strong>.</p><p>Like the rest of the Arena set, these are <strong>solo duels</strong> - you fight with a single character and cannot rely on party synergy.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find Julien Tiny Head",
+      "content": "<p><strong>Location: Hidden Gestral Arena.</strong></p><p>Enter the Arena tournament to meet the lineup. The Arena is also the route to the <strong>Medalum</strong> weapon - to claim it you must duel <strong>Sciel</strong> as <strong>Maelle</strong>.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Fighting in the Hidden Gestral Arena",
+      "content": "<p>Because Arena fights are 1v1, the general rules differ from the rest of the game:</p><ul><li><strong>Bring your most self-sufficient character</strong>, not your best support unit</li><li><strong>Parry windows matter more than build theory</strong> - you have no ally to cover a missed read</li><li>Expect fast, aggressive opponents rather than large telegraphed ones</li></ul><p>Matthieu the Colossus is the best-documented opponent in this set - his left-handed hook and uppercut timings are well mapped, and the same read-and-parry approach applies across the Arena roster.</p>"
+    }
+  ]
+}

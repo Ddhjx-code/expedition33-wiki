@@ -1,0 +1,34 @@
+{
+  "slug": "serpenphare",
+  "title": "Serpenphare - Location, Weakness & Shield Strategy",
+  "description": "Serpenphare is the floating optional boss on The Continent that drains your party's AP and stacks shields. Where to find it and how to beat it.",
+  "keyword": "serpenphare expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The <strong>Serpenphare</strong> is a floating boss with a pink tail and plants growing across its body, found on <strong>The Continent</strong>. You may recognise it before you can fight it - it is visible overhead in <strong>Flying Waters</strong> early on.</p><p>It has a distinctive and annoying mechanic: <strong>it absorbs your entire party's AP</strong>, which lets it act multiple times in a row.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find Serpenphare",
+      "content": "<p><strong>Location: The Continent</strong>, <strong>southeast of the Boat Graveyard</strong>.</p><p>It floats in the sky, so simply fly into it. Reaching the area requires <strong>Esquie's flight ability</strong>.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Lightning</td></tr><tr><td>Resists</td><td>Ice, Fire</td></tr></tbody></table><p>It has no available weak spot - you cannot rely on weak-point shots here.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li><strong>Energy Master</strong> Pictos - increases AP gained from any source by 1</li><li>Perfect Chroma Catalyst x1</li><li>Grandiose Chroma Catalyst x3</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat Serpenphare",
+      "content": "<h3>The real problem is the shields</h3><p>Serpenphare repeatedly buffs itself with up to <strong>9 instances of shield</strong>, which absorb incoming damage. Against a shielded target, most of your damage simply disappears.</p><h3>Answers to shields</h3><ul><li><strong>Lune's Tremor</strong> - removes all shields</li><li><strong>Maelle's Breaking Rules</strong> - removes all shields, deals damage, and restores AP per shield removed</li></ul><p>Either of these turns a grindy fight into a straightforward one.</p><h3>Alternative: overwhelm with multi-hits</h3><p>If you cannot spare a shield-stripper, multi-hit skills can chew through the shield stack: <strong>Lune's Elemental Genesis</strong> (also has a chance to inflict Lightning, which it is weak to) or <strong>Verso's Steeled Strike</strong>, which hits 13 times.</p><h3>Watch the AP drain</h3><p>Because it can absorb your party's AP and chain extra actions, expect turns where you are starved of resource. Keep a cheap, reliable filler option so you are never fully idle.</p>"
+    }
+  ]
+}
