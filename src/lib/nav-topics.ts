@@ -12,6 +12,7 @@ export const BOSS_PAGES: NavPage[] = [
   { slug: "boss-guide", title: "Boss Guide" },
   { slug: "boss-order", title: "Boss Order" },
   { slug: "boss-drops", title: "Boss Drops Index" },
+  { slug: "bosses-by-area", title: "Bosses by Area" },
   { slug: "thunder-eveque", title: "Thunder Eveque" },
   { slug: "frost-eveque", title: "Frost Eveque" },
   { slug: "flame-eveque", title: "Flame Eveque" },

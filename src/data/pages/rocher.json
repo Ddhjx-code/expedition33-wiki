@@ -21,6 +21,11 @@
       "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Ice</td></tr><tr><td>Resists</td><td>Fire</td></tr></tbody></table><p>A clean opposite pairing: bring Ice, avoid Fire. Fire damage is actively wasted here.</p>"
     },
     {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<p>Rocher's specific drop list is not documented in the sources we could verify, so we are leaving it out rather than guessing.</p><p>As a Stone Wave Cliffs encounter during Act 1, it sits in the same reward tier as other early optional bosses - standard Chroma Catalysts and upgrade materials rather than a unique weapon.</p>"
+    },
+    {
       "id": "strategy",
       "title": "Strategy",
       "content": "<p>Because Rocher resists Fire and is weak to Ice, check your equipped weapons' damage types before the fight - a Fire-scaling weapon will make this take far longer than it should.</p><p>The GSC query pattern around this boss is people looking for the <em>rock boss</em> location, which suggests it is easy to pass by. It is in the Stone Wave Cliffs proper, not an optional side cavern.</p>"

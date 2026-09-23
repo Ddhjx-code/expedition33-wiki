@@ -21,6 +21,11 @@
       "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire, Light</td></tr><tr><td>Resists</td><td>Ice, Dark, Earth</td></tr></tbody></table><p>Fire and Light are both effective; Ice, Dark and Earth are all resisted and should be avoided.</p>"
     },
     {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<p>Tisseur's specific drop list is not documented in the sources we could verify. We would rather leave this blank than guess.</p>"
+    },
+    {
       "id": "strategy",
       "title": "Strategy",
       "content": "<p>Because it resists three elements and is weak to two, this is a build-check fight similar to the elemental Eveque variants - arriving with the wrong damage type makes it significantly harder than it needs to be.</p><p>Since you choose when to start it, use that: check your element coverage first, then start the conversation.</p>"

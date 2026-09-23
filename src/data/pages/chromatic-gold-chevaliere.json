@@ -21,6 +21,11 @@
       "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Light, Dark</td></tr><tr><td>Resists</td><td>Fire, Ice</td></tr></tbody></table><p>A neat pairing: Light and Dark both work, Fire and Ice are both resisted. Bring either Light or Dark damage and avoid the two resisted elements.</p>"
     },
     {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<p>Specific drops for this Chromatic encounter are not documented in the sources we could verify. Rather than guess, we have left it out.</p><p>What is consistent across Chromatic bosses: they drop <strong>Resplendent</strong> and <strong>Grandiose Chroma Catalysts</strong>, a weapon, Pictos, and Colours of Lumina.</p>"
+    },
+    {
       "id": "strategy",
       "title": "Strategy",
       "content": "<p>Because the resistances are symmetrical and simple, this is a straightforward elemental check rather than a mechanics puzzle.</p><ul><li><strong>Change your weapon's element</strong> before the fight - if your equipped weapon deals Fire or Ice, you are fighting it at a severe disadvantage</li><li>Chromatic bosses are tuned harder than their base versions and drop <strong>Resplendent</strong> and <strong>Grandiose Chroma Catalysts</strong> along with weapons, Pictos and Colours of Lumina, so they are worth doing for progression materials</li></ul><p>Worth knowing: Chromatic enemies are described in-game as more complex and difficult versions of basic enemies - the Chevaliere family is a good example, where the Steel variant is weak to Physical while the Gold variant is weak to Light and Dark.</p>"

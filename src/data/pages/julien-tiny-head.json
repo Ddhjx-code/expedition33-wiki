@@ -16,6 +16,16 @@
       "content": "<p><strong>Location: Hidden Gestral Arena.</strong></p><p>Enter the Arena tournament to meet the lineup. The Arena is also the route to the <strong>Medalum</strong> weapon - to claim it you must duel <strong>Sciel</strong> as <strong>Maelle</strong>.</p>"
     },
     {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<p>No documented elemental weakness for Julien Tiny Head.</p><p>Arena opponents in the Hidden Gestral Arena are designed as 1v1 skill checks rather than elemental puzzles - the deciding factor is reading attack timing, not damage type.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<p>Julien Tiny Head's specific drop is not documented in the sources we could verify.</p><p>Defeating the Arena roster is the route to the <strong>Medalum</strong> weapon, which requires duelling <strong>Sciel</strong> as <strong>Maelle</strong> later in the tournament.</p>"
+    },
+    {
       "id": "strategy",
       "title": "Fighting in the Hidden Gestral Arena",
       "content": "<p>Because Arena fights are 1v1, the general rules differ from the rest of the game:</p><ul><li><strong>Bring your most self-sufficient character</strong>, not your best support unit</li><li><strong>Parry windows matter more than build theory</strong> - you have no ally to cover a missed read</li><li>Expect fast, aggressive opponents rather than large telegraphed ones</li></ul><p>Matthieu the Colossus is the best-documented opponent in this set - his left-handed hook and uppercut timings are well mapped, and the same read-and-parry approach applies across the Arena roster.</p>"
