@@ -1,0 +1,39 @@
+{
+  "slug": "blanche",
+  "title": "Blanche - Should You Fight Her? (The Fountain Quest)",
+  "description": "Blanche at The Fountain in Expedition 33 is a choice, not just a boss. Sparing every friendly Nevron earns 100 Colour of Lumina - fighting her means you killed one.",
+  "keyword": "blanche expedition 33 the fountain",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p><strong>Blanche</strong> is a friendly White Nevron found at <strong>The Fountain</strong> - and whether you fight her at all depends entirely on choices you made across two acts.</p><p>This is the payoff of the friendly Nevron questline. It is not simply a boss to tick off.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find Blanche",
+      "content": "<p><strong>Location: The Fountain</strong> - inside the middle of the mountain, <strong>west of Spring Meadows</strong>.</p><p>Reaching it requires <strong>Esquie's flight ability</strong>, so it is an Act 3 location.</p><p>On entry you get the Entrance Expedition Flag. Follow the path and interact with Blanche. There is also a <strong>Journal - Expedition 84</strong> down the left path - worth grabbing on your way back.</p>"
+    },
+    {
+      "id": "the-choice",
+      "title": "The Choice: Reward or Fight",
+      "content": "<table><thead><tr><th>Your history</th><th>What happens</th></tr></thead><tbody><tr><td><strong>You spared every friendly White Nevron</strong></td><td>Blanche gives you <strong>100x Colour of Lumina</strong> and the <strong>Aiding the Enemy</strong> achievement. <strong>There is no fight.</strong></td></tr><tr><td><strong>You killed any friendly Nevron</strong></td><td>Blanche fights you instead. Beating her drops Colour of Lumina x10 and Grandiose Chroma Catalyst x2.</td></tr></tbody></table><p>The comparison is stark: <strong>100 Colour of Lumina for sparing, versus 10 for fighting.</strong> Sparing is worth roughly ten times as much, and it is not close.</p>"
+    },
+    {
+      "id": "warning",
+      "title": "If You Want the Reward: Do Not Attack Friendly Nevrons",
+      "content": "<p>This is the single most important thing on this page. <strong>A single kill anywhere in the friendly Nevron questline locks you out of the 100 Colour of Lumina reward.</strong></p><ul><li>Do not attack the friendly White Nevrons you meet in Acts 1 and 2</li><li>Even if you want the drops from killing them, <strong>do that after you have spoken to Blanche</strong> - not before</li><li>If you have already killed one, the reward is gone for that playthrough and Blanche will fight you</li></ul>"
+    },
+    {
+      "id": "questline",
+      "title": "What the Questline Involves",
+      "content": "<p>The friendly Nevron quests you need to have handled run through Acts 1 and 2. Notable participants include:</p><ul><li><strong>Jar</strong> and <strong>Demineur</strong></li><li><strong>Benisseur</strong> in the Red Woods - this one requires escalating Chroma donations (5,000, then 10,000, then 25,000, then 50,000). He rewards Pictos along the way</li><li><strong>Hexga</strong> and other friendly White Nevrons</li></ul><p>Whenever one offers you a choice, <strong>spare.</strong> That is the condition.</p>"
+    },
+    {
+      "id": "achievement",
+      "title": "Achievement",
+      "content": "<p>Sparing every friendly Nevron and claiming the reward unlocks <strong>Aiding the Enemy</strong>.</p>"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "glaise",
+  "title": "Glaise (Yellow Harvest) - Location, Weakness & Rewards",
+  "description": "Glaise in Expedition 33's Yellow Harvest: exact route to the Yellow Spire Wrecks, its Fire/Ice weakness, and the Plenum weapon it drops.",
+  "keyword": "glaise expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p><strong>Glaise</strong> is an optional boss found in the <strong>Yellow Harvest</strong> side area, specifically at the <strong>Yellow Spire Wrecks</strong>. A second Glaise appears later in The Chosen Path.</p><p>The Yellow Harvest is a side area you can enter once you complete the main story events in Esquie's Nest and unlock Esquie as a mount for exploring The Continent.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "How to Reach Glaise",
+      "content": "<p>After entering the Yellow Harvest portal, <strong>climb the handholds on the wall to the right of the Entrance Rest Point Flag</strong> (Expedition 68), then follow the <strong>northwestern path</strong> briefly into a tunnel before emerging outside.</p><p>You will get a short cutscene on arrival - it triggers near the grotto outside the cave, where the boss spawns.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire, Ice</td></tr><tr><td>Resists</td><td>Lightning</td></tr><tr><td>Absorbs</td><td><strong>Earth</strong></td></tr></tbody></table><p>Bring Fire and/or Ice. Crucially, <strong>it absorbs Earth</strong> - Earth damage will heal it rather than hurt it, so check your weapon damage types before the fight.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li><strong>Plenum</strong> weapon (Level 7, for Maelle)</li><li><strong>Energising Attack I</strong> Pictos (Level 7)</li><li>Polished Chroma Catalyst x3</li><li>24,190 EXP</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "Strategy",
+      "content": "<p>Glaise has a clean weakness pair and a single absorbed element, which makes it more of a build check than an execution test.</p><ul><li><strong>Maelle and Lune</strong> are the natural picks - they specialise into Fire and Ice respectively</li><li><strong>Never bring Earth damage.</strong> It is absorbed, so an Earth weapon turns the fight into an unwinnable slog</li><li>Because Lightning is only <em>resisted</em> (not absorbed), it is inefficient but not actively harmful</li></ul>"
+    }
+  ]
+}

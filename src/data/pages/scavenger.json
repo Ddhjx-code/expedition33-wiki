@@ -1,0 +1,34 @@
+{
+  "slug": "scavenger",
+  "title": "Scavenger - Location, Weakness & How to Unlock the Fight",
+  "description": "The Scavenger in Expedition 33's Falling Leaves is locked behind the Lady of Sap quest. Location, Light weakness, and what it drops.",
+  "keyword": "scavenger expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The <strong>Scavenger</strong> is an optional boss in <strong>Falling Leaves</strong>, an optional Act 2 zone on the western edge of The Continent, reachable once Esquie can swim through coral.</p><p>Unlike most optional bosses, <strong>you cannot simply walk up to it</strong> - it is locked behind a side quest.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Unlocking the Scavenger Fight",
+      "content": "<ol><li>Enter Falling Leaves and find the <strong>young boy behind a fenced-off gate</strong></li><li>Complete the <strong>Lady of Sap</strong> quest he gives you</li><li>Return and <strong>speak to the boy again</strong> - he opens the gate</li><li>Follow the path onward using the ropes and grapple points until you reach the upper Expedition Flag</li><li>Walk toward the platform - a cutscene introduces the Scavenger</li></ol><p>It is the boss at the very end of the Falling Leaves path.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Light (and Physical)</td></tr><tr><td>Resists</td><td>Ice, Fire, Earth, Lightning</td></tr><tr><td>Absorbs</td><td><strong>Dark</strong></td></tr></tbody></table><p>Almost nothing works here. Light and Physical are your only real damage types, and <strong>Dark is absorbed.</strong></p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li><strong>Scaverim</strong> weapon (Level 14, for Lune)</li><li>Resplendent Chroma Catalyst x3</li><li>139,320 EXP</li><li>8,020 Chroma</li><li>Additionally, talk to the young boy again afterwards to receive the <strong>Until Next Life</strong> music record</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Scavenger",
+      "content": "<h3>Leave Lune and Sciel at home</h3><p>The Scavenger is a <strong>Dark-based</strong> boss that absorbs Dark damage. Lune and Sciel are the two most Dark-oriented party members, which makes them actively worse than useless here - a Dark skill literally heals it.</p><p><strong>Verso is the recommended pick.</strong> Build your team around <strong>Light</strong> and <strong>Physical</strong> damage and avoid AoE elemental skills that would feed it.</p><h3>Check your weapons first</h3><p>Because it resists four elements and absorbs a fifth, a poorly matched weapon loadout will make this fight take several times longer than it should. Swap to Light or Physical before you open the gate.</p>"
+    }
+  ]
+}

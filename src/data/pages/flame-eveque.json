@@ -1,0 +1,34 @@
+{
+  "slug": "flame-eveque",
+  "title": "Flame Eveque - Location, Weakness & Triple Fight Guide",
+  "description": "Flame Eveque in Expedition 33's Flying Manor is part of a triple boss fight with a randomised invulnerability mechanic. Weakness, location and rewards.",
+  "keyword": "flame eveque expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The <strong>Flame Eveque</strong> is one of three elemental Eveque variants, alongside the Frost Eveque and Thunder Eveque. In the <strong>Flying Manor</strong> it appears as part of a <strong>triple boss fight</strong> - you face all three at once.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Flame Eveque",
+      "content": "<p><strong>Location: Flying Manor</strong> (plus the Endless Tower).</p><p>The Flying Manor is a post-game area reached with <strong>Esquie's flight ability</strong>, unlocked after finishing The Monolith. It is a floating island southwest of Monoco's Station - from The Continent map, track the Forgotten Battlefield exit and fly northwest of the mountains until you find floating land with roof rubble.</p><p>Inside: from the <strong>Plaza Rest Point</strong>, head toward the display cases containing an Eveque and go past them. Jump through the floating picture frames and the boss waits in a dim room.</p><h3>Endless Tower</h3><p>The Flame Eveque also appears in the Endless Tower as the notable enemy of <strong>Stage 7 Trial 1</strong> and <strong>Stage 9 Trial 3</strong>.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Ice (and Void)</td></tr><tr><td>Resists</td><td>Physical, Light, Dark, Earth, Lightning</td></tr><tr><td>Absorbs</td><td><strong>Fire</strong></td></tr></tbody></table><p>Ice and Void are the only things that land. <strong>Fire is absorbed</strong> - never bring a Fire weapon or AoE Fire skill.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li><strong>Kralim</strong></li><li>Grandiose Chroma Catalyst x6</li><li>Colour of Lumina x5</li><li>1,113,750 EXP</li><li>44,979 Chroma</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Triple Eveque Fight",
+      "content": "<h3>The invulnerability mechanic</h3><p>This is the part that catches people out. In the Flying Manor encounter, <strong>one of the three Eveques is invulnerable</strong> at any given time, indicated by a <strong>golden shield beside its name</strong> under the health bar.</p><ul><li>The invulnerable one is <strong>randomised per attempt</strong> - it is not always the same Eveque</li><li><strong>Use free aim to check</strong> which one is currently protected before committing skills</li><li>You must <strong>neutralise the vulnerable Eveque first</strong>, then move to the next</li></ul><h3>Elemental discipline</h3><p>Each of the three absorbs its own element and resists nearly everything else. Because you are fighting all three at once, a single weapon element will be absorbed by one of them - so <strong>avoid AoE elemental skills entirely</strong> and use focused single-target attacks.</p><h3>Recommended damage</h3><p><strong>Lune</strong> for Ice, and <strong>Maelle's Void skills</strong>. Fextralife specifically recommends leaning on <strong>parrying</strong> because of how high the trio's resistances are - counterattacks bypass the elemental problem.</p>"
+    }
+  ]
+}

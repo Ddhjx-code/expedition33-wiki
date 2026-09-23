@@ -1,0 +1,29 @@
+{
+  "slug": "chromatic-gold-chevaliere",
+  "title": "Chromatic Gold Chevaliere - Crimson Forest Boss Guide",
+  "description": "The Chromatic Gold Chevaliere in Expedition 33's Crimson Forest: weak to Light and Dark, resists Fire and Ice. Location, weakness and strategy.",
+  "keyword": "chromatic gold chevaliere expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The <strong>Chromatic Gold Chevaliere</strong> (sometimes searched for as the <em>golden knight</em>) is an optional Chromatic boss found in the <strong>Crimson Forest</strong>. It is one of three Chevaliere variants, alongside the Ceramic and Steel versions.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find It",
+      "content": "<p><strong>Location: Crimson Forest.</strong> It is an optional Act 3 encounter on The Continent.</p><p>The non-Chromatic Gold Chevaliere also appears as a regular enemy in several locations on The Continent with the same elemental profile.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Light, Dark</td></tr><tr><td>Resists</td><td>Fire, Ice</td></tr></tbody></table><p>A neat pairing: Light and Dark both work, Fire and Ice are both resisted. Bring either Light or Dark damage and avoid the two resisted elements.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Strategy",
+      "content": "<p>Because the resistances are symmetrical and simple, this is a straightforward elemental check rather than a mechanics puzzle.</p><ul><li><strong>Change your weapon's element</strong> before the fight - if your equipped weapon deals Fire or Ice, you are fighting it at a severe disadvantage</li><li>Chromatic bosses are tuned harder than their base versions and drop <strong>Resplendent</strong> and <strong>Grandiose Chroma Catalysts</strong> along with weapons, Pictos and Colours of Lumina, so they are worth doing for progression materials</li></ul><p>Worth knowing: Chromatic enemies are described in-game as more complex and difficult versions of basic enemies - the Chevaliere family is a good example, where the Steel variant is weak to Physical while the Gold variant is weak to Light and Dark.</p>"
+    }
+  ]
+}
