@@ -518,6 +518,41 @@
       "source": "/Unfinished_Jar",
       "destination": "/Enemies",
       "permanent": true
+    },
+    {
+      "source": "/White_Tree",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Abbest_Cave",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/The_Chosen_Path",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Chromatic_Ballet",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Reaper_Cultist",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Robust_Sakapatate",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Sirene_Dress",
+      "destination": "/Outfits",
+      "permanent": true
     }
   ]
 }
