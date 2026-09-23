@@ -1,8 +1,10 @@
 import { Metadata } from "next";
 import Image from "next/image";
 import { getAllSlugs, getPageContent } from "@/lib/content";
+import { isBossSlug } from "@/lib/nav-topics";
 import Sidebar from "@/components/Sidebar";
 import RelatedPages from "@/components/RelatedPages";
+import TopicNav from "@/components/TopicNav";
 import AdBanner from "@/components/AdBanner";
 import JsonLd, {
   getArticleSchema,
@@ -10,11 +12,11 @@ import JsonLd, {
 } from "@/components/JsonLd";
 
 function getBannerImage(slug: string): { src: string; alt: string } {
+  if (isBossSlug(slug)) {
+    return { src: "/images/screenshot-boss.jpg", alt: "Expedition 33 boss encounter" };
+  }
   if (slug === "guide" || slug === "beginner-guide") {
     return { src: "/images/screenshot-combat.jpg", alt: "Expedition 33 combat gameplay" };
-  }
-  if (slug === "boss-guide") {
-    return { src: "/images/screenshot-boss.jpg", alt: "Expedition 33 boss encounter" };
   }
   if (slug === "best-pictos") {
     return { src: "/images/screenshot-pictos.jpg", alt: "Expedition 33 Pictos and skills" };
@@ -188,6 +190,8 @@ export default function SlugPage({ params }: PageProps) {
             </div>
 
             <AdBanner />
+
+            <TopicNav currentSlug={params.slug} />
 
             {/* Related Pages */}
             <RelatedPages currentSlug={params.slug} />
