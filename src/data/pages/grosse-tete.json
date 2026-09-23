@@ -1,0 +1,34 @@
+{
+  "slug": "grosse-tete",
+  "title": "Grosse Tete - Location, How to Beat & Rewards",
+  "description": "The Grosse Tete optional boss in Expedition 33: both spawn locations, why you do not need to deplete its health bar, parry timing, and its reward.",
+  "keyword": "grosse tete expedition 33 location",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The <strong>Grosse Tete</strong> is an optional boss found in <strong>two separate locations</strong>. It is unusual in that <strong>you do not need to empty its health bar</strong> - it destroys itself.</p><p>It is highly resistant to damage, so this fight is almost entirely about <strong>survival and timing</strong> rather than damage output.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "The Two Grosse Tete Locations",
+      "content": "<h3>1. The Continent (Coastal Cave)</h3><p>It sits <strong>right in front of the Coastal Cave entrance</strong>. It can also be described as east of the large snowy island, on a smaller island with orange trees. Reaching it requires <strong>Esquie's swim ability</strong>.</p><h3>2. Flying Manor</h3><p>A second one is found inside the <strong>Flying Manor</strong>, in the area beneath where you fight the Dualliste. Past the broken bridge, <strong>go down using the ropes and then back up</strong>.</p><p>Note: you may see claims that this second one is missable. It is a regular boss with a regular boss title.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>None</td></tr><tr><td>Resists</td><td>None</td></tr></tbody></table><p>No elemental weakness and no resistances - which is why raw damage is a poor way to approach this fight.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li><strong>Warming Up</strong> Pictos - increases your damage by 5% each turn, stacking up to five times</li><li>Resplendent Chroma Catalyst x1</li><li>67,500 EXP</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Grosse Tete",
+      "content": "<h3>The fight ends when it explodes</h3><p>Grosse Tete attacks by <strong>bouncing</strong>. Each time it attacks, its combo gains <strong>two more bounces</strong>. It starts with two bounces, then four, then six, and so on. After the attack that reaches <strong>24 bounces, it self-destructs</strong> - and you win.</p><p>So your goal is simply to survive 12 attacks. You never need to deal meaningful damage.</p><h3>Dodge and parry timing</h3><p>The bounce intervals change randomly, which makes pure reaction unreliable. The consistent read is:</p><ul><li>Wait until Grosse Tete starts falling back down</li><li>Press dodge or parry when it is <strong>about halfway to the ground</strong></li><li>Or simply parry on the <strong>sound cue</strong></li></ul><p>Once you lock into that rhythm, the fight becomes a long but very winnable endurance test.</p>"
+    }
+  ]
+}

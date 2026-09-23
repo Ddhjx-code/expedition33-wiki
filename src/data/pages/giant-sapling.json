@@ -1,0 +1,34 @@
+{
+  "slug": "giant-sapling",
+  "title": "Giant Sapling (Crushing Cavern) - Timed Fight Guide",
+  "description": "The Giant Sapling in Expedition 33's Crushing Cavern is a timed DPS check - the walls crush you on its 7th turn. Location, attack pattern and how to win.",
+  "keyword": "giant sapling expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The <strong>Giant Sapling</strong> is an optional boss inside the <strong>Crushing Cavern</strong>, and it is not a normal fight - it is a <strong>timed DPS check with a hard fail state.</strong></p><p>The cavern walls close in at the start of every one of the Sapling's turns. On its <strong>7th turn</strong>, they crush your party and the fight ends immediately in failure.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Giant Sapling",
+      "content": "<p><strong>Location: Crushing Cavern.</strong></p><p>The cavern entrance is <strong>northwest of Gestral Village</strong>, on the northern part of the Act 1 island - approached from the water. It also sits north of the Lost Woods and Yellow Harvest on the overworld map.</p><p>The cavern becomes accessible <strong>after completing Act 1</strong>, once Esquie can swim.</p><p>Inside: follow the dark cave until you fall through the floor. At the bottom you will see <strong>two large glowing eyes</strong> - strike them to begin the fight. If you want to leave instead, there is a rope back up behind and to the right of the drop point.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>None</td></tr><tr><td>Resists</td><td>None</td></tr></tbody></table><p>The fight is a quantity-of-damage problem rather than an elemental one - the constraint is the turn limit, not a resistance table.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li><strong>Solidifying</strong></li><li>Polished Chroma Catalyst</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Giant Sapling",
+      "content": "<h3>It only has two moves</h3><p>On each of its turns it does exactly one of these:</p><ul><li><strong>Applies 6 Shields to itself</strong></li><li><strong>Fires 3 purple orbs</strong> that inflict Exhausted on anyone hit</li></ul><p>Winning means repeatedly stripping the shields and never losing turns to Exhausted.</p><h3>The shield answer</h3><p><strong>Maelle's Breaking Rules</strong> is exceptional here - it removes all shields, deals damage, and restores AP per shield removed. Lune's <strong>Tremor</strong> also removes all shields if you are running Lune.</p><h3>Orb timing</h3><p>The orbs arc upward and then curve sharply down. The correct dodge/parry window is <strong>just as the orb starts curving downward</strong>. They travel quickly, so this is the main execution hurdle.</p><h3>Your Speed stat is a damage stat here</h3><p>The limit is counted in the <strong>Sapling's turns</strong>, not yours. Higher party Speed means you take more turns before its 7th - so Speed effectively buys you damage. This is one of the few fights where Speed is directly a DPS stat.</p><h3>Build advice</h3><p>Prioritise attack power over defence. You are not trying to survive a long fight - you are trying to finish inside a short one.</p>"
+    }
+  ]
+}

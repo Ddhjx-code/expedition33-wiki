@@ -1,0 +1,34 @@
+{
+  "slug": "thunder-eveque",
+  "title": "Thunder Eveque - Location, Weakness & Rewards",
+  "description": "Where to find the Thunder Eveque in Expedition 33, its elemental weakness, what it drops, and how to handle its lightning attacks.",
+  "keyword": "thunder eveque expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The <strong>Thunder Eveque</strong> is an optional boss on <strong>The Continent</strong> and a lightning-flavoured variant of the Eveque. It is one of three elemental Eveque variants in the game, alongside the Flame Eveque (Flying Manor) and Frost Eveque (The Continent).</p><p>It is a single, stationary target that hits hard but telegraphs clearly - a good late-game target for testing a damage build.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Thunder Eveque",
+      "content": "<p><strong>Location: The Continent.</strong></p><p>It stands on the <strong>eastern side of the map, just above the Stone Wave Cliffs Cave entrance</strong>. It is a lone enemy standing in a small field ringed by green and yellow trees - and because it barely moves, it is genuinely easy to fly straight past without noticing.</p><p><strong>You need Esquie's flight ability</strong> (unlocked in Act 3) to reach this area at all.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Earth</td></tr><tr><td>Resists</td><td>Ice, Fire, Dark, Light, Physical</td></tr></tbody></table><p>Earth is the one opening. Everything else except Void is resisted, which means a generic physical build will feel weak here - bring Earth damage specifically.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Breaking Death x2</li><li>Grandiose Chroma Catalyst x5</li><li>Colour of Lumina</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "Strategy",
+      "content": "<p>Because it resists almost every damage type, this fight is mostly a build check: if you arrive with Earth damage you will kill it comfortably, and if you do not, it will drag.</p><p>Its attacks are lightning-based and, per community reports, its pattern is readable rather than erratic - parry and counter rather than playing defensively. Counterattacks do not care about its resistances, which makes parrying unusually valuable in this particular fight.</p>"
+    }
+  ]
+}

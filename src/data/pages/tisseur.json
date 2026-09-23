@@ -1,0 +1,29 @@
+{
+  "slug": "tisseur",
+  "title": "Tisseur - Location, Weakness & How to Start the Fight",
+  "description": "Tisseur in Expedition 33 is a non-hostile boss in Sirene that only fights you if you talk to it. Location, weakness (Fire/Light) and what to expect.",
+  "keyword": "tisseur expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p><strong>Tisseur</strong> is a large creation that, according to Verso, works for Sirene - endlessly producing fabric for her. It is an optional boss found in the <strong>Sirene</strong> area.</p><p>The unusual part: <strong>Tisseur is not hostile on sight.</strong> You can walk past it. The fight only begins if you <strong>initiate a conversation</strong>, which then prompts combat.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find Tisseur",
+      "content": "<p><strong>Location: Sirene.</strong></p><p>Approach and interact with it to start the encounter. If you are not ready for the fight, you can simply not talk to it.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire, Light</td></tr><tr><td>Resists</td><td>Ice, Dark, Earth</td></tr></tbody></table><p>Fire and Light are both effective; Ice, Dark and Earth are all resisted and should be avoided.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Strategy",
+      "content": "<p>Because it resists three elements and is weak to two, this is a build-check fight similar to the elemental Eveque variants - arriving with the wrong damage type makes it significantly harder than it needs to be.</p><p>Since you choose when to start it, use that: check your element coverage first, then start the conversation.</p>"
+    }
+  ]
+}

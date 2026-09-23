@@ -1,0 +1,29 @@
+{
+  "slug": "matthieu-the-colossus",
+  "title": "Matthieu the Colossus - How to Beat (Gestral Arena)",
+  "description": "How to find and beat Matthieu the Colossus in Expedition 33's Hidden Gestral Arena - attack patterns, parry timing and rewards.",
+  "keyword": "matthieu the colossus expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p><strong>Matthieu the Colossus</strong> is an optional boss fought in the <strong>Hidden Gestral Arena</strong> as part of the Arena tournament. He is a 1v1 duel - you fight him alone with a single character, so party synergy cannot bail you out.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find Matthieu the Colossus",
+      "content": "<p><strong>Location: Hidden Gestral Arena.</strong></p><p>From the <strong>Gestral Arena checkpoint</strong>, head to the platform and speak to <strong>Limonsol</strong> to arrange the fight.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<p>Defeating him is part of the Arena tournament chain in Gestral Village. The tournament is also how you eventually earn the <strong>Medalum</strong> weapon - and to get it, you must duel <strong>Sciel</strong> as <strong>Maelle</strong>.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat Matthieu the Colossus",
+      "content": "<p>Matthieu is a <strong>fast puncher</strong> and the difficulty is reading his speed rather than surviving big hits.</p><h3>He is left-handed - watch the left arm</h3><p>His main attack is a <strong>left hook</strong>: he jumps in and swings his arm in an arc. Parry right as the blade starts moving toward you. Ignore feints with his right hand - they are not the real attack.</p><h3>The uppercut uses the same timing</h3><p>His other notable attack is an uppercut. The read is identical: watch the arm begin moving up toward you, and parry.</p><h3>General approach</h3><ul><li>Keep your eyes on his <strong>left forearm and fist</strong> - that is where every real attack originates</li><li>Parry into counterattack rather than trading hits; his damage adds up fast</li><li>Because it is a solo duel, bring your most self-sufficient character rather than your best team player</li></ul>"
+    }
+  ]
+}

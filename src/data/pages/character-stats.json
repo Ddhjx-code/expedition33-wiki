@@ -1,0 +1,44 @@
+{
+  "slug": "character-stats",
+  "title": "Expedition 33 Character Stats - What to Focus On for Each Character",
+  "description": "How to decide which attributes to raise on each Expedition 33 character. The rule is weapon affinity, not raw Might - here is how to read it and apply it per character.",
+  "keyword": "expedition 33 what stats to focus on for each character",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "the-rule",
+      "title": "The Rule: Raise What Your Weapon Scales With",
+      "content": "<p>Attribute points in Expedition 33 do not raise Attack Power directly. <strong>Attack Power comes from weapon affinity</strong> - the letter grades printed next to each weapon.</p><p>So the answer to \"what stats should I focus on for this character\" is not a fixed list per character. It is <strong>whatever attributes that character's equipped weapon has high affinity with</strong>.</p><p>Change the weapon, and the correct attributes change with it.</p>"
+    },
+    {
+      "id": "reading-affinity",
+      "title": "How to Read Weapon Affinity",
+      "content": "<p>Open the character menu and look at the equipped weapon. You will see a sword icon and a letter next to one or more attributes.</p><table><thead><tr><th>Grade</th><th>What it means for your points</th></tr></thead><tbody><tr><td><strong>S</strong></td><td>Best possible return - only appears at maximum weapon level</td></tr><tr><td><strong>A</strong></td><td>Very strong return</td></tr><tr><td><strong>B</strong></td><td>Strong enough that it usually beats raw Might</td></tr><tr><td><strong>C / D</strong></td><td>Modest return</td></tr><tr><td><strong>No letter</strong></td><td>Weakest return</td></tr></tbody></table><p>Practical threshold: <strong>from grade B upward, put your points into that attribute instead of Might.</strong> Below B, Might is competitive.</p>"
+    },
+    {
+      "id": "worked-example",
+      "title": "Worked Example: Maelle With Medalum",
+      "content": "<p>This is the clearest demonstration of why the rule matters, using a documented case:</p><table><thead><tr><th>Where the points go</th><th>Resulting Attack Power</th></tr></thead><tbody><tr><td>All points into <strong>Might</strong></td><td>~5,800</td></tr><tr><td>All points into <strong>Defense</strong> (the weapon's affinity stat)</td><td><strong>~7,100</strong></td></tr></tbody></table><p>Same character, same weapon, same level. Roughly <strong>22% more Attack Power</strong> - and because you raised Defense to get it, you are also tankier and gain critical rate as a side effect.</p><p>Medalum's primary affinity is Defense, with a minor affinity to Might. That is why the Might build underperforms: it is investing in the weapon's <em>weakest</em> scaling stat.</p>"
+    },
+    {
+      "id": "how-to-apply",
+      "title": "How to Do This for Any Character",
+      "content": "<p>Repeat this process whenever you change a weapon or enter a new act:</p><ul><li><strong>Open the character's equipped weapon</strong> and read the affinity letters</li><li><strong>Identify the highest-graded attribute</strong> - that is your primary investment</li><li><strong>Identify the secondary affinity</strong>, if there is one - that is your second priority</li><li><strong>Dump points into the primary until it is saturated</strong>, then the secondary</li><li><strong>Ignore Might</strong> unless it is itself an affinity stat on that weapon</li></ul><p>We deliberately do not publish a fixed \"best stat\" table per character, because the correct answer depends on the weapon you are actually holding - and those change as you upgrade and swap gear. The method above is correct for every character in every act.</p>"
+    },
+    {
+      "id": "weapon-level",
+      "title": "Weapon Level Changes the Answer",
+      "content": "<p>Upgrading a weapon does not only raise its raw damage - it <strong>raises the affinity grade itself</strong>.</p><p>This means a weapon that shows a C at low level may show a B or A once upgraded, which <em>changes which attributes you should be raising</em>. A build that was correct in Act 1 can quietly become wrong by Act 3.</p><p>So re-check affinity after every significant weapon upgrade, not just when you switch weapons.</p>"
+    },
+    {
+      "id": "respec",
+      "title": "Respec Is Cheap - Use It",
+      "content": "<p>Respec items (recall tints) are available at any flag or camp and are easy to farm. There is no reason to carry mismatched attributes around because you are worried about wasting points.</p><p>If you find a better weapon with different affinity, <strong>respec immediately</strong>. The cost of rebuilding around a good weapon is far lower than the damage you lose by keeping the wrong stats.</p>"
+    },
+    {
+      "id": "mistakes",
+      "title": "Common Mistakes",
+      "content": "<ul><li><strong>Maxing Might because it sounds like the damage stat.</strong> It usually is not. Attack Power follows affinity.</li><li><strong>Copying a build's stats without its weapon.</strong> The stat spread only makes sense alongside the specific weapon it was built for.</li><li><strong>Setting stats once and forgetting.</strong> Weapon upgrades raise affinity grades, which can change the optimal spread.</li><li><strong>Spreading points evenly.</strong> Concentrated investment in affinity stats beats a balanced spread.</li></ul><p>For how stat-derived Attack Power feeds into the wider damage formula, see our <a href=\"/damage-mechanics\">damage mechanics guide</a>.</p>"
+    }
+  ]
+}

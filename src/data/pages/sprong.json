@@ -1,0 +1,29 @@
+{
+  "slug": "sprong",
+  "title": "Sprong - Location & Why to Beat It First",
+  "description": "Sprong is an optional boss north of the Endless Tower in Expedition 33, and it drops the Cheater Pictos - the single best reason to beat it first.",
+  "keyword": "sprong expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p><strong>Sprong</strong> is an optional boss on The Continent, and among the Act 3 overworld bosses it is the one you should fight <strong>first</strong> - not because it is the easiest, but because of what it drops.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find Sprong",
+      "content": "<p><strong>Location: The Continent</strong>, <strong>partially submerged in the ocean just north of the Endless Tower</strong>.</p><p>It is hard to miss once you are in the area - look for the large shape sitting in the water.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li><strong>Cheater</strong> Pictos - lets an equipped character <strong>act twice in a row</strong> on their turn</li><li>The \"Sprong\" achievement</li></ul><p><strong>Cheater is one of the strongest Pictos in the game.</strong> An extra action per turn compounds with everything else in your build, which is why killing Sprong early makes every other optional boss easier.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat Sprong",
+      "content": "<p>Sprong has a large health pool but a <strong>predictable attack pattern</strong> with strikes that are comparatively easy to counter by the standards of late-game optional bosses.</p><p>As long as you can withstand and counter its heavier hits, it should not give you much trouble. Parrying does the heavy lifting here - counters ignore the long health bar problem by giving you consistent, resource-free damage.</p><p>Treat it as the opening move of your Act 3 boss tour: kill Sprong, equip Cheater, then use the extra action to make the rest of the list manageable.</p>"
+    }
+  ]
+}

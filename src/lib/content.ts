@@ -18,54 +18,14 @@ export interface PageContent {
 
 const PAGES_DIR = path.join(process.cwd(), "src/data/pages");
 
-/**
- * All slugs that should generate static pages.
- * Includes both slugs with JSON data files and placeholder slugs
- * that will show a "coming soon" page.
- */
-const ALL_SLUGS = [
-  "guide",
-  "beginner-guide",
-  "best-builds",
-  "build-maelle",
-  "build-verso",
-  "build-lune",
-  "boss-guide",
-  "best-pictos",
-  "best-weapons",
-  "tier-list",
-  "endings-explained",
-  "how-to-parry",
-  "damage-mechanics",
-  "boss-order",
-  "weapons-locations",
-  "trophy-guide",
-  "side-quests",
-  "walkthrough",
-  "walkthrough-act-1",
-  "weapons-tier-list",
-  "interactive-map",
-  "locations",
-  "abbest-cave",
-  "chosen-path",
-  "camp-guide",
-  "characters",
-  "Enemies",
-  "Eloise",
-  "Jules",
-  "Lucie",
-  "Outfits",
-  "Haircuts",
-  "about",
-  "privacy-policy",
-  "contact",
-];
-
-/**
- * Returns all slugs that should be statically generated.
- */
 export function getAllSlugs(): string[] {
-  return ALL_SLUGS;
+  if (!fs.existsSync(PAGES_DIR)) {
+    return [];
+  }
+  return fs
+    .readdirSync(PAGES_DIR)
+    .filter((file) => file.endsWith(".json"))
+    .map((file) => file.replace(/\.json$/, ""));
 }
 
 /**

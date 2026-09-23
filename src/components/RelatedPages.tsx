@@ -24,6 +24,15 @@ const ALL_PAGES: RelatedPage[] = [
   { slug: "weapons-tier-list", title: "Weapons Tier List", description: "All weapons ranked" },
   { slug: "side-quests", title: "Side Quests", description: "Optional quests & rewards" },
   { slug: "trophy-guide", title: "Trophy Guide", description: "All achievements" },
+  { slug: "thunder-eveque", title: "Thunder Eveque", description: "Location, weakness & rewards" },
+  { slug: "matthieu-the-colossus", title: "Matthieu the Colossus", description: "Gestral Arena boss fight" },
+  { slug: "grosse-tete", title: "Grosse Tete", description: "Both locations & parry timing" },
+  { slug: "giant-sapling", title: "Giant Sapling", description: "Crushing Cavern timed fight" },
+  { slug: "rocher", title: "Rocher", description: "Stone Wave Cliffs boss" },
+  { slug: "tisseur", title: "Tisseur", description: "Sirene boss & how to start it" },
+  { slug: "serpenphare", title: "Serpenphare", description: "Shield & AP-drain strategy" },
+  { slug: "sprong", title: "Sprong", description: "Why to beat it first" },
+  { slug: "julien-tiny-head", title: "Julien Tiny Head", description: "Hidden Gestral Arena" },
 ];
 
 function rotateFrom(slug: string): RelatedPage[] {
