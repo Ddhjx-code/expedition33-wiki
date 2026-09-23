@@ -37,3 +37,8 @@ next-env.d.ts
 
 # workspace orchestration
 .superpowers/
+
+# internal marketing strategy — NEVER commit (this repo is PUBLIC).
+# Contains outreach plans, community-rule workarounds, and competitive analysis.
+# Publishing it would be reputationally damaging (e.g. Reddit ban risk).
+/marketing/
