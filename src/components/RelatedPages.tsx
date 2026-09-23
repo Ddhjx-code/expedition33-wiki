@@ -33,6 +33,15 @@ const ALL_PAGES: RelatedPage[] = [
   { slug: "serpenphare", title: "Serpenphare", description: "Shield & AP-drain strategy" },
   { slug: "sprong", title: "Sprong", description: "Why to beat it first" },
   { slug: "julien-tiny-head", title: "Julien Tiny Head", description: "Hidden Gestral Arena" },
+  { slug: "glaise", title: "Glaise", description: "Yellow Harvest boss & rewards" },
+  { slug: "scavenger", title: "Scavenger", description: "Falling Leaves quest boss" },
+  { slug: "golgra", title: "Golgra", description: "All three encounter locations" },
+  { slug: "flame-eveque", title: "Flame Eveque", description: "Flying Manor triple fight" },
+  { slug: "frost-eveque", title: "Frost Eveque", description: "Lightning weakness & phase 2" },
+  { slug: "chromatic-ballet", title: "Chromatic Ballet", description: "Three-in-one flying boss" },
+  { slug: "chromatic-gold-chevaliere", title: "Chromatic Gold Chevaliere", description: "Crimson Forest boss" },
+  { slug: "blanche", title: "Blanche", description: "Reward or fight at The Fountain" },
+  { slug: "enemy-weaknesses", title: "Enemy Weaknesses", description: "Full element chart" },
 ];
 
 function rotateFrom(slug: string): RelatedPage[] {

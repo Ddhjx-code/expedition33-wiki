@@ -1,0 +1,39 @@
+{
+  "slug": "frost-eveque",
+  "title": "Frost Eveque - Location, Lightning Weakness & Rewards",
+  "description": "The Frost Eveque in Expedition 33 is weak to Lightning, not Fire, despite the name. Location north of Stone Quarry, phase 2 details and rewards.",
+  "keyword": "frost eveque expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The <strong>Frost Eveque</strong> is an optional boss on <strong>The Continent</strong>, and one of three elemental Eveque variants. It has a second phase and a weak spot that does not work.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Frost Eveque",
+      "content": "<p><strong>Location: The Continent</strong> - the <strong>southern end of the snowy area in the middle of the map</strong>, just <strong>north of the Stone Quarry</strong> and west of the Coastal Cave.</p><p>It is <strong>alone</strong>, floating in the middle of a snowy arena, with several stone statues leading up to it. You can reach this spot once you have made it through the Forgotten Battlefield, and you need Esquie's swim ability.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Lightning</td></tr><tr><td>Resists</td><td>Fire, Dark, Earth, Light, Physical</td></tr><tr><td>Absorbs</td><td><strong>Ice</strong></td></tr></tbody></table><p><strong>The counterintuitive part: it is weak to Lightning, not Fire.</strong> Fire is resisted like everything else. Do not assume the name tells you the answer.</p>"
+    },
+    {
+      "id": "weak-spot",
+      "title": "The Weak Spot Is Bugged",
+      "content": "<p>The Frost Eveque has a visible weak spot - a <strong>glowing orb at the centre of its chest</strong> - but it <strong>does not register any extra damage</strong>. It appears to be a bug.</p><p>Do not build a strategy around hitting it. Aim for the Lightning weakness instead.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li><strong>Energising Gradient</strong></li><li>Resplendent Chroma Catalyst x2</li><li>Colour of Lumina x5</li><li>180,000 EXP</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Frost Eveque",
+      "content": "<h3>There is a second phase at 30% HP</h3><p>When it drops to roughly <strong>30% health</strong> it powers up and becomes noticeably more aggressive: it uses a <strong>new Gradient Attack</strong> and its <strong>melee attack becomes faster</strong>. The timing on its other attacks stays the same.</p><h3>Lightning is the whole plan</h3><p>Recommended skills: <strong>Lune's Lightning Dance, Thunderfall or Electrify</strong>. Equip a Lightning-affinity weapon so your free aim and adaptive skills also convert to Lightning.</p><h3>Stack Mark for extra damage</h3><p>Have someone apply <strong>Mark</strong> first, then follow with your Lightning burst:</p><ul><li>Verso - Defiant Strike or Marking Shot</li><li>Sciel - Marking Card</li><li>Monoco - Chapelier Slash or Echassier Stabs</li></ul><p>Then follow up with a high-damage Lightning skill. Suggested loadouts from the community: <strong>Kralim + Lightning on Lune</strong>, <strong>Brulerum</strong> to stack Burns on Maelle, and <strong>Dualiso</strong> on Verso.</p><h3>Attack reads</h3><ul><li><strong>Spear</strong> - it charges the spear, pulses, then plunges it; after the first strike it creates up to 3 shockwaves hitting the whole team (up to 4 damage instances). Parry on the first strike</li><li><strong>Ice Blast</strong> - it turns to its side and holds an orb in its right hand; parry after the pulse, but note there is a slight delay after the sound cue</li><li><strong>Energy Blast</strong> (phase 2) - screen turns monochromatic just before it fires at a single target; press as the blast fires for a gradient counter</li><li><strong>Full Power / Tremor</strong> - a crawling wave with up to 9 damage instances; the parry timing is on the third step</li></ul>"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "chromatic-ballet",
+  "title": "Chromatic Ballet - Trio Weaknesses & How to Beat It",
+  "description": "The Chromatic Ballet in Expedition 33 is three flying bosses in one, each with a different element. Blue, purple and orange weaknesses explained.",
+  "keyword": "chromatic ballet expedition 33",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The <strong>Chromatic Ballet</strong> is an optional boss in <strong>Falling Leaves</strong> - and it is actually <strong>three enemies in one encounter</strong>. Each is a differently coloured flying entity with its own element, its own weakness and its own resistance.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Chromatic Ballet",
+      "content": "<p><strong>Location: Falling Leaves</strong>, northwest of the Forgotten Battlefield (or southwest of Old Lumiere).</p><p>You need to complete the <strong>main story mission in Old Lumiere</strong> to gain Esquie's ability to swim through coral.</p><p>From the first Rest Point flag you can take <strong>either the high or the low path</strong> - both lead to the boss. It is at the end of the small Falling Leaves area, past the bridge.</p><p>It also appears in the <strong>Endless Tower</strong> (Stage 9 Trial 1).</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "The Three Entities and Their Elements",
+      "content": "<p>The encounter is colour-coded. Position matters: blue is on the left, purple in the middle, orange on the right.</p><table><thead><tr><th>Entity</th><th>Weak to</th><th>Resists</th></tr></thead><tbody><tr><td><strong>Blue</strong> (left)</td><td>Fire</td><td>Ice</td></tr><tr><td><strong>Purple</strong> (middle)</td><td>Dark</td><td>Light</td></tr><tr><td><strong>Orange</strong> (right)</td><td>Ice</td><td>Fire</td></tr></tbody></table><p>Note the trap: <strong>Fire kills blue but is resisted by orange</strong>, and <strong>Ice kills orange but is resisted by blue.</strong> A single-element AoE approach will always be feeding one of them.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li><strong>Blizzon</strong></li><li>Resplendent Chroma Catalyst x6</li><li>Colour of Lumina x15</li></ul><p>The Colour of Lumina x15 drop makes this one of the more worthwhile optional fights in Act 2.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Chromatic Ballet",
+      "content": "<h3>They all fly</h3><p>The single biggest problem is that <strong>all three entities are airborne</strong>, which limits your melee options and makes positioning awkward. Expect to lean on ranged tools and free aim more than usual.</p><h3>Switch targets, do not spread damage</h3><p>Because each entity has a different weakness, the efficient approach is to <strong>focus one down at a time with the correct element</strong> rather than hitting all three with a single element type:</p><ul><li>Take the <strong>blue</strong> one with <strong>Fire</strong></li><li>Take the <strong>purple</strong> one with <strong>Dark</strong></li><li>Take the <strong>orange</strong> one with <strong>Ice</strong></li></ul><p>This lets you avoid ever hitting something with an element it resists.</p>"
+    }
+  ]
+}
