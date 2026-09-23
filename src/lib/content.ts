@@ -36,6 +36,7 @@ const ALL_SLUGS = [
   "tier-list",
   "endings-explained",
   "how-to-parry",
+  "damage-mechanics",
   "boss-order",
   "weapons-locations",
   "trophy-guide",
