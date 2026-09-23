@@ -9,6 +9,7 @@ interface RelatedPage {
 const ALL_PAGES: RelatedPage[] = [
   { slug: "guide", title: "Beginner Guide", description: "Core mechanics & tips" },
   { slug: "best-builds", title: "Best Builds", description: "Top builds for all characters" },
+  { slug: "damage-mechanics", title: "Damage Mechanics", description: "How Pictos & Lumina actually stack" },
   { slug: "boss-guide", title: "Boss Guide", description: "Strategies for every boss" },
   { slug: "best-weapons", title: "Best Weapons", description: "Top weapon picks & locations" },
   { slug: "best-pictos", title: "Best Pictos", description: "Most powerful Pictos ranked" },
@@ -25,9 +26,15 @@ const ALL_PAGES: RelatedPage[] = [
   { slug: "trophy-guide", title: "Trophy Guide", description: "All achievements" },
 ];
 
+function rotateFrom(slug: string): RelatedPage[] {
+  const start = ALL_PAGES.findIndex((p) => p.slug === slug) + 1;
+  return [...ALL_PAGES.slice(start), ...ALL_PAGES.slice(0, start)];
+}
+
 export default function RelatedPages({ currentSlug }: { currentSlug: string }) {
-  // Show 4 related pages, excluding the current page
-  const related = ALL_PAGES.filter((p) => p.slug !== currentSlug).slice(0, 4);
+  const related = rotateFrom(currentSlug)
+    .filter((p) => p.slug !== currentSlug)
+    .slice(0, 4);
 
   return (
     <nav className="mt-12 border-t border-border pt-8" aria-label="Related guides">
