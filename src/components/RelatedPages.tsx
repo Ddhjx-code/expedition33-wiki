@@ -42,6 +42,8 @@ const ALL_PAGES: RelatedPage[] = [
   { slug: "chromatic-gold-chevaliere", title: "Chromatic Gold Chevaliere", description: "Crimson Forest boss" },
   { slug: "blanche", title: "Blanche", description: "Reward or fight at The Fountain" },
   { slug: "enemy-weaknesses", title: "Enemy Weaknesses", description: "Full element chart" },
+  { slug: "world-lore", title: "World & Story", description: "The Paintress, Gommage & Canvas" },
+  { slug: "boss-drops", title: "Boss Drops Index", description: "Every boss reward in one table" },
 ];
 
 function rotateFrom(slug: string): RelatedPage[] {

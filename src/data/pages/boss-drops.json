@@ -1,0 +1,29 @@
+{
+  "slug": "boss-drops",
+  "title": "All Expedition 33 Boss Drops & Rewards - Full Index",
+  "description": "Every optional boss reward in Expedition 33 in one table: Pictos, weapons, Chroma Catalysts and Colours of Lumina, with locations.",
+  "keyword": "expedition 33 boss drops",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A single cross-reference table of what every optional boss in Expedition 33 drops and where to find it. Useful when you are hunting a specific Pictos or weapon and do not want to open twenty separate pages.</p><p>Rewards marked <strong>—</strong> are bosses where a specific drop list has not been documented. We list what is verified rather than guessing.</p>"
+    },
+    {
+      "id": "table",
+      "title": "Boss Drops Table",
+      "content": "<table><thead><tr><th>Boss</th><th>Location</th><th>Drops / Rewards</th></tr></thead><tbody><tr><td><strong>Sprong</strong></td><td>The Continent (N of Endless Tower)</td><td>Cheater Pictos · Sprong achievement</td></tr><tr><td><strong>Serpenphare</strong></td><td>The Continent (SE of Boat Graveyard)</td><td>Energy Master Pictos · Perfect Chroma Catalyst x1 · Grandiose Chroma Catalyst x3</td></tr><tr><td><strong>Grosse Tete</strong></td><td>The Continent (Coastal Cave) / Flying Manor</td><td>Warming Up Pictos · Resplendent Chroma Catalyst x1 · 67,500 EXP</td></tr><tr><td><strong>Thunder Eveque</strong></td><td>The Continent (E of Stone Wave Cliffs Cave)</td><td>Breaking Death x2 · Grandiose Chroma Catalyst x5 · Colour of Lumina</td></tr><tr><td><strong>Frost Eveque</strong></td><td>The Continent (N of Stone Quarry)</td><td>Energising Gradient · Resplendent Chroma Catalyst x2 · Colour of Lumina x5 · 180,000 EXP</td></tr><tr><td><strong>Flame Eveque</strong></td><td>Flying Manor / Endless Tower</td><td>Kralim · Grandiose Chroma Catalyst x6 · Colour of Lumina x5 · 1,113,750 EXP</td></tr><tr><td><strong>Giant Sapling</strong></td><td>Crushing Cavern</td><td>Solidifying · Polished Chroma Catalyst</td></tr><tr><td><strong>Glaise</strong></td><td>Yellow Harvest (Yellow Spire Wrecks)</td><td>Plenum (Maelle, Lv7) · Energising Attack I Pictos · Polished Chroma Catalyst x3 · 24,190 EXP</td></tr><tr><td><strong>Scavenger</strong></td><td>Falling Leaves (Lady of Sap quest)</td><td>Scaverim (Lune, Lv14) · Resplendent Chroma Catalyst x3 · 139,320 EXP · 8,020 Chroma · Until Next Life record</td></tr><tr><td><strong>Chromatic Ballet</strong></td><td>Falling Leaves / Endless Tower</td><td>Blizzon · Resplendent Chroma Catalyst x6 · Colour of Lumina x15</td></tr><tr><td><strong>Tisseur</strong></td><td>Sirene</td><td>—</td></tr><tr><td><strong>Rocher</strong></td><td>Stone Wave Cliffs</td><td>—</td></tr><tr><td><strong>Matthieu the Colossus</strong></td><td>Hidden Gestral Arena</td><td>Arena tournament progress toward Medalum</td></tr><tr><td><strong>Julien Tiny Head</strong></td><td>Hidden Gestral Arena</td><td>Arena tournament progress</td></tr><tr><td><strong>Golgra</strong></td><td>Gestral Village / Dark Gestral Arena / Sacred River</td><td>—</td></tr><tr><td><strong>Chromatic Gold Chevaliere</strong></td><td>Crimson Forest</td><td>Chromatic-tier catalysts, weapon, Pictos</td></tr><tr><td><strong>Blanche (fight)</strong></td><td>The Fountain</td><td>Colour of Lumina x10 · Grandiose Chroma Catalyst x2</td></tr><tr><td><strong>Blanche (spared)</strong></td><td>The Fountain</td><td><strong>Colour of Lumina x100</strong> · Aiding the Enemy achievement</td></tr></tbody></table>"
+    },
+    {
+      "id": "notable",
+      "title": "The Drops Actually Worth Chasing",
+      "content": "<h3>Cheater (Sprong)</h3><p>Lets an equipped character <strong>act twice in a row</strong>. Widely considered one of the strongest Pictos in the game, and the reason to put Sprong first on your Act 3 boss list.</p><h3>Energy Master (Serpenphare)</h3><p>Raises AP gained from any source by 1. Compounds with everything else in a build.</p><h3>Colour of Lumina x100 - do not fight Blanche</h3><p>The single largest Colour of Lumina reward in the game comes from <strong>not</strong> fighting her. Sparing every friendly White Nevron earns <strong>100</strong> Colour of Lumina; killing her earns <strong>10</strong>. See the <a href=\"/blanche\">Blanche page</a>.</p>"
+    },
+    {
+      "id": "how-to-use",
+      "title": "How to Read This",
+      "content": "<ul><li>Chromatic-tier bosses drop <strong>Resplendent</strong> and <strong>Grandiose Chroma Catalysts</strong>, plus weapons and Pictos</li><li><strong>Colour of Lumina</strong> is the limiter on how many Lumina effects you can equip - bosses are one of the best sources</li><li>For how these rewards feed into your build, see our <a href=\"/damage-mechanics\">damage mechanics</a> and <a href=\"/character-stats\">character stats</a> guides</li></ul>"
+    }
+  ]
+}

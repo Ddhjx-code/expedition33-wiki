@@ -1,0 +1,64 @@
+{
+  "slug": "world-lore",
+  "title": "Expedition 33 World & Story Explained (Spoiler Guide)",
+  "description": "The world of Clair Obscur Expedition 33 explained: the Paintress, the Gommage, Lumiere, the Fracture, the Expeditions, the Canvas and the Dessendre family. Full spoilers.",
+  "keyword": "expedition 33 story explained",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "spoiler-warning",
+      "title": "Spoiler Warning",
+      "content": "<p><strong>This page contains full story spoilers, including the ending.</strong> It covers the setting and backstory of Clair Obscur: Expedition 33, including revelations that are not revealed until Act 3.</p><p>If you only want gameplay help, see the <a href=\"/guide\">beginner guide</a> or <a href=\"/boss-guide\">boss guide</a> instead.</p>"
+    },
+    {
+      "id": "premise",
+      "title": "The Premise: The Paintress and the Monolith",
+      "content": "<p>Once a year, an enormous figure called <strong>the Paintress</strong> wakes at the base of a Monolith at the north of the Continent. She stands, repaints the number on the Monolith <strong>one lower than the year before</strong>, and goes back to sleep.</p><p>Everyone whose age matches that new number is <strong>erased from existence</strong> in an event called <strong>the Gommage</strong> - they turn to dust and petals, in an instant.</p><p>When the game begins, the number changes from 34 to 33. Everyone aged 33 dies. Next year it will be 32, then 31, and so on. Nobody lives past their early thirties, and each generation's lifespan is shorter than their parents'.</p>"
+    },
+    {
+      "id": "lumiere",
+      "title": "Lumiere and the Fracture",
+      "content": "<p><strong>Lumiere</strong> is the last remaining human settlement on the Continent - a city with obvious echoes of Belle Epoque Paris, down to a bent Eiffel Tower.</p><p>67 years before the game, an event called <strong>the Fracture</strong> tore Lumiere away from the rest of the Continent, leaving a chunk of the old city stranded in the sea to the south. That isolation gave the city time to build the <strong>Shield Dome</strong> that defends it from Nevrons, and it is the only reason it survived.</p><p>Lumiere is governed by a Council, and by the time of Expedition 33 its main responsibility has become preparing for the <strong>\"last generation\"</strong> - because the population is running out of people.</p>"
+    },
+    {
+      "id": "gommage-day",
+      "title": "What the Day of the Gommage Looks Like",
+      "content": "<p>The Gommage is a public, communal ritual rather than a surprise. On the day, citizens gather at the harbour to watch the Paintress rise and paint the new number, and to say goodbye to those who will die.</p><ul><li>People gift <strong>red and white flowers</strong> to their departing loved ones</li><li>Those due to Gommage <strong>donate their belongings</strong> beforehand so others can use them</li><li>The harbour and markets are full of flowers left from previous years</li></ul><p>In the prologue, Gustave says goodbye to his former partner Sophie on the day she Gomages - along with every other 33-year-old in the city.</p>"
+    },
+    {
+      "id": "expeditions",
+      "title": "The Expeditions",
+      "content": "<p>Every year Lumiere sends an <strong>Expedition</strong> of volunteers to the Continent, with the goal of reaching and destroying the Paintress so the Gommage can never happen again. The unit is named after the current number - this year, Expedition 33.</p><p>No Expedition has ever succeeded in 67 years. So each one carries a second objective: <strong>to lay a trail for the next one</strong> - supplies, clues, safe paths, journals. The cumulative hope is that eventually someone will make it.</p><p>The motto of every Expedition is <strong>\"For those who come after.\"</strong></p><p>Early Expeditions were search-and-rescue missions. They only became assassination attempts once Lumiere established the link between the Gommage and the Monolith, on MY 85, after witnessing two elderly twins die together.</p>"
+    },
+    {
+      "id": "the-twist",
+      "title": "The Revelation: The Canvas",
+      "content": "<p>Everything above is true from inside the world - and all of it is a layer over the real story.</p><p><strong>The entire world is a Canvas</strong> - a pocket universe painted into existence by <strong>Verso Dessendre</strong>, a boy who died in a fire at the Dessendre family home. The Canvas holds the last surviving fragment of his soul.</p><p>Verso's mother, <strong>Aline</strong>, was consumed by grief. Using the family's ability to paint worlds into being, she entered her dead son's Canvas and stayed there, creating painted copies of her family to live with.</p><p><strong>So the Paintress is Aline.</strong> And Lumiere, its people, and the painted versions of Aline's family are all her creations - made from a substance called <strong>chroma</strong>.</p>"
+    },
+    {
+      "id": "gommage-truth",
+      "title": "The Truth About the Gommage",
+      "content": "<p>The single most important revelation: <strong>the Gommage is not the Paintress's doing.</strong></p><p>It is caused by her husband, <strong>Renoir</strong> - the real one, not the painted copy. Renoir entered the Canvas to pull Aline back out into the real world, where war had broken out between the <strong>Painters</strong> and the <strong>Writers</strong>.</p><p>Renoir's method is economic, not cruel for its own sake: he erases the <strong>oldest</strong> of Aline's creations so that, when they die, their chroma does <strong>not return to her</strong>. With no chroma, she has no paint - and no reason to stay.</p><p>That recontextualises the Monolith entirely. The numbers the Paintress paints are <strong>not a threat. They are a warning</strong> - Aline telling Lumiere how much time is left before her power fails and Renoir escapes.</p><p>Aline painted the Monolith on top of Renoir to hold him in place, and had to remain there herself to keep him trapped. The giant mannequin is a construct guarding that prison - and the stalemate has lasted 67 years inside the Canvas, which is only a few days in the real world.</p>"
+    },
+    {
+      "id": "factions",
+      "title": "Who Created What: The Factions",
+      "content": "<p>Different members of the Dessendre family painted different parts of the world - which explains why the factions behave so differently.</p><table><thead><tr><th>Faction</th><th>Creator</th><th>Notes</th></tr></thead><tbody><tr><td><strong>Humans of Lumiere</strong></td><td>Aline</td><td>Her painted people, made from chroma</td></tr><tr><td><strong>Nevrons</strong></td><td>Clea</td><td>Clea is Verso's sister - which is why Nevrons refer to her as \"Mistress\". Humans killed by Nevrons have their essence passed to Renoir</td></tr><tr><td><strong>Gestrals</strong></td><td>Verso</td><td>The painted Verso created them; Monoco was based on his real-world dog</td></tr><tr><td><strong>Axons</strong></td><td>Renoir</td><td>His own interpretations of the Dessendre family. Defeating them is how the Expedition breaches the Monolith barrier</td></tr></tbody></table>"
+    },
+    {
+      "id": "key-figures",
+      "title": "Key Figures, Decoded",
+      "content": "<table><thead><tr><th>Who you meet</th><th>Who they really are</th></tr></thead><tbody><tr><td><strong>The Paintress</strong></td><td>Aline Dessendre - Verso and Alicia's mother, living inside her dead son's Canvas</td></tr><tr><td><strong>The Curator</strong></td><td>The <strong>real</strong> Renoir. He rescued Maelle early in the game - the same man who causes the Gommage</td></tr><tr><td><strong>Painted Renoir</strong></td><td>The antagonist for most of the game. A copy Aline made, loyal to her - though he knows that if she dies, he dies too</td></tr><tr><td><strong>Maelle</strong></td><td>Really <strong>Alicia Dessendre</strong>, Verso's sister. Entering the Canvas overwhelmed her and she was reborn in it as Maelle, without her memories</td></tr><tr><td><strong>Verso (party member)</strong></td><td>A painted copy of the dead Verso - not the real one</td></tr><tr><td><strong>Renoir and Verso (Expedition 0)</strong></td><td>Both connected to <strong>Expedition 0</strong>, the very first Expedition. They avoided aging and the Gommage, and Renoir spent the years destroying every later Expedition to protect the Paintress</td></tr></tbody></table>"
+    },
+    {
+      "id": "endings",
+      "title": "How It Ends",
+      "content": "<p>Once Maelle recovers her memories as Alicia, the conflict becomes a choice about the Canvas itself:</p><ul><li><strong>Fight as Verso</strong> - destroy the Canvas, freeing the last piece of the real Verso's soul and sending Maelle back to her family in the real world. Everything inside the Canvas ceases to exist</li><li><strong>Fight as Maelle</strong> - preserve the Canvas and remain in Lumiere forever, taking over as its Paintress - continuing the very cycle her mother began</li></ul><p>See our <a href=\"/endings-explained\">endings explained</a> page for the full breakdown of each route.</p>"
+    },
+    {
+      "id": "reading-order",
+      "title": "Where the Lore Comes From In-Game",
+      "content": "<p>Most of this is not delivered in cutscenes. The bulk of the backstory is in <strong>Journal entries</strong> found across the Continent - including diaries from previous Expeditions, such as Expedition 49's log, which contains key information about Renoir and Verso.</p><p>If you want to assemble the story yourself rather than be told it, prioritise collecting:\nJournals, Old Lumiere's ruined records, and the camp conversations with your party.</p>"
+    }
+  ]
+}
