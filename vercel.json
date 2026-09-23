@@ -4,47 +4,520 @@
   "framework": null,
   "cleanUrls": true,
   "redirects": [
-    { "source": "/expedition-33-wiki/characters-3/eloise", "destination": "/Eloise", "permanent": true },
-    { "source": "/expedition-33-wiki/characters-3/jules", "destination": "/Jules", "permanent": true },
-    { "source": "/expedition-33-wiki/characters-3/lucie", "destination": "/Lucie", "permanent": true },
-    { "source": "/expedition-33-wiki/characters-3/:path*", "destination": "/characters", "permanent": true },
-    { "source": "/expedition-33-wiki/characters-3/:path*/", "destination": "/characters", "permanent": true },
-    { "source": "/expedition-33-wiki/locations-3/:path*", "destination": "/locations", "permanent": true },
-    { "source": "/expedition-33-wiki/locations-3/:path*/", "destination": "/locations", "permanent": true },
-    { "source": "/expedition-33-wiki/enemies-3/:path*", "destination": "/Enemies", "permanent": true },
-    { "source": "/expedition-33-wiki/enemies-3/:path*/", "destination": "/Enemies", "permanent": true },
-    { "source": "/expedition-33-wiki/:path*", "destination": "/guide", "permanent": true },
-    { "source": "/expedition-33-wiki/:path*/", "destination": "/guide", "permanent": true },
-    { "source": "/wiki/Characters", "destination": "/characters", "permanent": true },
-    { "source": "/wiki/Characters/", "destination": "/characters", "permanent": true },
-    { "source": "/wiki/Enemies", "destination": "/Enemies", "permanent": true },
-    { "source": "/wiki/Enemies/", "destination": "/Enemies", "permanent": true },
-    { "source": "/wiki/Clea", "destination": "/characters", "permanent": true },
-    { "source": "/wiki/Clea/", "destination": "/characters", "permanent": true },
-    { "source": "/wiki/:path*", "destination": "/guide", "permanent": true },
-    { "source": "/wiki/:path*/", "destination": "/guide", "permanent": true },
-    { "source": "/manor", "destination": "/locations", "permanent": true },
-    { "source": "/Esquie", "destination": "/characters", "permanent": true },
-
-    { "source": "/Endings", "destination": "/endings-explained", "permanent": true },
-    { "source": "/Pictos", "destination": "/best-pictos", "permanent": true },
-    { "source": "/Simon", "destination": "/boss-guide", "permanent": true },
-    { "source": "/Sirene_\\(Boss\\)", "destination": "/boss-guide", "permanent": true },
-    { "source": "/Sirene's_Dress", "destination": "/Outfits", "permanent": true },
-    { "source": "/Sirene%27s_Dress", "destination": "/Outfits", "permanent": true },
-    { "source": "/Clea's_Life", "destination": "/characters", "permanent": true },
-    { "source": "/Clea%27s_Life", "destination": "/characters", "permanent": true },
-    { "source": "/Gommage", "destination": "/walkthrough", "permanent": true },
-    { "source": "/Expedition_33_Wiki", "destination": "/guide", "permanent": true },
-    { "source": "/Fextralife", "destination": "/guide", "permanent": true },
-    { "source": "/fextralife", "destination": "/guide", "permanent": true },
-
-    { "source": "/Melarum", "destination": "/guide", "permanent": true },
-    { "source": "/Old_Key", "destination": "/guide", "permanent": true },
-    { "source": "/Trigger-Happy", "destination": "/best-pictos", "permanent": true },
-    { "source": "/Frozen_Hearts", "destination": "/best-pictos", "permanent": true },
-    { "source": "/Shield_Affinity", "destination": "/best-pictos", "permanent": true },
-    { "source": "/End_Slice", "destination": "/best-pictos", "permanent": true },
-    { "source": "/Confident", "destination": "/best-pictos", "permanent": true }
+    {
+      "source": "/expedition-33-wiki/characters-3/eloise",
+      "destination": "/Eloise",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/characters-3/jules",
+      "destination": "/Jules",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/characters-3/lucie",
+      "destination": "/Lucie",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/characters-3/:path*",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/characters-3/:path*/",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/locations-3/:path*",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/locations-3/:path*/",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/enemies-3/:path*",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/enemies-3/:path*/",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/:path*",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/:path*/",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/Characters",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/Characters/",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/Enemies",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/Enemies/",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/Clea",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/Clea/",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/:path*",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/:path*/",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/manor",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Esquie",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Endings",
+      "destination": "/endings-explained",
+      "permanent": true
+    },
+    {
+      "source": "/Pictos",
+      "destination": "/best-pictos",
+      "permanent": true
+    },
+    {
+      "source": "/Simon",
+      "destination": "/boss-guide",
+      "permanent": true
+    },
+    {
+      "source": "/Sirene_\\(Boss\\)",
+      "destination": "/boss-guide",
+      "permanent": true
+    },
+    {
+      "source": "/Sirene's_Dress",
+      "destination": "/Outfits",
+      "permanent": true
+    },
+    {
+      "source": "/Sirene%27s_Dress",
+      "destination": "/Outfits",
+      "permanent": true
+    },
+    {
+      "source": "/Clea's_Life",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Clea%27s_Life",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Gommage",
+      "destination": "/walkthrough",
+      "permanent": true
+    },
+    {
+      "source": "/Expedition_33_Wiki",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/Fextralife",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/fextralife",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/Melarum",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/Old_Key",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/Trigger-Happy",
+      "destination": "/best-pictos",
+      "permanent": true
+    },
+    {
+      "source": "/Frozen_Hearts",
+      "destination": "/best-pictos",
+      "permanent": true
+    },
+    {
+      "source": "/Shield_Affinity",
+      "destination": "/best-pictos",
+      "permanent": true
+    },
+    {
+      "source": "/End_Slice",
+      "destination": "/best-pictos",
+      "permanent": true
+    },
+    {
+      "source": "/Confident",
+      "destination": "/best-pictos",
+      "permanent": true
+    },
+    {
+      "source": "/Abbest",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Aberration",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Ballet",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Barbasucette",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Benisseur",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/BloodiedBeach",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Bloodied_Beach",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Bottom_of_the_Monolith",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/BottomoftheMonolith",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Boucheclier",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Bourgeon",
+      "destination": "/boss-guide",
+      "permanent": true
+    },
+    {
+      "source": "/Braseleur",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Bruler",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Chevaliere",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Chorale",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/ChromaticPeaks",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Chromatic_Peaks",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Clair",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Clea",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Cruler",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Echassier",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Estelle",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Eveque",
+      "destination": "/boss-guide",
+      "permanent": true
+    },
+    {
+      "source": "/FestivalShore",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Festival_Shore",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/FlyingWaters",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Flying_Waters",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Francois",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Gault",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/GestralVillage",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Gestral_Village",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Gustave",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Jar",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Julie",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Lancelier",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Lune",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Luster",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Maelle",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Mime",
+      "destination": "/boss-guide",
+      "permanent": true
+    },
+    {
+      "source": "/Monoco",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Noco",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Ophelie",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Orphelin",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/PaintedDepths",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/PaintedPeaks",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Painted_Depths",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Painted_Peaks",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Pelerin",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Petanks",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/Reacher",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Renoir",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Sciel",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Sirene",
+      "destination": "/boss-guide",
+      "permanent": true
+    },
+    {
+      "source": "/TheEndlessTower",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/TheFountain",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/TheManor",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/The_Endless_Tower",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/The_Fountain",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/The_Manor",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Tiffanie",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Verso",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Sirene_%28Boss%29",
+      "destination": "/boss-guide",
+      "permanent": true
+    },
+    {
+      "source": "/Unfinished_Jar",
+      "destination": "/Enemies",
+      "permanent": true
+    }
   ]
 }
