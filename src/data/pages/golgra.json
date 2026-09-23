@@ -11,7 +11,7 @@
       "content": "<p><strong>Golgra</strong> is the Chief of the Gestrals and one of the toughest optional fights in Expedition 33. She appears in <strong>three separate encounters</strong>, and one of them is a permanent missable.</p>"
     },
     {
-      "id": "locations",
+      "id": "how-to-find",
       "title": "The Three Golgra Encounters",
       "content": "<h3>1. Gestral Village (first meeting)</h3><p>You meet her early in Act 1 while passing through Gestral Village. Fighting her here is <strong>not recommended</strong> - her attacks and health pool are far beyond what an early party can handle. Treat it as an endgame encounter to come back to with better gear.</p><h3>2. Dark Gestral Arena (Act 3)</h3><p>A floating arena <strong>southeast of White Tree</strong>, reachable once Esquie can fly. Golgra is the <strong>fourth and final challenge</strong> here.</p><p><strong>Important:</strong> the Gestrals in the giant pots will ask you to fight Golgra immediately after you defeat the <strong>Chromatic Robust Sakapatate</strong>. You must accept the request right then - <strong>if you decline, you lose the chance to fight her in this arena.</strong></p><h3>3. Sacred River (Monoco's relationship quest)</h3><p>She also appears at the Sacred River as part of <strong>Monoco's relationship sidequest</strong>. The Sacred River is a short distance north of Monoco's Station.</p>"
     },
@@ -19,6 +19,11 @@
       "id": "weakness",
       "title": "Weakness & Resistances",
       "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>None</td></tr><tr><td>Resists</td><td>None</td></tr></tbody></table><p><strong>No elemental weakness and no resistances.</strong> There is no build trick here - this is a pure damage and execution fight.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<p>Golgra's specific drop list is not documented in the sources we could verify.</p><p>She is the final challenge of the Dark Gestral Arena and a relationship-quest opponent at the Sacred River, so clearing her is primarily about progression rather than a unique reward.</p>"
     },
     {
       "id": "strategy",

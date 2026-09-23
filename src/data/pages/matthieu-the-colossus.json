@@ -16,6 +16,11 @@
       "content": "<p><strong>Location: Hidden Gestral Arena.</strong></p><p>From the <strong>Gestral Arena checkpoint</strong>, head to the platform and speak to <strong>Limonsol</strong> to arrange the fight.</p>"
     },
     {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<p>Matthieu has <strong>no documented elemental weakness</strong> - and in the Arena format, elemental matching matters far less than it does elsewhere. You fight solo, so parry timing and raw single-target damage dominate.</p><p>Treat it as a physical matchup and bring your hardest-hitting single-target skills rather than an element-specific setup.</p>"
+    },
+    {
       "id": "rewards",
       "title": "Rewards",
       "content": "<p>Defeating him is part of the Arena tournament chain in Gestral Village. The tournament is also how you eventually earn the <strong>Medalum</strong> weapon - and to get it, you must duel <strong>Sciel</strong> as <strong>Maelle</strong>.</p>"

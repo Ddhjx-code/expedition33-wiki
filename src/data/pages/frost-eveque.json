@@ -18,12 +18,7 @@
     {
       "id": "weakness",
       "title": "Weakness & Resistances",
-      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Lightning</td></tr><tr><td>Resists</td><td>Fire, Dark, Earth, Light, Physical</td></tr><tr><td>Absorbs</td><td><strong>Ice</strong></td></tr></tbody></table><p><strong>The counterintuitive part: it is weak to Lightning, not Fire.</strong> Fire is resisted like everything else. Do not assume the name tells you the answer.</p>"
-    },
-    {
-      "id": "weak-spot",
-      "title": "The Weak Spot Is Bugged",
-      "content": "<p>The Frost Eveque has a visible weak spot - a <strong>glowing orb at the centre of its chest</strong> - but it <strong>does not register any extra damage</strong>. It appears to be a bug.</p><p>Do not build a strategy around hitting it. Aim for the Lightning weakness instead.</p>"
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Lightning</td></tr><tr><td>Resists</td><td>Fire, Dark, Earth, Light, Physical</td></tr><tr><td>Absorbs</td><td><strong>Ice</strong></td></tr></tbody></table><p><strong>The counterintuitive part: it is weak to Lightning, not Fire.</strong> Fire is resisted like everything else. Do not assume the name tells you the answer.</p><h3>The Weak Spot Is Bugged</h3><p>The Frost Eveque has a visible weak spot - a <strong>glowing orb at the centre of its chest</strong> - but it <strong>does not register any extra damage</strong>. It appears to be a bug.</p><p>Do not build a strategy around hitting it. Aim for the Lightning weakness instead.</p>"
     },
     {
       "id": "rewards",

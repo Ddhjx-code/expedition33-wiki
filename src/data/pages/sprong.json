@@ -16,6 +16,11 @@
       "content": "<p><strong>Location: The Continent</strong>, <strong>partially submerged in the ocean just north of the Endless Tower</strong>.</p><p>It is hard to miss once you are in the area - look for the large shape sitting in the water.</p>"
     },
     {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<p>Sprong has <strong>no documented elemental weakness or resistance</strong> - there is no elemental key to this fight.</p><p>That makes it a pure execution check: a large health pool, a predictable attack pattern, and counterattacks doing the heavy lifting. Parrying is the real damage source here, not element choice.</p>"
+    },
+    {
       "id": "rewards",
       "title": "Rewards",
       "content": "<ul><li><strong>Cheater</strong> Pictos - lets an equipped character <strong>act twice in a row</strong> on their turn</li><li>The \"Sprong\" achievement</li></ul><p><strong>Cheater is one of the strongest Pictos in the game.</strong> An extra action per turn compounds with everything else in your build, which is why killing Sprong early makes every other optional boss easier.</p>"

@@ -1,0 +1,69 @@
+{
+  "slug": "bosses-by-area",
+  "title": "All Expedition 33 Bosses by Area - Location Index",
+  "description": "Every optional boss in Expedition 33 grouped by the area you find them in, with weaknesses and key drops inline. Find what you missed in each region.",
+  "keyword": "expedition 33 bosses by area",
+  "lastUpdated": "2026-09-23",
+  "sections": [
+    {
+      "id": "overview",
+      "title": "How to Use This Index",
+      "content": "<p>All optional bosses in Expedition 33, grouped by <strong>the area they are found in</strong> - so when you are exploring somewhere, you can see at a glance what you might have missed.</p><p>Each boss name links straight to its page. Weaknesses and key drops are shown inline so you can plan a loadout before travelling.</p><p>For a flat reward-only view, see our <a href=\"/boss-drops\">boss drops index</a>. For the recommended order to fight them, see <a href=\"/boss-order\">boss order</a>.</p>"
+    },
+    {
+      "id": "area-0",
+      "title": "The Continent (overworld)",
+      "content": "<p>The sprawling overworld you explore with Esquie. Most optional bosses live here, and several require flight or swim to reach.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/thunder-eveque\"><strong>Thunder Eveque</strong></a></td><td>East of Stone Wave Cliffs Cave</td><td>Earth</td><td>Breaking Death x2 · Grandiose Chroma Catalyst x5</td></tr><tr><td><a href=\"/frost-eveque\"><strong>Frost Eveque</strong></a></td><td>North of the Stone Quarry</td><td>Lightning</td><td>Energising Gradient · 180,000 EXP</td></tr><tr><td><a href=\"/serpenphare\"><strong>Serpenphare</strong></a></td><td>SE of the Boat Graveyard</td><td>Lightning</td><td>Energy Master Pictos · 3x Grandiose CC</td></tr><tr><td><a href=\"/sprong\"><strong>Sprong</strong></a></td><td>North of the Endless Tower</td><td>—</td><td>Cheater Pictos</td></tr><tr><td><a href=\"/grosse-tete\"><strong>Grosse Tete</strong></a></td><td>In front of the Coastal Cave</td><td>None</td><td>Warming Up Pictos</td></tr><tr><td><a href=\"/golgra\"><strong>Golgra</strong></a></td><td>Also at Dark Gestral Arena · Sacred River</td><td>None</td><td>—</td></tr></tbody></table>"
+    },
+    {
+      "id": "area-1",
+      "title": "Stone Wave Cliffs",
+      "content": "<p>Act 1 area. Early optional encounters.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/rocher\"><strong>Rocher</strong></a></td><td>Within the cliffs proper</td><td>Ice</td><td>—</td></tr></tbody></table>"
+    },
+    {
+      "id": "area-2",
+      "title": "Crushing Cavern",
+      "content": "<p>Optional Act 2 area, entered from the water north-west of Gestral Village.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/giant-sapling\"><strong>Giant Sapling</strong></a></td><td>Bottom of the cavern</td><td>None (timed DPS check)</td><td>Solidifying · Polished Chroma Catalyst</td></tr></tbody></table>"
+    },
+    {
+      "id": "area-3",
+      "title": "Yellow Harvest",
+      "content": "<p>Optional side area unlocked once Esquie becomes a mount.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/glaise\"><strong>Glaise</strong></a></td><td>Yellow Spire Wrecks</td><td>Fire, Ice</td><td>Plenum (Maelle) · 24,190 EXP</td></tr></tbody></table>"
+    },
+    {
+      "id": "area-4",
+      "title": "Falling Leaves",
+      "content": "<p>Optional Act 2 zone on the western edge of the Continent.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/scavenger\"><strong>Scavenger</strong></a></td><td>End of the path, past the Lady of Sap gate</td><td>Light</td><td>Scaverim (Lune) · 139,320 EXP</td></tr><tr><td><a href=\"/chromatic-ballet\"><strong>Chromatic Ballet</strong></a></td><td>Past the bridge</td><td>Fire / Dark / Ice (per entity)</td><td>Blizzon · 15x Colour of Lumina</td></tr></tbody></table>"
+    },
+    {
+      "id": "area-5",
+      "title": "Sirene",
+      "content": "<p>Sirene's domain. Tisseur is not hostile until spoken to.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/tisseur\"><strong>Tisseur</strong></a></td><td>Within Sirene</td><td>Fire, Light</td><td>—</td></tr></tbody></table>"
+    },
+    {
+      "id": "area-6",
+      "title": "Crimson Forest",
+      "content": "<p>Act 3 area on The Continent.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/chromatic-gold-chevaliere\"><strong>Chromatic Gold Chevaliere</strong></a></td><td>Within the forest</td><td>Light, Dark</td><td>Chromatic-tier catalysts</td></tr></tbody></table>"
+    },
+    {
+      "id": "area-7",
+      "title": "Hidden Gestral Arena",
+      "content": "<p>1v1 Arena tournament. No party synergy - bring a self-sufficient character.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/matthieu-the-colossus\"><strong>Matthieu the Colossus</strong></a></td><td>Arena platform, via Limonsol</td><td>None</td><td>Arena progress toward Medalum</td></tr><tr><td><a href=\"/julien-tiny-head\"><strong>Julien Tiny Head</strong></a></td><td>Same Arena roster</td><td>None</td><td>Arena progress</td></tr></tbody></table>"
+    },
+    {
+      "id": "area-8",
+      "title": "Flying Manor",
+      "content": "<p>Post-game floating area, reached with Esquie's flight.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/flame-eveque\"><strong>Flame Eveque</strong></a></td><td>Fourth section, triple boss fight</td><td>Ice</td><td>Kralim · 6x Grandiose CC</td></tr><tr><td><a href=\"/grosse-tete\"><strong>Grosse Tete</strong></a></td><td>Below the Dualliste arena</td><td>None</td><td>Warming Up Pictos</td></tr></tbody></table>"
+    },
+    {
+      "id": "area-9",
+      "title": "The Fountain",
+      "content": "<p>Act 3 location west of Spring Meadows, inside the mountain.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/blanche\"><strong>Blanche</strong></a></td><td>Interact with the White Nevron</td><td>None</td><td>100 Colour of Lumina if spared</td></tr></tbody></table>"
+    },
+    {
+      "id": "missing",
+      "title": "If a Boss Is Missing From Your Game",
+      "content": "<p>Two common reasons a boss is not where you expect it:</p><ul><li><strong>Movement ability gating.</strong> Several Continent bosses - Thunder Eveque, Frost Eveque and Serpenphare among them - are only reachable once Esquie has <strong>flight</strong>, and Scavenger needs <strong>swim</strong>.</li><li><strong>Quest gating.</strong> Scavenger is locked behind the Lady of Sap quest, and Blanche's whole outcome depends on how you handled the friendly Nevron questline across Acts 1 and 2.</li></ul><p>Golgra also has one <strong>permanently missable</strong> encounter: you must accept the Dark Gestral Arena challenge immediately after defeating the Chromatic Robust Sakapatate.</p>"
+    }
+  ]
+}
