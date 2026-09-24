@@ -17,12 +17,12 @@
     {
       "id": "gustave-haircuts",
       "title": "Gustave — All Hairstyles",
-      "content": "<p><a href=\"/best-builds\" style=\"color:var(--accent)\">Gustave</a> has approximately <strong>8-10 hairstyles</strong> available:</p><ul><li>Default</li><li>Short Cropped — Merchant</li><li>Slicked Back — Quest reward</li><li>Messy — Exploration find</li><li>Military — Merchant</li><li>Long — Late-game unlock</li><li>+ Additional DLC/patch styles</li></ul>"
+      "content": "<p><a href=\"/characters\" style=\"color:var(--accent)\">Gustave</a> has approximately <strong>8-10 hairstyles</strong> available:</p><ul><li>Default</li><li>Short Cropped — Merchant</li><li>Slicked Back — Quest reward</li><li>Messy — Exploration find</li><li>Military — Merchant</li><li>Long — Late-game unlock</li><li>+ Additional DLC/patch styles</li></ul>"
     },
     {
       "id": "other-characters",
       "title": "Other Characters",
-      "content": "<h3><a href=\"/build-maelle\" style=\"color:var(--accent)\">Maelle</a></h3><ul><li>~10 hairstyles including braids, short cuts, and combat styles</li><li>Some unlock from <a href=\"/locations\" style=\"color:var(--accent)\">Gestral Arena</a> progression</li></ul><h3><a href=\"/best-builds\" style=\"color:var(--accent)\">Sciel</a></h3><ul><li>~10 hairstyles tied to her mystical/ethereal aesthetic</li></ul><h3><a href=\"/build-verso\" style=\"color:var(--accent)\">Verso</a></h3><ul><li>~10 hairstyles including multiple lengths and styles</li><li>Some from Verso-specific side content</li></ul><h3><a href=\"/best-builds\" style=\"color:var(--accent)\">Monoco</a></h3><ul><li>~8 hairstyles fitting his bestial nature</li></ul>"
+      "content": "<h3><a href=\"/build-maelle\" style=\"color:var(--accent)\">Maelle</a></h3><ul><li>~10 hairstyles including braids, short cuts, and combat styles</li><li>Some unlock from <a href=\"/locations\" style=\"color:var(--accent)\">Gestral Arena</a> progression</li></ul><h3><a href=\"/characters\" style=\"color:var(--accent)\">Sciel</a></h3><ul><li>~10 hairstyles tied to her mystical/ethereal aesthetic</li></ul><h3><a href=\"/build-verso\" style=\"color:var(--accent)\">Verso</a></h3><ul><li>~10 hairstyles including multiple lengths and styles</li><li>Some from Verso-specific side content</li></ul><h3><a href=\"/characters\" style=\"color:var(--accent)\">Monoco</a></h3><ul><li>~8 hairstyles fitting his bestial nature</li></ul>"
     },
     {
       "id": "unlock-methods",
