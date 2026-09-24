@@ -9,6 +9,10 @@
       "value": "The Continent — southeast of the Boat Graveyard"
     },
     {
+      "label": "Nearest flag",
+      "value": "Expedition Flag near the Endless Tower"
+    },
+    {
       "label": "Weak to",
       "value": "Lightning"
     },
@@ -48,5 +52,10 @@
       "title": "How to Beat Serpenphare",
       "content": "<h3>The real problem is the shields</h3><p>Serpenphare repeatedly buffs itself with up to <strong>9 instances of shield</strong>, which absorb incoming damage. Against a shielded target, most of your damage simply disappears.</p><h3>Answers to shields</h3><ul><li><strong>Lune's Tremor</strong> - removes all shields</li><li><strong>Maelle's Breaking Rules</strong> - removes all shields, deals damage, and restores AP per shield removed</li></ul><p>Either of these turns a grindy fight into a straightforward one.</p><h3>Alternative: overwhelm with multi-hits</h3><p>If you cannot spare a shield-stripper, multi-hit skills can chew through the shield stack: <strong>Lune's Elemental Genesis</strong> (also has a chance to inflict Lightning, which it is weak to) or <strong>Verso's Steeled Strike</strong>, which hits 13 times.</p><h3>Watch the AP drain</h3><p>Because it can absorb your party's AP and chain extra actions, expect turns where you are starved of resource. Keep a cheap, reliable filler option so you are never fully idle.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "The Continent",
+    "flag": "Expedition Flag near the Endless Tower",
+    "directions": "Overworld boss in the ocean just north of the Endless Tower; requires Esquie's flight."
+  }
 }

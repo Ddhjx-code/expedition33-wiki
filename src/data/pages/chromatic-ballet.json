@@ -9,6 +9,10 @@
       "value": "Falling Leaves • northwest of the Forgotten Battlefield (or southwest of Old Lumiere)"
     },
     {
+      "label": "Nearest flag",
+      "value": "Falling Leaves Flag"
+    },
+    {
       "label": "Key Drops",
       "value": "Blizzon · Resplendent Chroma Catalyst x6 · Colour of Lumina x15"
     }
@@ -40,5 +44,10 @@
       "title": "How to Beat the Chromatic Ballet",
       "content": "<h3>They all fly</h3><p>The single biggest problem is that <strong>all three entities are airborne</strong>, which limits your melee options and makes positioning awkward. Expect to lean on ranged tools and free aim more than usual.</p><h3>Switch targets, do not spread damage</h3><p>Because each entity has a different weakness, the efficient approach is to <strong>focus one down at a time with the correct element</strong> rather than hitting all three with a single element type:</p><ul><li>Take the <strong>blue</strong> one with <strong>Fire</strong></li><li>Take the <strong>purple</strong> one with <strong>Dark</strong></li><li>Take the <strong>orange</strong> one with <strong>Ice</strong></li></ul><p>This lets you avoid ever hitting something with an element it resists.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Falling Leaves",
+    "flag": "Falling Leaves Flag",
+    "directions": "Chromatic variant of the Ballet, found in the Falling Leaves area."
+  }
 }

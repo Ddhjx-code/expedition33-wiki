@@ -10,6 +10,10 @@
       "value": "Sirene"
     },
     {
+      "label": "Nearest flag",
+      "value": "Crumbling Path Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 2"
     },
@@ -65,5 +69,10 @@
       "title": "How to Beat the Sirene",
       "content": "<h3>Fight the Tisseur first</h3><p>Before you reach Sirene you are offered the choice to kill or spare the Tisseur. Fighting it is strongly worth it: you gain the Anti-Charm Pictos, and if you spare it Sirene can buff her own defences during the fight. Sparing the Tisseur makes the boss measurably harder.</p><h3>Charm</h3><p>Sirene charms through the Ballet enemies that accompany her. Charm costs you control of a character and is the main way this fight goes wrong - the Anti-Charm effect from the Tisseur is the direct counter.</p><h3>She calls creatures</h3><p>Sirene herself is not the only damage source. She summons creatures from her realm, so clearing adds keeps the fight readable rather than letting pressure stack.</p><ul><li>Ice and Dark; avoid Earth and Light.</li><li>Kill the Tisseur for Anti-Charm - sparing it makes Sirene tougher.</li><li>Clear her summoned creatures rather than ignoring them.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Sirene",
+    "flag": "Crumbling Path Flag",
+    "directions": "Deeper into Sirene past Glissando. Clear the Tisseur on the way for the Anti-Charm Pictos."
+  }
 }

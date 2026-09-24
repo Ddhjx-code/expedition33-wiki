@@ -9,6 +9,10 @@
       "value": "Hidden Gestral Arena"
     },
     {
+      "label": "Nearest flag",
+      "value": "Gestral Arena Flag"
+    },
+    {
       "label": "Weak to",
       "value": "None (no elemental weakness)"
     },
@@ -48,5 +52,10 @@
       "title": "How to Beat Matthieu the Colossus",
       "content": "<p>Matthieu is a <strong>fast puncher</strong> and the difficulty is reading his speed rather than surviving big hits.</p><h3>He is left-handed - watch the left arm</h3><p>His main attack is a <strong>left hook</strong>: he jumps in and swings his arm in an arc. Parry right as the blade starts moving toward you. Ignore feints with his right hand - they are not the real attack.</p><h3>The uppercut uses the same timing</h3><p>His other notable attack is an uppercut. The read is identical: watch the arm begin moving up toward you, and parry.</p><h3>General approach</h3><ul><li>Keep your eyes on his <strong>left forearm and fist</strong> - that is where every real attack originates</li><li>Parry into counterattack rather than trading hits; his damage adds up fast</li><li>Because it is a solo duel, bring your most self-sufficient character rather than your best team player</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Hidden Gestral Arena",
+    "flag": "Gestral Arena Flag",
+    "directions": "From the Gestral Arena checkpoint, head to the platform and speak to Limonsol."
+  }
 }

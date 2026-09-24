@@ -9,6 +9,10 @@
       "value": "The Continent — partially submerged in the ocean just north of the Endless Tower"
     },
     {
+      "label": "Nearest flag",
+      "value": "Expedition Flag near the Endless Tower"
+    },
+    {
       "label": "Weak to",
       "value": "None (no elemental weakness)"
     },
@@ -48,5 +52,10 @@
       "title": "How to Beat Sprong",
       "content": "<p>Sprong has a large health pool but a <strong>predictable attack pattern</strong> with strikes that are comparatively easy to counter by the standards of late-game optional bosses.</p><p>As long as you can withstand and counter its heavier hits, it should not give you much trouble. Parrying does the heavy lifting here - counters ignore the long health bar problem by giving you consistent, resource-free damage.</p><p>Treat it as the opening move of your Act 3 boss tour: kill Sprong, equip Cheater, then use the extra action to make the rest of the list manageable.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "The Continent",
+    "flag": "Expedition Flag near the Endless Tower",
+    "directions": "Partially submerged in the ocean north of the Endless Tower."
+  }
 }

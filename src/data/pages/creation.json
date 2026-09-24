@@ -10,6 +10,10 @@
       "value": "Lumiere"
     },
     {
+      "label": "Nearest flag",
+      "value": "Lumiere Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 3"
     },
@@ -61,5 +65,10 @@
       "title": "How to Beat the Creation",
       "content": "<h3>It is a physical fight</h3><p>Bring your highest-damage party composition and your best upgrade levels rather than an element-matched lineup. There is no key to find here.</p><h3>Read the legs</h3><p>Its silhouette is four thin legs under a heavy golden body, and the attacks come from that lower frame. Positioning your dodge around the legs rather than the bulk of the body is what keeps you alive through its combos.</p><ul><li>No weakness - bring damage and defence, not elemental answers.</li><li>Available again in the Endless Tower and Renoir's Drafts.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Lumiere",
+    "flag": "Lumiere Flag",
+    "directions": "In Lumiere during Act 3, and again in the Endless Tower and Renoir's Drafts."
+  }
 }

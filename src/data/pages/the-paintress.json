@@ -10,6 +10,10 @@
       "value": "The Monolith"
     },
     {
+      "label": "Nearest flag",
+      "value": "Tainted Hearts Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 2"
     },
@@ -61,5 +65,10 @@
       "title": "How to Beat the The Paintress",
       "content": "<h3>Beat the damage cap with hit count</h3><p>Because you are capped at 9,999 per hit, the way to do real damage is to stack hits rather than chase one large number. Maelle in Virtuose Stance using Gustave's Homage is the standard answer - eight hits at near-cap each is what actually moves her health bar.</p><h3>Phase two is the hard one</h3><p>She tears open the canvas and summons light missiles. These are parryable, so the phase rewards timing practice rather than tanking.</p><h3>Phase three does not fight</h3><p>After the first two phases she enters a third in which she does not attack at all. You cannot lose there, so spend it freely.</p><ul><li>No weakness - build for hit count, not hit size.</li><li>Maelle in Virtuose Stance with Gustave's Homage is the key damage line.</li><li>Parry the light missiles in phase two.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "The Monolith",
+    "flag": "Tainted Hearts Flag",
+    "directions": "At the top of The Monolith, past the Paint Cage route and Renoir."
+  }
 }

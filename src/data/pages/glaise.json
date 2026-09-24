@@ -9,6 +9,10 @@
       "value": "Yellow Harvest — Yellow Spire Wrecks (also in The Chosen Path)"
     },
     {
+      "label": "Nearest flag",
+      "value": "Yellow Spire Wrecks Flag"
+    },
+    {
       "label": "Weak to",
       "value": "Fire, Ice"
     },
@@ -56,5 +60,10 @@
       "title": "Strategy",
       "content": "<p>Glaise has a clean weakness pair and a single absorbed element, which makes it more of a build check than an execution test.</p><ul><li><strong>Maelle and Lune</strong> are the natural picks - they specialise into Fire and Ice respectively</li><li><strong>Never bring Earth damage.</strong> It is absorbed, so an Earth weapon turns the fight into an unwinnable slog</li><li>Because Lightning is only <em>resisted</em> (not absorbed), it is inefficient but not actively harmful</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Yellow Harvest",
+    "flag": "Yellow Spire Wrecks Flag",
+    "directions": "Enter the Yellow Harvest portal, climb the handholds right of the Entrance Rest Point, then follow the northwestern path."
+  }
 }

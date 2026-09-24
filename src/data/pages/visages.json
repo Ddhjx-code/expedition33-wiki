@@ -10,6 +10,10 @@
       "value": "Visages"
     },
     {
+      "label": "Nearest flag",
+      "value": "Visages Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 2"
     },
@@ -65,5 +69,10 @@
       "title": "How to Beat the Visages",
       "content": "<h3>Stage one: the masks</h3><p>Five masks emerge from the mirror. Each has an eye weak point, and hitting those is what ends stage one - attacking the stone slabs that make up its body is significantly slower. Burn and Dark stacking both pay off. When stage one ends, Visages unloads an ultimate attack before the transition, so do not be caught without health.</p><h3>Stage two</h3><p>The fight continues immediately as Mask Keeper with a new move set and no reset. See the Mask Keeper page for that half.</p><ul><li>Fire and Dark - bring both if you can.</li><li>Target mask eye weak points, not the body.</li><li>Expect no break between the two stages.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Visages",
+    "flag": "Visages Flag",
+    "directions": "Inside the Visages area. Clear the three Vale bosses before starting the Mask Keeper stage."
+  }
 }

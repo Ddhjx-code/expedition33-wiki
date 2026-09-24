@@ -10,6 +10,10 @@
       "value": "Esquie's Nest"
     },
     {
+      "label": "Nearest flag",
+      "value": "Esquie's Nest Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 1"
     },
@@ -61,5 +65,10 @@
       "title": "How to Beat the Francois",
       "content": "Francois does not move - he is locked in place - so the entire fight is about surviving his ranged pressure while you chew through shields.<h3>Shields are the real health bar</h3><p>Francois stacks multiple shield instances that soak damage before his health moves. Multi-hit skills and Break effects are worth far more here than one big hit, because a single large attack is wasted on a single shield layer.</p><h3>The ice beam</h3><p>His beam is the kill move. It is telegraphed clearly before it fires and it will delete a character who stands still. Parry or dodge it and the rest of the fight is straightforward; miss it twice and you lose the run.</p><ul><li>Bring Dark damage - it is the only element that lands cleanly.</li><li>Prefer multi-hit skills to strip shields.</li><li>Treat the beam as the only attack that matters for timing practice.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Esquie's Nest",
+    "flag": "Esquie's Nest Flag",
+    "directions": "Inside the Nest itself - you cannot miss the arena once you enter."
+  }
 }

@@ -10,6 +10,10 @@
       "value": "Sirene"
     },
     {
+      "label": "Nearest flag",
+      "value": "Crumbling Path Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 2"
     },
@@ -65,5 +69,10 @@
       "title": "How to Beat the Glissando",
       "content": "<h3>Two melee combos</h3><p>Its tail slam is a three-hit combo that swipes back and forth before a heavy finish - long start-up, then fast. Its head slam is only two hits and pulls back obviously before it lands, which makes it the easier of the two to read.</p><h3>Charm</h3><p>Glissando sends out three pulses at one character in a rhythm. Only the third connects, and if it lands you lose control of that character while they attack the party. The Anti-Charm effect from the nearby Tisseur fight is the clean answer - see below.</p><h3>It eats a character</h3><p>At low health it swallows a party member and removes them from the fight. You cannot avoid it, but Breaking Glissando forces it to spit them back out, so keep Break pressure up as its health drops.</p><ul><li>Ice and Dark; avoid Earth and Light.</li><li>Kill the Tisseur first for Anti-Charm - it is optional but makes this fight much cleaner.</li><li>Keep Break ready for when it swallows someone.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Sirene",
+    "flag": "Crumbling Path Flag",
+    "directions": "Inside Sirene, on the route toward the Axon. Beating it is what unlocks the path to Sirene herself."
+  }
 }

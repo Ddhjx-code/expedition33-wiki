@@ -10,6 +10,10 @@
       "value": "Ancient Sanctuary"
     },
     {
+      "label": "Nearest flag",
+      "value": "Sanctuary Maze Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 1"
     },
@@ -61,5 +65,10 @@
       "title": "How to Beat the Ultimate Sakapatate",
       "content": "<h3>Break the guard first</h3><p>Ultimate Sakapatate carries a shield and a red mace. While the shield is up, your damage is going somewhere other than its health bar. Break effects and multi-hit Fire skills are the efficient route.</p><h3>Fire is the key</h3><p>Nothing else lands cleanly. Every Fire-skilled character you have should be in the party, and Fire-infused weapons are worth the swap even if they are a tier lower.</p><ul><li>Fire only - everything else is a waste of a turn.</li><li>Strip the shield before you try to burst it down.</li><li>It re-appears later with the same profile, so the answer does not change.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Ancient Sanctuary",
+    "flag": "Sanctuary Maze Flag",
+    "directions": "Enter from the South Entrance and pass Expedition Flag 70 (Giant Bell Alley); the arena is just beyond."
+  }
 }
