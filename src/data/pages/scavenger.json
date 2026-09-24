@@ -23,7 +23,7 @@
     {
       "id": "rewards",
       "title": "Rewards",
-      "content": "<ul><li><strong>Scaverim</strong> weapon (Level 14, for Lune)</li><li>Resplendent Chroma Catalyst x3</li><li>139,320 EXP</li><li>8,020 Chroma</li><li>Additionally, talk to the young boy again afterwards to receive the <strong>Until Next Life</strong> music record</li></ul>"
+      "content": "<ul><li><strong><img src=\"/images/weapons/Scaverim.jpg\" alt=\"Scaverim weapon icon — Clair Obscur: Expedition 33\" width=\"26\" height=\"26\" loading=\"lazy\" style=\"background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.12);border-radius:8px;padding:3px;object-fit:contain;flex:none;vertical-align:-8px;margin-right:6px\" />Scaverim</strong> weapon (Level 14, for Lune)</li><li>Resplendent Chroma Catalyst x3</li><li>139,320 EXP</li><li>8,020 Chroma</li><li>Additionally, talk to the young boy again afterwards to receive the <strong>Until Next Life</strong> music record</li></ul>"
     },
     {
       "id": "strategy",
