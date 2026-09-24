@@ -146,3 +146,63 @@ export function getCategories(slug: string, title: string): Category[] {
   cats.push({ label: short, href: `/${slug}` });
   return cats.filter((c, i, a) => a.findIndex((x) => x.href === c.href) === i);
 }
+
+const SECTION_LINKS: Record<string, { label: string; href: string }[]> = {
+  Bosses: [
+    { label: "Boss Guide", href: "/boss-guide" },
+    { label: "Boss Order", href: "/boss-order" },
+    { label: "Bosses by Area", href: "/bosses-by-area" },
+    { label: "Boss Drops", href: "/boss-drops" },
+  ],
+  "Enemies & Nevrons": [
+    { label: "All Enemies", href: "/Enemies" },
+    { label: "Enemy Weaknesses", href: "/enemy-weaknesses" },
+    { label: "Bosses by Area", href: "/bosses-by-area" },
+  ],
+  Weapons: [
+    { label: "Best Weapons", href: "/best-weapons" },
+    { label: "Weapons Tier List", href: "/weapons-tier-list" },
+    { label: "Weapon Locations", href: "/weapons-locations" },
+  ],
+  Pictos: [
+    { label: "Best Pictos", href: "/best-pictos" },
+    { label: "Damage Mechanics", href: "/damage-mechanics" },
+    { label: "Best Builds", href: "/best-builds" },
+  ],
+  "Areas & Locations": [
+    { label: "All Locations", href: "/locations" },
+    { label: "Interactive Map", href: "/interactive-map" },
+    { label: "Bosses by Area", href: "/bosses-by-area" },
+  ],
+  "Gear & Items": [
+    { label: "Best Weapons", href: "/best-weapons" },
+    { label: "Best Pictos", href: "/best-pictos" },
+    { label: "Boss Drops", href: "/boss-drops" },
+  ],
+  Characters: [
+    { label: "All Characters", href: "/characters" },
+    { label: "Best Builds", href: "/best-builds" },
+    { label: "Tier List", href: "/tier-list" },
+  ],
+  Combat: [
+    { label: "Damage Mechanics", href: "/damage-mechanics" },
+    { label: "How to Parry", href: "/how-to-parry" },
+    { label: "Enemy Weaknesses", href: "/enemy-weaknesses" },
+  ],
+  Walkthrough: [
+    { label: "Full Walkthrough", href: "/walkthrough" },
+    { label: "Act 1", href: "/walkthrough-act-1" },
+    { label: "Side Quests", href: "/side-quests" },
+    { label: "Trophy Guide", href: "/trophy-guide" },
+  ],
+};
+
+export function getSectionLinks(slug: string): { label: string; href: string }[] {
+  const key = slug.toLowerCase();
+  for (const [, links] of Object.entries(SECTION_LINKS)) {
+    if (links.some((l) => l.href.slice(1).toLowerCase() === key)) return [];
+  }
+  const section = sectionFor(slug);
+  if (!section) return [];
+  return SECTION_LINKS[section.label] ?? [];
+}
