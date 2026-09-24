@@ -1,0 +1,39 @@
+{
+  "slug": "flying-waters",
+  "title": "Flying Waters - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "Flying Waters in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "Flying Waters Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 1"
+    },
+    {
+      "label": "Type",
+      "value": "Mid-Act 1 zone"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A flooded area built around a huge anchor, holding the route to Noco's Hut and the game's second mandatory boss. It is also the area where the Bourgeon and Demineur side content sits.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach Flying Waters",
+      "content": "<p>Reached from Spring Meadows heading east. It is on the critical path, so you cannot miss it.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Goblu, Bourgeon, Mime, Bruler, Cruler, Demineur, Chromatic Bourgeon, Chromatic Bruler, Chromatic Troubadour</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Abysseram, Brulerum, Deminerim, Troubadim, Coral Cave hook</p>"
+    }
+  ]
+}

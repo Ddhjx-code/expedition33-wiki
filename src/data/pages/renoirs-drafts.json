@@ -1,0 +1,39 @@
+{
+  "slug": "renoirs-drafts",
+  "title": "renoirs-drafts - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "renoirs-drafts in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "renoirs-drafts Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 3"
+    },
+    {
+      "label": "Type",
+      "value": "Postgame area"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A late area containing merchants with Painerim, Yeverum and Charnon, plus a Paint Cage holding Sidaro.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach renoirs-drafts",
+      "content": "<p>Unlocked in Act 3 as postgame content.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Renoir's Drafts encounters</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Painerim, Yeverum, Charnon, Sidaro</p>"
+    }
+  ]
+}

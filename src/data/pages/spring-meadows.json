@@ -1,0 +1,39 @@
+{
+  "slug": "spring-meadows",
+  "title": "Spring Meadows - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "Spring Meadows in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "Spring Meadows Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 1"
+    },
+    {
+      "label": "Type",
+      "value": "Opening zone"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The first open area of the game and the tutorial for the combat loop. It is where you meet Eveque and where most players learn that element matching matters more than raw attack.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach Spring Meadows",
+      "content": "<p>On the critical path immediately after the prologue. It connects to the Abbest Cave and leads east toward the Flying Waters.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Eveque, Jar, Mime, Portier, Volester, Abbest, Lancelier</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Lanceram, Lighterim, Robe de Lumière</p>"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "the-reacher",
+  "title": "the-reacher - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "the-reacher in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "the-reacher Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 3"
+    },
+    {
+      "label": "Type",
+      "value": "Optional area"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A tall reach of terrain holding Lithum and Tireso, and Alicia's fight via Maelle's relationship questline.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach the-reacher",
+      "content": "<p>Reached in Act 3. Alicia's encounter additionally requires Maelle's relationship level to be high enough.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Alicia, Kralim enemies</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Lithum, Tireso</p>"
+    }
+  ]
+}

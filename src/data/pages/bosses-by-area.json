@@ -13,7 +13,7 @@
     {
       "id": "area-0",
       "title": "The Continent (overworld)",
-      "content": "<p>The sprawling overworld you explore with Esquie. Most optional bosses live here, and several require flight or swim to reach.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/thunder-eveque\"><strong>Thunder Eveque</strong></a></td><td>East of Stone Wave Cliffs Cave</td><td>Earth</td><td>Breaking Death x2 · Grandiose Chroma Catalyst x5</td></tr><tr><td><a href=\"/frost-eveque\"><strong>Frost Eveque</strong></a></td><td>North of the Stone Quarry</td><td>Lightning</td><td>Energising Gradient · 180,000 EXP</td></tr><tr><td><a href=\"/serpenphare\"><strong>Serpenphare</strong></a></td><td>SE of the Boat Graveyard</td><td>Lightning</td><td>Energy Master Pictos · 3x Grandiose CC</td></tr><tr><td><a href=\"/sprong\"><strong>Sprong</strong></a></td><td>North of the Endless Tower</td><td>—</td><td>Cheater Pictos</td></tr><tr><td><a href=\"/grosse-tete\"><strong>Grosse Tete</strong></a></td><td>In front of the Coastal Cave</td><td>None</td><td>Warming Up Pictos</td></tr><tr><td><a href=\"/golgra\"><strong>Golgra</strong></a></td><td>Also at Dark Gestral Arena · Sacred River</td><td>None</td><td>—</td></tr></tbody></table>"
+      "content": "<p>The sprawling overworld you explore with Esquie. Most optional bosses live here, and several require flight or swim to reach.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/thunder-eveque\"><strong>Thunder Eveque</strong></a></td><td>East of <a href=\"/stone-wave-cliffs\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Stone Wave Cliffs</a> Cave</td><td>Earth</td><td>Breaking Death x2 · Grandiose Chroma Catalyst x5</td></tr><tr><td><a href=\"/frost-eveque\"><strong>Frost Eveque</strong></a></td><td>North of the Stone Quarry</td><td>Lightning</td><td>Energising Gradient · 180,000 EXP</td></tr><tr><td><a href=\"/serpenphare\"><strong>Serpenphare</strong></a></td><td>SE of the Boat Graveyard</td><td>Lightning</td><td>Energy Master Pictos · 3x Grandiose CC</td></tr><tr><td><a href=\"/sprong\"><strong>Sprong</strong></a></td><td>North of the Endless Tower</td><td>—</td><td>Cheater Pictos</td></tr><tr><td><a href=\"/grosse-tete\"><strong>Grosse Tete</strong></a></td><td>In front of the <a href=\"/coastal-cave\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Coastal Cave</a></td><td>None</td><td>Warming Up Pictos</td></tr><tr><td><a href=\"/golgra\"><strong>Golgra</strong></a></td><td>Also at Dark Gestral Arena · Sacred River</td><td>None</td><td>—</td></tr></tbody></table>"
     },
     {
       "id": "area-1",
@@ -23,7 +23,7 @@
     {
       "id": "area-2",
       "title": "Crushing Cavern",
-      "content": "<p>Optional Act 2 area, entered from the water north-west of Gestral Village.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/giant-sapling\"><strong>Giant Sapling</strong></a></td><td>Bottom of the cavern</td><td>None (timed DPS check)</td><td>Solidifying · Polished Chroma Catalyst</td></tr></tbody></table>"
+      "content": "<p>Optional <a href=\"/sinister-cave\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Act 2</a> area, entered from the water north-west of <a href=\"/gestral-village\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Gestral Village</a>.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/giant-sapling\"><strong>Giant Sapling</strong></a></td><td>Bottom of the cavern</td><td>None (timed DPS check)</td><td>Solidifying · Polished Chroma Catalyst</td></tr></tbody></table>"
     },
     {
       "id": "area-3",
@@ -33,7 +33,7 @@
     {
       "id": "area-4",
       "title": "Falling Leaves",
-      "content": "<p>Optional Act 2 zone on the western edge of the Continent.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/scavenger\"><strong>Scavenger</strong></a></td><td>End of the path, past the Lady of Sap gate</td><td>Light</td><td><a href=\"/scaverim\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Scaverim</a> (Lune) · 139,320 EXP</td></tr><tr><td><a href=\"/chromatic-ballet\"><strong>Chromatic Ballet</strong></a></td><td>Past the bridge</td><td>Fire / Dark / Ice (per entity)</td><td><a href=\"/blizzon\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Blizzon</a> · 15x Colour of Lumina</td></tr></tbody></table>"
+      "content": "<p>Optional <a href=\"/sinister-cave\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Act 2</a> zone on the western edge of the Continent.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/scavenger\"><strong>Scavenger</strong></a></td><td>End of the path, past the Lady of Sap gate</td><td>Light</td><td><a href=\"/scaverim\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Scaverim</a> (Lune) · 139,320 EXP</td></tr><tr><td><a href=\"/chromatic-ballet\"><strong>Chromatic Ballet</strong></a></td><td>Past the bridge</td><td>Fire / Dark / Ice (per entity)</td><td><a href=\"/blizzon\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Blizzon</a> · 15x Colour of Lumina</td></tr></tbody></table>"
     },
     {
       "id": "area-5",
@@ -58,7 +58,7 @@
     {
       "id": "area-9",
       "title": "The Fountain",
-      "content": "<p>Act 3 location west of Spring Meadows, inside the mountain.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/blanche\"><strong>Blanche</strong></a></td><td>Interact with the White Nevron</td><td>None</td><td>100 Colour of Lumina if spared</td></tr></tbody></table>"
+      "content": "<p>Act 3 location west of <a href=\"/spring-meadows\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Spring Meadows</a>, inside the mountain.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/blanche\"><strong>Blanche</strong></a></td><td>Interact with the White Nevron</td><td>None</td><td>100 Colour of Lumina if spared</td></tr></tbody></table>"
     },
     {
       "id": "missing",

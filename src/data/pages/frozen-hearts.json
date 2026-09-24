@@ -1,0 +1,39 @@
+{
+  "slug": "frozen-hearts",
+  "title": "Frozen Hearts - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "Frozen Hearts in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "Frozen Hearts Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Type",
+      "value": "Optional area"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>An ice-covered region holding Gargant and a set of cold-themed weapon rewards. It is one of the areas that flight opens up.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach Frozen Hearts",
+      "content": "<p>Reached from The Continent once Esquie's flight is available.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Gargant, Glaceso, Stalum, Hexga, Veilleur</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Snowim, Glaceso, Stalum</p>"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "versos-drafts",
+  "title": "versos-drafts - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "versos-drafts in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "versos-drafts Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 3"
+    },
+    {
+      "label": "Type",
+      "value": "Postgame area"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A postgame area holding a cluster of expansion weapons added after launch, plus a Paint Cage with Nusaro.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach versos-drafts",
+      "content": "<p>Unlocked in Act 3 after the main story.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Verso's Drafts encounters, Mime</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Bonbim, Esquim, Esquiaro and other post-launch weapons</p>"
+    }
+  ]
+}

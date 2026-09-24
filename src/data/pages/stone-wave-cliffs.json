@@ -1,0 +1,39 @@
+{
+  "slug": "stone-wave-cliffs",
+  "title": "Stone Wave Cliffs - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "Stone Wave Cliffs in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "Stone Wave Cliffs Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 1"
+    },
+    {
+      "label": "Type",
+      "value": "Final Act 1 zone"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The area that closes Act 1 and hosts Lampmaster, the game's first genuine difficulty spike. It also holds the Coralim and Delaram weapons and a large set of Paint Cages.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach Stone Wave Cliffs",
+      "content": "<p>Reached at the end of Act 1 after the Flying Waters. Clear side content before advancing, because Act 2 shifts the party around.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Lampmaster, Bourgeon, Mime, Rare Sakapatate variants, Hexga, Chalier, Chation, Rangeson</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Delaram, Coralim, Mountain-top Paint Cages</p>"
+    }
+  ]
+}

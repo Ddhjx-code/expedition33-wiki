@@ -1,0 +1,39 @@
+{
+  "slug": "the-monolith",
+  "title": "the-monolith - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "the-monolith in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "the-monolith Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Type",
+      "value": "Act 2 finale dungeon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The tower at the north of the Continent and the setting for the end of Act 2. It contains the Paint Cage system, Renoir's fight and The Paintress.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach the-monolith",
+      "content": "<p>Reached at the end of the Act 2 route. The Paint Cage mechanic requires Paint Spikes collected across the world.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Renoir, The Paintress, Gargant, Clair Obscur, Mime, Veilleur, Noire, Obscur</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Lithelim, Braselim, Garganon, Veremum, Dreameso, Simoso route</p>"
+    }
+  ]
+}
