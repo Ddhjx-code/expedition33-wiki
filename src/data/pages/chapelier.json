@@ -1,0 +1,47 @@
+{
+  "slug": "chapelier",
+  "title": "Chapelier - Location, Weakness & How to Beat",
+  "description": "Chapelier in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Chapelier Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "The Crows"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire, Dark"
+    },
+    {
+      "label": "Resists",
+      "value": "Ice"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The base form of the Sorrowful Chapelier mask in Visages. It appears on its own near The Crows.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire, Dark</td></tr><tr><td>Resists</td><td>Ice</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Fire, Dark damage. Ice is resisted, so those turns are wasted.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Chapelier",
+      "content": "<p><strong>Areas:</strong> The Crows.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Chapelier",
+      "content": "<h3>Exploit the weakness</h3><p>Fire, Dark is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p><h3>What not to bring</h3><ul><li>It resists Ice, so that damage is halved.</li></ul>"
+    }
+  ]
+}

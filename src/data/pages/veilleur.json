@@ -1,0 +1,47 @@
+{
+  "slug": "veilleur",
+  "title": "Veilleur - Location, Weakness & How to Beat",
+  "description": "Veilleur in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Veilleur Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "The Monolith, Frozen Hearts"
+    },
+    {
+      "label": "Weak to",
+      "value": "Light, Lightning"
+    },
+    {
+      "label": "Resists",
+      "value": "Dark"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Two elements land and Dark is resisted, so Sciel's Dark kit is the wrong pick.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Light, Lightning</td></tr><tr><td>Resists</td><td>Dark</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Light, Lightning damage. Dark is resisted, so those turns are wasted.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Veilleur",
+      "content": "<p><strong>Areas:</strong> The Monolith, Frozen Hearts.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Veilleur",
+      "content": "<h3>Exploit the weakness</h3><p>Light, Lightning is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p><h3>What not to bring</h3><ul><li>It resists Dark, so that damage is halved.</li></ul>"
+    }
+  ]
+}

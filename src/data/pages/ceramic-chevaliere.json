@@ -1,0 +1,43 @@
+{
+  "slug": "ceramic-chevaliere",
+  "title": "Ceramic Chevaliere - Location, Weakness & How to Beat",
+  "description": "Ceramic Chevaliere in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Ceramic Chevaliere Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "The Continent, The Monolith"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire, Ice, Lightning, Earth, Dark, Light"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Weak to six of the available elements. It is effectively element-agnostic - bring whatever your strongest skill happens to use.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire, Ice, Lightning, Earth, Dark, Light</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Fire, Ice, Lightning, Earth, Dark, Light damage.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Ceramic Chevaliere",
+      "content": "<p><strong>Areas:</strong> The Continent, The Monolith.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Ceramic Chevaliere",
+      "content": "<h3>Exploit the weakness</h3><p>Fire, Ice, Lightning, Earth, Dark, Light is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p>"
+    }
+  ]
+}

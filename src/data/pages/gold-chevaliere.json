@@ -1,0 +1,47 @@
+{
+  "slug": "gold-chevaliere",
+  "title": "Gold Chevaliere - Location, Weakness & How to Beat",
+  "description": "Gold Chevaliere in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Gold Chevaliere Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "Crimson Forest"
+    },
+    {
+      "label": "Weak to",
+      "value": "Light, Dark"
+    },
+    {
+      "label": "Resists",
+      "value": "Fire, Ice"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The gold-armoured Chevaliere. Its Chromatic form drops Chevalam.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Light, Dark</td></tr><tr><td>Resists</td><td>Fire, Ice</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Light, Dark damage. Fire, Ice is resisted, so those turns are wasted.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Gold Chevaliere",
+      "content": "<p><strong>Areas:</strong> Crimson Forest.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Gold Chevaliere",
+      "content": "<h3>Exploit the weakness</h3><p>Light, Dark is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p><h3>What not to bring</h3><ul><li>It resists Fire, Ice, so that damage is halved.</li></ul>"
+    }
+  ]
+}

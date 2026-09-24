@@ -1,0 +1,47 @@
+{
+  "slug": "aberration",
+  "title": "Aberration - Location, Weakness & How to Beat",
+  "description": "Aberration in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Aberration Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "The Continent"
+    },
+    {
+      "label": "Weak to",
+      "value": "None (no elemental weakness)"
+    },
+    {
+      "label": "Resists",
+      "value": "Dark"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>No elemental weakness and a Dark resistance. One of the enemies that is simply a damage race rather than a puzzle.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>None</td></tr><tr><td>Resists</td><td>Dark</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>No elemental weakness to exploit. Dark is resisted, so avoid leaning on it. Build for raw output and survivability instead.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Aberration",
+      "content": "<p><strong>Areas:</strong> The Continent.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Aberration",
+      "content": "<h3>Nothing to exploit</h3><p>This enemy has no elemental profile at all, which is why it is absent from the weakness charts. Damage type does not matter - hit count, Break application and parry timing do.</p><h3>What not to bring</h3><ul><li>It resists Dark, so that damage is halved.</li></ul>"
+    }
+  ]
+}

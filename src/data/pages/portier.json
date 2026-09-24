@@ -1,0 +1,43 @@
+{
+  "slug": "portier",
+  "title": "Portier - Location, Weakness & How to Beat",
+  "description": "Portier in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Portier Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "Spring Meadows"
+    },
+    {
+      "label": "Weak to",
+      "value": "Ice"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>An early gatekeeper Nevron with a clean Ice weakness.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Ice</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Ice damage.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Portier",
+      "content": "<p><strong>Areas:</strong> Spring Meadows.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Portier",
+      "content": "<h3>Exploit the weakness</h3><p>Ice is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p>"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "sapling",
+  "title": "Sapling - Location, Weakness & How to Beat",
+  "description": "Sapling in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Sapling Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "Crushing Cavern, Yellow Harvest"
+    },
+    {
+      "label": "Weak to",
+      "value": "Light"
+    },
+    {
+      "label": "Resists",
+      "value": "Fire, Ice, Earth, Lightning"
+    },
+    {
+      "label": "Absorbs",
+      "value": "Dark"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>One of the most defensive profiles in the game: four elements resisted and Dark absorbed. Light is the only clean answer.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Light</td></tr><tr><td>Resists</td><td>Fire, Ice, Earth, Lightning</td></tr><tr><td>Absorbs</td><td>Dark</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Light damage. Fire, Ice, Earth, Lightning is resisted, so those turns are wasted. Dark is absorbed - using it heals the target.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Sapling",
+      "content": "<p><strong>Areas:</strong> Crushing Cavern, Yellow Harvest.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Sapling",
+      "content": "<h3>Exploit the weakness</h3><p>Light is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p><h3>What not to bring</h3><ul><li>It absorbs Dark, so that element heals it rather than hurting it.</li><li>It resists Fire, Ice, Earth, Lightning, so that damage is halved.</li></ul>"
+    }
+  ]
+}

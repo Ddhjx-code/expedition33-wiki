@@ -1,0 +1,47 @@
+{
+  "slug": "lumiere-citizen",
+  "title": "Lumiere Citizen - Location, Weakness & How to Beat",
+  "description": "Lumiere Citizen in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Lumiere Citizen Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "Lumiere"
+    },
+    {
+      "label": "Weak to",
+      "value": "Physical (mage form)"
+    },
+    {
+      "label": "Resists",
+      "value": "Fire and Lightning (rapiers), Ice and Earth (gun or sword)"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Its resistances depend on which weapon it is holding, so the correct answer changes mid-fight.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Physical (mage form)</td></tr><tr><td>Resists</td><td>Fire and Lightning (rapiers), Ice and Earth (gun or sword)</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Physical (mage form) damage. Fire and Lightning (rapiers), Ice and Earth (gun or sword) is resisted, so those turns are wasted.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Lumiere Citizen",
+      "content": "<p><strong>Areas:</strong> Lumiere.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Lumiere Citizen",
+      "content": "<h3>Exploit the weakness</h3><p>Physical (mage form) is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p><h3>What not to bring</h3><ul><li>It resists Fire and Lightning (rapiers), Ice and Earth (gun or sword), so that damage is halved.</li></ul>"
+    }
+  ]
+}

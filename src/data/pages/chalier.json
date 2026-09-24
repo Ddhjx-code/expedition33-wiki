@@ -1,0 +1,47 @@
+{
+  "slug": "chalier",
+  "title": "Chalier - Location, Weakness & How to Beat",
+  "description": "Chalier in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Chalier Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "Sinister Cave, The Continent"
+    },
+    {
+      "label": "Weak to",
+      "value": "Light"
+    },
+    {
+      "label": "Resists",
+      "value": "Dark"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Part of the Chalier and Chapelier pairing. Light lands, Dark is resisted, which rules out a Dark-focused Sciel build.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Light</td></tr><tr><td>Resists</td><td>Dark</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Light damage. Dark is resisted, so those turns are wasted.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Chalier",
+      "content": "<p><strong>Areas:</strong> Sinister Cave, The Continent.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Chalier",
+      "content": "<h3>Exploit the weakness</h3><p>Light is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p><h3>What not to bring</h3><ul><li>It resists Dark, so that damage is halved.</li></ul>"
+    }
+  ]
+}
