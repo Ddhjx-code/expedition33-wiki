@@ -143,9 +143,17 @@ export default function SlugPage({ params }: PageProps) {
 
   const banner = getBannerImage(params.slug);
 
+  const typeFact = content.facts?.find((f) => f.label === "Type")?.value;
+  const isAreaPage =
+    !!typeFact &&
+    /area|dungeon|city|town|tower|cave|zone|hub|arena|region|overworld|postgame/i.test(
+      typeFact
+    );
+
   const areaFact =
     content.facts?.find((f) => f.label === "Location")?.value ??
-    content.facts?.find((f) => f.label === "Areas")?.value;
+    content.facts?.find((f) => f.label === "Areas")?.value ??
+    (isAreaPage ? content.title.split(" - ")[0] : undefined);
 
   return (
     <>
