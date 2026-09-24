@@ -1,4 +1,6 @@
+import Link from "next/link";
 import { PageFact } from "@/lib/content";
+import { linkFactValue } from "@/lib/fact-links";
 
 const ELEMENT_COLORS: Record<string, string> = {
   fire: "#e8590c",
@@ -60,11 +62,29 @@ function FactValue({ label, value }: PageFact) {
       return (
         <span className="flex flex-wrap gap-1.5">
           {elements.map((element, i) => (
-            <Chip key={i} text={element} />
+            <Link
+              key={i}
+              href="/enemy-weaknesses"
+              className="transition-opacity hover:opacity-80"
+            >
+              <Chip text={element} />
+            </Link>
           ))}
         </span>
       );
     }
+  }
+
+  const href = linkFactValue(label, value);
+  if (href) {
+    return (
+      <Link
+        href={href}
+        className="text-foreground underline decoration-dotted decoration-muted-foreground/50 underline-offset-2 transition-colors hover:text-accent hover:decoration-accent"
+      >
+        {value}
+      </Link>
+    );
   }
 
   return <span className="text-foreground">{value}</span>;

@@ -6,6 +6,11 @@
   "lastUpdated": "2025-12-15",
   "sections": [
     {
+      "id": "spoiler-warning",
+      "title": "Before You Read",
+      "content": "<div style=\"border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:6px;padding:12px 16px;margin:0 0 8px;background:var(--card)\"><strong style=\"color:var(--accent)\">Spoiler warning</strong><p style=\"margin:6px 0 0\">This page discusses story content, including how the game ends. Anything hidden behind a grey bar below is a spoiler &mdash; hover or tap it to reveal.</p></div>"
+    },
+    {
       "id": "story-summary",
       "title": "Story Summary",
       "content": "<p>Clair Obscur: Expedition 33 tells the story of <a href=\"/characters\" style=\"color:var(--accent)\">Gustave</a> leading a team of warriors to confront The Paintress — a mysterious entity who annually erases all people of a specific age through her magical canvas. Each year she paints a number, and everyone of that age vanishes during the Gommage ceremony.</p><p>The expedition travels across The Continent, gathering allies and uncovering the truth about The Paintress, the nature of reality, and the cyclical destruction that has plagued their world. Along the way, the party discovers that the relationship between humanity and The Paintress is far more complex than simple antagonism.</p><h3>Key Story Themes</h3><ul><li><strong>Mortality and acceptance:</strong> Characters face the inevitability of erasure and choose how to respond</li><li><strong>Truth vs. comfortable lies:</strong> The expedition uncovers revelations that challenge everything they believed</li><li><strong>Free will vs. determinism:</strong> Are the expeditions truly free to choose, or are they part of The Paintress's design?</li><li><strong>Legacy and sacrifice:</strong> What does it mean to fight for a future you may never see?</li></ul><p>The story culminates in a confrontation at The Monolith where your choices — particularly one critical decision involving <a href=\"/build-maelle\" style=\"color:var(--accent)\">Maelle</a> — determine which ending you receive.</p>"
