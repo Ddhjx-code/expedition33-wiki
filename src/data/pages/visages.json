@@ -1,0 +1,64 @@
+{
+  "slug": "visages",
+  "title": "Visages - Act 2 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "Visages in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 2, Visages.",
+  "keyword": "Visages Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Visages"
+    },
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire, Dark"
+    },
+    {
+      "label": "Resists",
+      "value": "Ice"
+    },
+    {
+      "label": "Type",
+      "value": "Required"
+    },
+    {
+      "label": "Weak point",
+      "value": "Mask eyes"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Colour of Lumina · Grandiose Chroma Catalyst"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Visages is the first Axon you fight in Act 2 and the first half of a two-stage encounter that continues as Mask Keeper. The strategy is to hit the eye weak points on the five floating masks rather than the body.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Visages",
+      "content": "<p>Location: the Visages area, Act 2. It is one of two Axons you can choose to tackle first, and it is the one Verso recommends as the easier of the pair.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire, Dark</td></tr><tr><td>Resists</td><td>Ice</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>Fire and Dark are both weaknesses here, which is unusually generous. Ice is resisted, so an ice-focused Lune is the wrong pick for this fight specifically.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Colour of Lumina</li><li>Grandiose Chroma Catalyst</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Visages",
+      "content": "<h3>Stage one: the masks</h3><p>Five masks emerge from the mirror. Each has an eye weak point, and hitting those is what ends stage one - attacking the stone slabs that make up its body is significantly slower. Burn and Dark stacking both pay off. When stage one ends, Visages unloads an ultimate attack before the transition, so do not be caught without health.</p><h3>Stage two</h3><p>The fight continues immediately as Mask Keeper with a new move set and no reset. See the Mask Keeper page for that half.</p><ul><li>Fire and Dark - bring both if you can.</li><li>Target mask eye weak points, not the body.</li><li>Expect no break between the two stages.</li></ul>"
+    }
+  ]
+}

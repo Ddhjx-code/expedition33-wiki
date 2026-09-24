@@ -1,0 +1,60 @@
+{
+  "slug": "eveque",
+  "title": "Eveque - Act 1 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "Eveque in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 1, Spring Meadows.",
+  "keyword": "Eveque Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Spring Meadows"
+    },
+    {
+      "label": "Act",
+      "value": "Act 1"
+    },
+    {
+      "label": "Weak to",
+      "value": "Ice"
+    },
+    {
+      "label": "Type",
+      "value": "Required"
+    },
+    {
+      "label": "Weak point",
+      "value": "Centre of the robe"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Colour of Lumina · Chroma Catalyst"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Eveque is the first boss of Act 1 and the game's introduction to shields, elemental weakness and summoned adds. It is a teaching fight, but its shielded opening still stops players who ignore the mechanic.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Eveque",
+      "content": "<p>Location: Spring Meadows, Act 1. It also returns in The Monolith later in the game.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Ice</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>Ice is Eveque's weakness. Its own attack profile leans on Ice as well, so the fight is a mirror match in effect - you are both using the same element, which makes resist gear a reasonable swap.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Colour of Lumina</li><li>Chroma Catalyst</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Eveque",
+      "content": "<h3>Shields, not health</h3><p>Eveque has multiple shield instances covering its body. Its weak point is exposed in the centre of the robe, which is the only place your damage really lands. Multi-hit skills strip shields faster than single heavy attacks.</p><h3>It summons</h3><p>Eveque can call two Abbests into the fight. If you leave them alive they add chip damage across the whole encounter, so clear them before you go back to the boss.</p><ul><li>Ice is the weakness.</li><li>Aim at the exposed centre, not the robe itself.</li><li>Kill the summoned Abbests rather than tanking them.</li></ul>"
+    }
+  ]
+}

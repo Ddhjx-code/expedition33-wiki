@@ -1,0 +1,64 @@
+{
+  "slug": "goblu",
+  "title": "Goblu - Act 1 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "Goblu in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 1, Flying Waters.",
+  "keyword": "Goblu Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Flying Waters"
+    },
+    {
+      "label": "Act",
+      "value": "Act 1"
+    },
+    {
+      "label": "Weak to",
+      "value": "Lightning"
+    },
+    {
+      "label": "Resists",
+      "value": "Ice"
+    },
+    {
+      "label": "Type",
+      "value": "Required"
+    },
+    {
+      "label": "Weak point",
+      "value": "Body"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Energising Attack I Pictos · Colour of Lumina x3"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Goblu is the second mandatory boss in Expedition 33 and the first real test of the parry window. You meet it at Noco's Hut in the Flying Waters after picking one of its flowers - the fight starts automatically, so there is no way to walk past it.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Goblu",
+      "content": "<p>Location: Flying Waters, at Noco's Hut. This is on the critical path of Act 1, shortly after you leave the Abbest Cave. The encounter triggers from a cutscene, so you cannot miss it or return later.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Lightning</td></tr><tr><td>Resists</td><td>Ice</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>Lightning is the one element that hurts Goblu; Ice is resisted, so an ice-leaning Lune or a cold-infused weapon is actively worse here.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Energising Attack I Pictos</li><li>Colour of Lumina x3</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Goblu",
+      "content": "Goblu is a parry tutorial disguised as a boss. Its swings are slow and heavily telegraphed, which makes the timing generous compared to later fights.<h3>What to bring</h3><ul><li><strong>Gustave's Overcharge</strong> is the single best answer - it is Lightning damage and it hits hard enough to shorten the fight noticeably.</li><li><strong>Lune's Lightning skills</strong> do the same job if you would rather burst than build Overcharge.</li><li>Do not invest in Ice here. Ice is resisted, so those turns are wasted.</li></ul><h3>The pattern</h3><p>Goblu opens with a two-hit swipe, pauses, then winds up a heavier overhead slam. The pause is the tell - parry on the swing, not on the wind-up. If you miss a parry the hit is survivable at this level, so treat the fight as practice rather than a wall."
+    }
+  ]
+}

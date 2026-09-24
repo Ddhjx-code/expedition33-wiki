@@ -1,0 +1,64 @@
+{
+  "slug": "mask-keeper",
+  "title": "Mask Keeper - Act 2 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "Mask Keeper in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 2, Visages.",
+  "keyword": "Mask Keeper Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Visages"
+    },
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire, Dark"
+    },
+    {
+      "label": "Resists",
+      "value": "Ice"
+    },
+    {
+      "label": "Type",
+      "value": "Required"
+    },
+    {
+      "label": "Weak point",
+      "value": "Head"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Colour of Lumina · Grandiose Chroma Catalyst"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Mask Keeper is the second stage of the Visages fight - the real Axon behind the masks. It cannot be reached independently: you get here by finishing Visages in the same encounter, and the mask mini-bosses you cleared beforehand decide how much it can buff itself.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Mask Keeper",
+      "content": "<p>Location: the Visages area, Act 2, immediately after the Visages stage. It also appears separately in the Endless Tower.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire, Dark</td></tr><tr><td>Resists</td><td>Ice</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>Same profile as Visages: weak to Fire and Dark, resists Ice. Nothing changes between the stages, so a party built for stage one is already correct for stage two.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Colour of Lumina</li><li>Grandiose Chroma Catalyst</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Mask Keeper",
+      "content": "<h3>Clear the Vales first</h3><p>Mask Keeper draws extra abilities from the three Vale bosses in the Visages area - Jovial Moissonneuse, Seething Boucheclier and Sorrowful Chapelier. Defeating each of them before the main fight removes one of those buffs, which is the single largest difficulty swing available to you.</p><h3>Long combos</h3><p>It favours extended multi-hit strings. If your parry timing breaks down mid-combo, a revenge-style skill that scales with damage taken is a reasonable safety net rather than losing the turn entirely.</p><ul><li>Kill the three Vale bosses first - it directly weakens this fight.</li><li>Fire and Dark, same as Visages.</li><li>Expect no gap between the Visages stage and this one.</li></ul>"
+    }
+  ]
+}

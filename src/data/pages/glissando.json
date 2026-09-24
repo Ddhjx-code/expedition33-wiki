@@ -1,0 +1,64 @@
+{
+  "slug": "glissando",
+  "title": "Glissando - Act 2 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "Glissando in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 2, Sirene.",
+  "keyword": "Glissando Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Sirene"
+    },
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Weak to",
+      "value": "Ice, Dark"
+    },
+    {
+      "label": "Resists",
+      "value": "Earth, Light"
+    },
+    {
+      "label": "Type",
+      "value": "Required"
+    },
+    {
+      "label": "Weak point",
+      "value": "Tail / head"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Colour of Lumina · Chroma Catalyst"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Glissando is a cloth-covered serpent that blocks the route to Sirene. It is a gatekeeper fight, and its signature threat is that it can eat one of your party members partway through the encounter.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Glissando",
+      "content": "<p>Location: the Sirene area, Act 2, on the way to the second Axon. You must beat it to reach Sirene.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Ice, Dark</td></tr><tr><td>Resists</td><td>Earth, Light</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>Ice and Dark both land, while Earth and Light are resisted. That combination points at Lune and Sciel rather than a Light-based party.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Colour of Lumina</li><li>Chroma Catalyst</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Glissando",
+      "content": "<h3>Two melee combos</h3><p>Its tail slam is a three-hit combo that swipes back and forth before a heavy finish - long start-up, then fast. Its head slam is only two hits and pulls back obviously before it lands, which makes it the easier of the two to read.</p><h3>Charm</h3><p>Glissando sends out three pulses at one character in a rhythm. Only the third connects, and if it lands you lose control of that character while they attack the party. The Anti-Charm effect from the nearby Tisseur fight is the clean answer - see below.</p><h3>It eats a character</h3><p>At low health it swallows a party member and removes them from the fight. You cannot avoid it, but Breaking Glissando forces it to spit them back out, so keep Break pressure up as its health drops.</p><ul><li>Ice and Dark; avoid Earth and Light.</li><li>Kill the Tisseur first for Anti-Charm - it is optional but makes this fight much cleaner.</li><li>Keep Break ready for when it swallows someone.</li></ul>"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "ultimate-sakapatate",
+  "title": "Ultimate Sakapatate - Act 1 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "Ultimate Sakapatate in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 1, Ancient Sanctuary.",
+  "keyword": "Ultimate Sakapatate Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Ancient Sanctuary"
+    },
+    {
+      "label": "Act",
+      "value": "Act 1"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire"
+    },
+    {
+      "label": "Type",
+      "value": "Required"
+    },
+    {
+      "label": "Weak point",
+      "value": "Shield arm"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Colour of Lumina · Chroma Catalyst"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Ultimate Sakapatate is an Act 1 fight in the Ancient Sanctuary built around a giant shield. It is the earliest boss where you are asked to deal with a guard mechanic rather than just output damage.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Ultimate Sakapatate",
+      "content": "<p>Location: Ancient Sanctuary, Act 1. It also reappears in The Monolith, the Endless Tower and the Endless Night Sanctuary, so the same weakness applies whenever you meet it.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>Fire is the only element that lands on Ultimate Sakapatate, and the shield means you need to get through its guard before Fire damage matters.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Colour of Lumina</li><li>Chroma Catalyst</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Ultimate Sakapatate",
+      "content": "<h3>Break the guard first</h3><p>Ultimate Sakapatate carries a shield and a red mace. While the shield is up, your damage is going somewhere other than its health bar. Break effects and multi-hit Fire skills are the efficient route.</p><h3>Fire is the key</h3><p>Nothing else lands cleanly. Every Fire-skilled character you have should be in the party, and Fire-infused weapons are worth the swap even if they are a tier lower.</p><ul><li>Fire only - everything else is a waste of a turn.</li><li>Strip the shield before you try to burst it down.</li><li>It re-appears later with the same profile, so the answer does not change.</li></ul>"
+    }
+  ]
+}

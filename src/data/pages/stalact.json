@@ -1,0 +1,60 @@
+{
+  "slug": "stalact",
+  "title": "Stalact - Act 2 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "Stalact in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 2, Monoco's Station.",
+  "keyword": "Stalact Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Monoco's Station"
+    },
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire (Ice Stance) / Ice (Fire Stance)"
+    },
+    {
+      "label": "Type",
+      "value": "Required"
+    },
+    {
+      "label": "Weak point",
+      "value": "Head point"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Colour of Lumina · Resplendent Chroma Catalyst"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Stalact is a rock-armoured boss whose elemental weakness flips depending on the stance it is currently in. It is the clearest example in the game of a fight where a static weakness chart is not enough.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Stalact",
+      "content": "<p>Location: Monoco's Station, Act 2. It also appears in the Flying Manor with the same stance mechanic.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire (Ice Stance) / Ice (Fire Stance)</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>Stalact's weakness is stance-dependent: Fire when it is in Ice Stance, Ice when it is in Fire Stance. Reading the stance before you commit a turn is the whole skill of the fight.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Colour of Lumina</li><li>Resplendent Chroma Catalyst</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Stalact",
+      "content": "<h3>Read the stance first</h3><p>Do not fire an elemental skill until you have checked which stance Stalact is in. Using the wrong element does nothing useful, and using the right one is a large multiplier - the difference between the two is the fight.</p><h3>Its body is the target</h3><p>Stalact is made of sharp blue rock with a drill-like head point. That head is the weak spot, and hitting it is how you break the fight open rather than chipping at the body.</p><ul><li>Fire in Ice Stance, Ice in Fire Stance - never guess.</li><li>Aim for the drill head.</li><li>Because the key keeps flipping, bring both elements rather than committing to one.</li></ul>"
+    }
+  ]
+}

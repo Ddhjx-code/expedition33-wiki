@@ -1,0 +1,60 @@
+{
+  "slug": "francois",
+  "title": "Francois - Act 1 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "Francois in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 1, Esquie's Nest.",
+  "keyword": "Francois Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Esquie's Nest"
+    },
+    {
+      "label": "Act",
+      "value": "Act 1"
+    },
+    {
+      "label": "Weak to",
+      "value": "Dark"
+    },
+    {
+      "label": "Type",
+      "value": "Required"
+    },
+    {
+      "label": "Weak point",
+      "value": "Shell"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Colour of Lumina · Resplendent Chroma Catalyst"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Francois is a shielded turtle boss fought at Esquie's Nest, and he is the first fight that punishes you for ignoring an elemental key. His ice beam is a one-shot at the level you meet him if you fail to dodge or parry.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Francois",
+      "content": "<p>Location: Esquie's Nest, reached during Act 1 after the Flying Waters. The Nest is part of the main path, so Francois is mandatory.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Dark</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>Dark is Francois's only weakness, and in a first playthrough your Dark options are thin. Magic damage from Lune's Dark skills or a Dark-infused weapon will do most of the work.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Colour of Lumina</li><li>Resplendent Chroma Catalyst</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Francois",
+      "content": "Francois does not move - he is locked in place - so the entire fight is about surviving his ranged pressure while you chew through shields.<h3>Shields are the real health bar</h3><p>Francois stacks multiple shield instances that soak damage before his health moves. Multi-hit skills and Break effects are worth far more here than one big hit, because a single large attack is wasted on a single shield layer.</p><h3>The ice beam</h3><p>His beam is the kill move. It is telegraphed clearly before it fires and it will delete a character who stands still. Parry or dodge it and the rest of the fight is straightforward; miss it twice and you lose the run.</p><ul><li>Bring Dark damage - it is the only element that lands cleanly.</li><li>Prefer multi-hit skills to strip shields.</li><li>Treat the beam as the only attack that matters for timing practice.</li></ul>"
+    }
+  ]
+}

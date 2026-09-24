@@ -38,7 +38,7 @@
     {
       "id": "area-5",
       "title": "Sirene",
-      "content": "<p>Sirene's domain. <a href=\"/tisseur\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Tisseur</a> is not hostile until spoken to.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/tisseur\"><strong>Tisseur</strong></a></td><td>Within Sirene</td><td>Fire, Light</td><td>—</td></tr></tbody></table>"
+      "content": "<p><a href=\"/sirene\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Sirene</a>'s domain. <a href=\"/tisseur\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Tisseur</a> is not hostile until spoken to.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/tisseur\"><strong>Tisseur</strong></a></td><td>Within <a href=\"/sirene\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Sirene</a></td><td>Fire, Light</td><td>—</td></tr></tbody></table>"
     },
     {
       "id": "area-6",
@@ -53,7 +53,7 @@
     {
       "id": "area-8",
       "title": "Flying Manor",
-      "content": "<p>Post-game floating area, reached with Esquie's flight.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/flame-eveque\"><strong>Flame Eveque</strong></a></td><td>Fourth section, triple boss fight</td><td>Ice</td><td>Kralim · 6x Grandiose CC</td></tr><tr><td><a href=\"/grosse-tete\"><strong>Grosse Tete</strong></a></td><td>Below the Dualliste arena</td><td>None</td><td>Warming Up Pictos</td></tr></tbody></table>"
+      "content": "<p>Post-game floating area, reached with Esquie's flight.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/flame-eveque\"><strong>Flame Eveque</strong></a></td><td>Fourth section, triple boss fight</td><td>Ice</td><td>Kralim · 6x Grandiose CC</td></tr><tr><td><a href=\"/grosse-tete\"><strong>Grosse Tete</strong></a></td><td>Below the <a href=\"/dualliste\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Dualliste</a> arena</td><td>None</td><td>Warming Up Pictos</td></tr></tbody></table>"
     },
     {
       "id": "area-9",
