@@ -1,0 +1,64 @@
+{
+  "slug": "dualliste",
+  "title": "Dualliste - Act 2 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "Dualliste in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 2, Forgotten Battlefield.",
+  "keyword": "Dualliste Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Forgotten Battlefield"
+    },
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Weak to",
+      "value": "Light"
+    },
+    {
+      "label": "Resists",
+      "value": "Fire, Dark"
+    },
+    {
+      "label": "Type",
+      "value": "Required"
+    },
+    {
+      "label": "Weak point",
+      "value": "Head"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Dualiso weapon (Verso) · Colour of Lumina"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Dualliste is your first boss after Verso joins, and it is built to test him. It is weak to Light, it can Invert your party, and it drops one of his signature weapons - the Dualiso sword and dagger.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Dualliste",
+      "content": "<p>Location: Forgotten Battlefield, at the end of the area, early in Act 2. It also appears in the Endless Tower as a Chromatic variant with the same profile.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Light</td></tr><tr><td>Resists</td><td>Fire, Dark</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>Light is the weakness. Fire and Dark are both resisted, which means Sciel's Dark kit is actively bad here despite her being a strong pick elsewhere. Build around Verso instead.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Dualiso weapon (Verso)</li><li>Colour of Lumina</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Dualliste",
+      "content": "<h3>Verso is the answer</h3><p>Push Verso up the rank ladder and use his Light skills. At high rank his Light attacks hit hard enough to end the fight before it drags, and the fight doubles as his tutorial.</p><h3>Invert</h3><p>In its second phase Dualliste can Invert a character, which reverses your inputs relative to expectations and will wreck your parry timing if you autopilot. Slow down when the marker appears rather than reacting on reflex.</p><h3>Turn order</h3><p>Its attacks are fast and come as short combos. The wind-ups are short, so this is a reaction fight - practice the parry rather than trying to out-tank it.</p><ul><li>Light damage, ideally from Verso.</li><li>Do not bring Dark expecting it to work - it is resisted.</li><li>Watch for Invert in phase two and slow your inputs.</li></ul>"
+    }
+  ]
+}

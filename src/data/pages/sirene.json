@@ -1,0 +1,64 @@
+{
+  "slug": "sirene",
+  "title": "Sirene - Act 2 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "Sirene in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 2, Sirene.",
+  "keyword": "Sirene Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Sirene"
+    },
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Weak to",
+      "value": "Ice, Dark"
+    },
+    {
+      "label": "Resists",
+      "value": "Earth, Light"
+    },
+    {
+      "label": "Type",
+      "value": "Required"
+    },
+    {
+      "label": "Weak point",
+      "value": "Head"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Tisseron weapon (Sciel) · Colour of Lumina"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Sirene is the second Axon and the boss that gates the end of Act 2. She is a caster who fights through summoned creatures and a Charm mechanic, and whether she is a hard fight or a manageable one is decided before you enter the arena.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Sirene",
+      "content": "<p>Location: the Sirene area, Act 2, past Glissando. Beating her is required to reach the Paintress.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Ice, Dark</td></tr><tr><td>Resists</td><td>Earth, Light</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>Ice and Dark are her weaknesses; Earth and Light are resisted. She also drops Tisseron, a Sciel weapon, which makes Sciel a natural pick for both the damage and the drop.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Tisseron weapon (Sciel)</li><li>Colour of Lumina</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Sirene",
+      "content": "<h3>Fight the Tisseur first</h3><p>Before you reach Sirene you are offered the choice to kill or spare the Tisseur. Fighting it is strongly worth it: you gain the Anti-Charm Pictos, and if you spare it Sirene can buff her own defences during the fight. Sparing the Tisseur makes the boss measurably harder.</p><h3>Charm</h3><p>Sirene charms through the Ballet enemies that accompany her. Charm costs you control of a character and is the main way this fight goes wrong - the Anti-Charm effect from the Tisseur is the direct counter.</p><h3>She calls creatures</h3><p>Sirene herself is not the only damage source. She summons creatures from her realm, so clearing adds keeps the fight readable rather than letting pressure stack.</p><ul><li>Ice and Dark; avoid Earth and Light.</li><li>Kill the Tisseur for Anti-Charm - sparing it makes Sirene tougher.</li><li>Clear her summoned creatures rather than ignoring them.</li></ul>"
+    }
+  ]
+}

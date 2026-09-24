@@ -1,0 +1,60 @@
+{
+  "slug": "the-paintress",
+  "title": "The Paintress - Act 2 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "The Paintress in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 2, The Monolith.",
+  "keyword": "The Paintress Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Monolith"
+    },
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Weak to",
+      "value": "None (no elemental weakness)"
+    },
+    {
+      "label": "Type",
+      "value": "Required"
+    },
+    {
+      "label": "Weak point",
+      "value": "Head"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Story progression · Colour of Lumina"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The Paintress is the final required boss of Act 2 and the target the entire expedition is built around. She has a large health pool, no elemental weakness, and three phases - though the third one never attacks you.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the The Paintress",
+      "content": "<p>Location: the top of The Monolith, Act 2, after Renoir. Defeating her ends the act.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>None</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>There is no weakness and no resistance that matters. The relevant constraint is the damage cap: before NG+ you cannot exceed 9,999 per hit, which makes multi-hit skills far more valuable than single big swings.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Story progression</li><li>Colour of Lumina</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the The Paintress",
+      "content": "<h3>Beat the damage cap with hit count</h3><p>Because you are capped at 9,999 per hit, the way to do real damage is to stack hits rather than chase one large number. Maelle in Virtuose Stance using Gustave's Homage is the standard answer - eight hits at near-cap each is what actually moves her health bar.</p><h3>Phase two is the hard one</h3><p>She tears open the canvas and summons light missiles. These are parryable, so the phase rewards timing practice rather than tanking.</p><h3>Phase three does not fight</h3><p>After the first two phases she enters a third in which she does not attack at all. You cannot lose there, so spend it freely.</p><ul><li>No weakness - build for hit count, not hit size.</li><li>Maelle in Virtuose Stance with Gustave's Homage is the key damage line.</li><li>Parry the light missiles in phase two.</li></ul>"
+    }
+  ]
+}

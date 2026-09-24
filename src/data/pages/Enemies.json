@@ -17,7 +17,7 @@
     {
       "id": "bosses",
       "title": "Boss Encounters",
-      "content": "<h3>Optional Bosses (by area)</h3><ul><li><strong><a href=\"/locations\" style=\"color:var(--accent)\">Flying Waters</a>:</strong> Bourgeon, Chromatic Troubadour, Goblu, Mime</li><li><strong>Mid-game areas:</strong> Chromatic Nevrons (various)</li><li><strong>Late-game:</strong> <a href=\"/locations\" style=\"color:var(--accent)\">Endless Tower</a> bosses</li></ul><h3>Story Bosses</h3><p>See our full <a href=\"/boss-guide\">Boss Guide</a> for complete strategies and recommended parties for all mandatory boss encounters.</p>"
+      "content": "<h3>Optional Bosses (by area)</h3><ul><li><strong><a href=\"/locations\" style=\"color:var(--accent)\">Flying Waters</a>:</strong> Bourgeon, Chromatic Troubadour, <a href=\"/goblu\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Goblu</a>, Mime</li><li><strong>Mid-game areas:</strong> Chromatic Nevrons (various)</li><li><strong>Late-game:</strong> <a href=\"/locations\" style=\"color:var(--accent)\">Endless Tower</a> bosses</li></ul><h3>Story Bosses</h3><p>See our full <a href=\"/boss-guide\">Boss Guide</a> for complete strategies and recommended parties for all mandatory boss encounters.</p>"
     },
     {
       "id": "combat-tips",

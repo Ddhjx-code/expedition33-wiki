@@ -1,0 +1,60 @@
+{
+  "slug": "creation",
+  "title": "Creation - Act 3 Boss Guide (Location, Weakness &amp; How to Beat)",
+  "description": "Creation in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it. Act 3, Lumiere.",
+  "keyword": "Creation Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Lumiere"
+    },
+    {
+      "label": "Act",
+      "value": "Act 3"
+    },
+    {
+      "label": "Weak to",
+      "value": "None (no elemental weakness)"
+    },
+    {
+      "label": "Type",
+      "value": "Optional"
+    },
+    {
+      "label": "Weak point",
+      "value": "Hind legs"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Colour of Lumina · Resplendent Chroma Catalyst"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Creation is an Act 3 boss with the build of a horse - four scrawny legs under a body coated in hardened golden liquid. Like the other late-game bosses it has no elemental weakness, so it is a raw execution fight.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Creation",
+      "content": "<p>Location: Lumiere, Act 3. It also appears in the Endless Tower and Renoir's Drafts as the game's postgame content opens up.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness &amp; Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>None</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr></tbody></table><p>No elemental weakness or resistance worth building around. Late-game bosses switch from element puzzles to mechanics checks, and Creation is a clean example.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Colour of Lumina</li><li>Resplendent Chroma Catalyst</li></ul>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Creation",
+      "content": "<h3>It is a physical fight</h3><p>Bring your highest-damage party composition and your best upgrade levels rather than an element-matched lineup. There is no key to find here.</p><h3>Read the legs</h3><p>Its silhouette is four thin legs under a heavy golden body, and the attacks come from that lower frame. Positioning your dodge around the legs rather than the bulk of the body is what keeps you alive through its combos.</p><ul><li>No weakness - bring damage and defence, not elemental answers.</li><li>Available again in the Endless Tower and Renoir's Drafts.</li></ul>"
+    }
+  ]
+}
