@@ -1,0 +1,51 @@
+{
+  "slug": "grandaro",
+  "title": "Grandaro - Weapon Stats & Location (Expedition 33)",
+  "description": "Grandaro in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Grandaro Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Monoco"
+    },
+    {
+      "label": "Element",
+      "value": "Earth"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (A), Defense (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Monoco's Station - deliver the Eternal Ice to the Grandis trader"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Grandaro is a earth-element weapon used by Monoco. It scales with Vitality (A), Defense (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Earth</td></tr><tr><td>Scaling</td><td>Vitality (A), Defense (B)</td></tr><tr><td>Character</td><td>Monoco</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Grandaro",
+      "content": "<p><strong>Location:</strong> Monoco's Station - deliver the Eternal Ice to the Grandis trader.</p><p>Obtained from Monoco's Station - deliver the Eternal Ice to the Grandis trader.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Grandaro Worth Using?",
+      "content": "<p>Scales off Vitality (A), Defense (B). A dedicated earth pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

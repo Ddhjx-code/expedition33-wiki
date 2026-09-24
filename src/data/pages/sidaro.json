@@ -1,0 +1,51 @@
+{
+  "slug": "sidaro",
+  "title": "Sidaro - Weapon Stats & Location (Expedition 33)",
+  "description": "Sidaro in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Sidaro Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Monoco"
+    },
+    {
+      "label": "Element",
+      "value": "Dark"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (A), Vitality (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Renoir's Gallery - Paint Cage"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Sidaro is a dark-element weapon used by Monoco. It scales with Defense (A), Vitality (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Dark</td></tr><tr><td>Scaling</td><td>Defense (A), Vitality (B)</td></tr><tr><td>Character</td><td>Monoco</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Sidaro",
+      "content": "<p><strong>Location:</strong> Renoir's Gallery - Paint Cage.</p><p>Obtained from Renoir's Gallery - Paint Cage.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Sidaro Worth Using?",
+      "content": "<p>Scales off Defense (A), Vitality (B). A dedicated dark pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

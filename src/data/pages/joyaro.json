@@ -1,0 +1,51 @@
+{
+  "slug": "joyaro",
+  "title": "Joyaro - Weapon Stats & Location (Expedition 33)",
+  "description": "Joyaro in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Joyaro Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Monoco"
+    },
+    {
+      "label": "Element",
+      "value": "Lightning"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (A), Agility (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Flying Manor - enemy drop"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Joyaro is a lightning-element weapon used by Monoco. It scales with Defense (A), Agility (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Lightning</td></tr><tr><td>Scaling</td><td>Defense (A), Agility (B)</td></tr><tr><td>Character</td><td>Monoco</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Joyaro",
+      "content": "<p><strong>Location:</strong> Flying Manor - enemy drop.</p><p>Obtained from Flying Manor - enemy drop.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Joyaro Worth Using?",
+      "content": "<p>Scales off Defense (A), Agility (B). A dedicated lightning pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

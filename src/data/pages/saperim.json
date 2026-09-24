@@ -1,0 +1,51 @@
+{
+  "slug": "saperim",
+  "title": "Saperim - Weapon Stats & Location (Expedition 33)",
+  "description": "Saperim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Saperim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Lightning"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (B), Luck (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Falling Leaves"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Saperim is a lightning-element weapon used by Lune. It scales with Defense (B), Luck (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Lightning</td></tr><tr><td>Scaling</td><td>Defense (B), Luck (C)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Saperim",
+      "content": "<p><strong>Location:</strong> Falling Leaves.</p><p>Obtained from Falling Leaves.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Saperim Worth Using?",
+      "content": "<p>Scales off Defense (B), Luck (C). A dedicated lightning pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

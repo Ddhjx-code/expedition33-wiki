@@ -1,0 +1,51 @@
+{
+  "slug": "corderon",
+  "title": "Corderon - Weapon Stats & Location (Expedition 33)",
+  "description": "Corderon in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Corderon Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Sciel"
+    },
+    {
+      "label": "Element",
+      "value": "Dark"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (C), Luck (D)"
+    },
+    {
+      "label": "Location",
+      "value": "The Continent"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Corderon is a dark-element weapon used by Sciel. It scales with Defense (C), Luck (D).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Dark</td></tr><tr><td>Scaling</td><td>Defense (C), Luck (D)</td></tr><tr><td>Character</td><td>Sciel</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Corderon",
+      "content": "<p><strong>Location:</strong> The Continent.</p><p>Obtained from The Continent.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Corderon Worth Using?",
+      "content": "<p>Scales off Defense (C), Luck (D). A dedicated dark pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "coralim",
+  "title": "Coralim - Weapon Stats & Location (Expedition 33)",
+  "description": "Coralim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Coralim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Ice"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (C), Vitality (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Stone Wave Cliffs - Flooded Building Flag, past a rope climb"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Coralim is a ice-element weapon used by Lune. It scales with Defense (C), Vitality (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Ice</td></tr><tr><td>Scaling</td><td>Defense (C), Vitality (B)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Coralim",
+      "content": "<p><strong>Location:</strong> Stone Wave Cliffs - Flooded Building Flag, past a rope climb.</p><p>Obtained from Stone Wave Cliffs - Flooded Building Flag, past a rope climb.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Coralim Worth Using?",
+      "content": "<p>Scales off Defense (C), Vitality (B). A dedicated ice pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "blizzon",
+  "title": "Blizzon - Weapon Stats & Location (Expedition 33)",
+  "description": "Blizzon in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Blizzon Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Sciel"
+    },
+    {
+      "label": "Element",
+      "value": "Ice"
+    },
+    {
+      "label": "Scaling",
+      "value": "Luck (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Falling Leaves - defeat the Chromatic Ballet"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Blizzon is a ice-element weapon used by Sciel. It scales with Luck (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Ice</td></tr><tr><td>Scaling</td><td>Luck (B)</td></tr><tr><td>Character</td><td>Sciel</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Blizzon",
+      "content": "<p><strong>Location:</strong> Falling Leaves - defeat the Chromatic Ballet.</p><p>Obtained from Falling Leaves - defeat the Chromatic Ballet.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Blizzon Worth Using?",
+      "content": "<p>Scales off Luck (B). A dedicated ice pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "deminerim",
+  "title": "Deminerim - Weapon Stats & Location (Expedition 33)",
+  "description": "Deminerim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Deminerim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Lightning"
+    },
+    {
+      "label": "Scaling",
+      "value": "Agility (D), Luck (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Flying Waters - return the Intact Mine to the Demineur"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Deminerim is a lightning-element weapon used by Lune. It scales with Agility (D), Luck (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Lightning</td></tr><tr><td>Scaling</td><td>Agility (D), Luck (C)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Deminerim",
+      "content": "<p><strong>Location:</strong> Flying Waters - return the Intact Mine to the Demineur.</p><p>Obtained from Flying Waters - return the Intact Mine to the Demineur.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Deminerim Worth Using?",
+      "content": "<p>Scales off Agility (D), Luck (C). A dedicated lightning pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

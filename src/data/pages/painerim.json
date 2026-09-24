@@ -1,0 +1,51 @@
+{
+  "slug": "painerim",
+  "title": "Painerim - Weapon Stats & Location (Expedition 33)",
+  "description": "Painerim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Painerim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Earth"
+    },
+    {
+      "label": "Scaling",
+      "value": "Luck (D), Vitality (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Renoir's Drafts - merchant Grour"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Painerim is a earth-element weapon used by Lune. It scales with Luck (D), Vitality (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Earth</td></tr><tr><td>Scaling</td><td>Luck (D), Vitality (C)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Painerim",
+      "content": "<p><strong>Location:</strong> Renoir's Drafts - merchant Grour.</p><p>Obtained from Renoir's Drafts - merchant Grour.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Painerim Worth Using?",
+      "content": "<p>Scales off Luck (D), Vitality (C). A dedicated earth pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

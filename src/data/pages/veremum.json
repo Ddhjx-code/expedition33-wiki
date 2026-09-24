@@ -1,0 +1,51 @@
+{
+  "slug": "veremum",
+  "title": "Veremum - Weapon Stats & Location (Expedition 33)",
+  "description": "Veremum in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Veremum Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Maelle"
+    },
+    {
+      "label": "Element",
+      "value": "Physical"
+    },
+    {
+      "label": "Scaling",
+      "value": "Physical (C), Vitality (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Inside the Monolith - Mistra"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Veremum is a physical-element weapon used by Maelle. It scales with Physical (C), Vitality (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Physical</td></tr><tr><td>Scaling</td><td>Physical (C), Vitality (B)</td></tr><tr><td>Character</td><td>Maelle</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Veremum",
+      "content": "<p><strong>Location:</strong> Inside the Monolith - Mistra.</p><p>Obtained from Inside the Monolith - Mistra.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Veremum Worth Using?",
+      "content": "<p>Scales off Physical (C), Vitality (B). A physical-scaling weapon, so it fits any build that is not committed to a specific element.</p>"
+    }
+  ]
+}

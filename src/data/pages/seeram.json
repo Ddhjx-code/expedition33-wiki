@@ -1,0 +1,51 @@
+{
+  "slug": "seeram",
+  "title": "Seeram - Weapon Stats & Location (Expedition 33)",
+  "description": "Seeram in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Seeram Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Gustave / Verso"
+    },
+    {
+      "label": "Element",
+      "value": "Light"
+    },
+    {
+      "label": "Scaling",
+      "value": "Agility (C), Vitality (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Coastal Cave"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Seeram is a light-element weapon used by Gustave / Verso. It scales with Agility (C), Vitality (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Light</td></tr><tr><td>Scaling</td><td>Agility (C), Vitality (B)</td></tr><tr><td>Character</td><td>Gustave / Verso</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Seeram",
+      "content": "<p><strong>Location:</strong> Coastal Cave.</p><p>Obtained from Coastal Cave.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Seeram Worth Using?",
+      "content": "<p>Scales off Agility (C), Vitality (B). A dedicated light pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

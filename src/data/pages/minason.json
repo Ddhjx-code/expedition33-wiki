@@ -1,0 +1,51 @@
+{
+  "slug": "minason",
+  "title": "Minason - Weapon Stats & Location (Expedition 33)",
+  "description": "Minason in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Minason Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Sciel"
+    },
+    {
+      "label": "Element",
+      "value": "Physical"
+    },
+    {
+      "label": "Scaling",
+      "value": "Luck (D), Vitality (C)"
+    },
+    {
+      "label": "Location",
+      "value": "The Crows - Chromatic Chapelier drop"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Minason is a physical-element weapon used by Sciel. It scales with Luck (D), Vitality (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Physical</td></tr><tr><td>Scaling</td><td>Luck (D), Vitality (C)</td></tr><tr><td>Character</td><td>Sciel</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Minason",
+      "content": "<p><strong>Location:</strong> The Crows - Chromatic Chapelier drop.</p><p>Obtained from The Crows - Chromatic Chapelier drop.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Minason Worth Using?",
+      "content": "<p>Scales off Luck (D), Vitality (C). A physical-scaling weapon, so it fits any build that is not committed to a specific element.</p>"
+    }
+  ]
+}

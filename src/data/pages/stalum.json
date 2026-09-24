@@ -1,0 +1,51 @@
+{
+  "slug": "stalum",
+  "title": "Stalum - Weapon Stats & Location (Expedition 33)",
+  "description": "Stalum in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Stalum Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Maelle"
+    },
+    {
+      "label": "Element",
+      "value": "Fire"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (A), Luck (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Frozen Hearts"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Stalum is a fire-element weapon used by Maelle. It scales with Defense (A), Luck (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Fire</td></tr><tr><td>Scaling</td><td>Defense (A), Luck (B)</td></tr><tr><td>Character</td><td>Maelle</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Stalum",
+      "content": "<p><strong>Location:</strong> Frozen Hearts.</p><p>Obtained from Frozen Hearts.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Stalum Worth Using?",
+      "content": "<p>Scales off Defense (A), Luck (B). A dedicated fire pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

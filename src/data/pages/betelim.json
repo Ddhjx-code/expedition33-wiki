@@ -1,0 +1,51 @@
+{
+  "slug": "betelim",
+  "title": "Betelim - Weapon Stats & Location (Expedition 33)",
+  "description": "Betelim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Betelim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Earth"
+    },
+    {
+      "label": "Scaling",
+      "value": "Agility (D), Vitality (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Gestral Village - break a rock on the right side with a Paint Spike"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Betelim is a earth-element weapon used by Lune. It scales with Agility (D), Vitality (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Earth</td></tr><tr><td>Scaling</td><td>Agility (D), Vitality (C)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Betelim",
+      "content": "<p><strong>Location:</strong> Gestral Village - break a rock on the right side with a Paint Spike.</p><p>Obtained from Gestral Village - break a rock on the right side with a Paint Spike.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Betelim Worth Using?",
+      "content": "<p>Scales off Agility (D), Vitality (C). A dedicated earth pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

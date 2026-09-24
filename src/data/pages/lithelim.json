@@ -1,0 +1,51 @@
+{
+  "slug": "lithelim",
+  "title": "Lithelim - Weapon Stats & Location (Expedition 33)",
+  "description": "Lithelim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Lithelim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Void"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Inside the Monolith"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Lithelim is a void-element weapon used by Lune. It scales with Vitality (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Void</td></tr><tr><td>Scaling</td><td>Vitality (B)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Lithelim",
+      "content": "<p><strong>Location:</strong> Inside the Monolith.</p><p>Obtained from Inside the Monolith.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Lithelim Worth Using?",
+      "content": "<p>Scales off Vitality (B). A dedicated void pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

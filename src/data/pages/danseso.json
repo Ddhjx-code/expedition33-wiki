@@ -1,0 +1,51 @@
+{
+  "slug": "danseso",
+  "title": "Danseso - Weapon Stats & Location (Expedition 33)",
+  "description": "Danseso in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Danseso Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Gustave / Verso"
+    },
+    {
+      "label": "Element",
+      "value": "Fire"
+    },
+    {
+      "label": "Scaling",
+      "value": "Agility (D), Luck (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Old Lumiere - Chromatic Danseuse drop"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Danseso is a fire-element weapon used by Gustave / Verso. It scales with Agility (D), Luck (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Fire</td></tr><tr><td>Scaling</td><td>Agility (D), Luck (C)</td></tr><tr><td>Character</td><td>Gustave / Verso</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Danseso",
+      "content": "<p><strong>Location:</strong> Old Lumiere - Chromatic Danseuse drop.</p><p>Obtained from Old Lumiere - Chromatic Danseuse drop.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Danseso Worth Using?",
+      "content": "<p>Scales off Agility (D), Luck (C). A dedicated fire pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

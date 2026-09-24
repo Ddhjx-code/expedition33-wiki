@@ -1,0 +1,51 @@
+{
+  "slug": "chation",
+  "title": "Chation - Weapon Stats & Location (Expedition 33)",
+  "description": "Chation in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Chation Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Sciel"
+    },
+    {
+      "label": "Element",
+      "value": "Dark"
+    },
+    {
+      "label": "Scaling",
+      "value": "Luck (C), Vitality (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Stone Wave Cliffs"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Chation is a dark-element weapon used by Sciel. It scales with Luck (C), Vitality (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Dark</td></tr><tr><td>Scaling</td><td>Luck (C), Vitality (B)</td></tr><tr><td>Character</td><td>Sciel</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Chation",
+      "content": "<p><strong>Location:</strong> Stone Wave Cliffs.</p><p>Obtained from Stone Wave Cliffs.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Chation Worth Using?",
+      "content": "<p>Scales off Luck (C), Vitality (B). A dedicated dark pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

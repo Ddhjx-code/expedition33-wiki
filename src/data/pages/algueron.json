@@ -1,0 +1,51 @@
+{
+  "slug": "algueron",
+  "title": "Algueron - Weapon Stats & Location (Expedition 33)",
+  "description": "Algueron in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Algueron Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Sciel"
+    },
+    {
+      "label": "Element",
+      "value": "Ice"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (B), Luck (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Old Lumiere - merchant Mendelyo"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Algueron is a ice-element weapon used by Sciel. It scales with Vitality (B), Luck (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Ice</td></tr><tr><td>Scaling</td><td>Vitality (B), Luck (C)</td></tr><tr><td>Character</td><td>Sciel</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Algueron",
+      "content": "<p><strong>Location:</strong> Old Lumiere - merchant Mendelyo.</p><p>Obtained from Old Lumiere - merchant Mendelyo.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Algueron Worth Using?",
+      "content": "<p>Scales off Vitality (B), Luck (C). A dedicated ice pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

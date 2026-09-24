@@ -1,0 +1,51 @@
+{
+  "slug": "scieleson",
+  "title": "Scieleson - Weapon Stats & Location (Expedition 33)",
+  "description": "Scieleson in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Scieleson Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Sciel"
+    },
+    {
+      "label": "Element",
+      "value": "Physical"
+    },
+    {
+      "label": "Scaling",
+      "value": "Agility (B), Luck (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Starting weapon"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Scieleson is a physical-element weapon used by Sciel. It scales with Agility (B), Luck (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Physical</td></tr><tr><td>Scaling</td><td>Agility (B), Luck (C)</td></tr><tr><td>Character</td><td>Sciel</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Scieleson",
+      "content": "<p><strong>Location:</strong> Starting weapon.</p><p>Starting weapon.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Scieleson Worth Using?",
+      "content": "<p>Scales off Agility (B), Luck (C). A physical-scaling weapon, so it fits any build that is not committed to a specific element.</p>"
+    }
+  ]
+}
