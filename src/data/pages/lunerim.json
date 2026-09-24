@@ -1,0 +1,51 @@
+{
+  "slug": "lunerim",
+  "title": "Lunerim - Weapon Stats & Location (Expedition 33)",
+  "description": "Lunerim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Lunerim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Fire"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (D), Luck (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Starting weapon"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Lunerim is a fire-element weapon used by Lune. It scales with Vitality (D), Luck (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Fire</td></tr><tr><td>Scaling</td><td>Vitality (D), Luck (C)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Lunerim",
+      "content": "<p><strong>Location:</strong> Starting weapon.</p><p>Starting weapon.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Lunerim Worth Using?",
+      "content": "<p>Scales off Vitality (D), Luck (C). A dedicated fire pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

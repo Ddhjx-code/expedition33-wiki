@@ -1,0 +1,51 @@
+{
+  "slug": "jarum",
+  "title": "Jarum - Weapon Stats & Location (Expedition 33)",
+  "description": "Jarum in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Jarum Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Maelle"
+    },
+    {
+      "label": "Element",
+      "value": "Physical"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (B), Luck (C)"
+    },
+    {
+      "label": "Location",
+      "value": "The Continent - defeat the Chromatic Jar west of Old Lumiere"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Jarum is a physical-element weapon used by Maelle. It scales with Defense (B), Luck (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Physical</td></tr><tr><td>Scaling</td><td>Defense (B), Luck (C)</td></tr><tr><td>Character</td><td>Maelle</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Jarum",
+      "content": "<p><strong>Location:</strong> The Continent - defeat the Chromatic Jar west of Old Lumiere.</p><p>Obtained from The Continent - defeat the Chromatic Jar west of Old Lumiere.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Jarum Worth Using?",
+      "content": "<p>Scales off Defense (B), Luck (C). A physical-scaling weapon, so it fits any build that is not committed to a specific element.</p>"
+    }
+  ]
+}

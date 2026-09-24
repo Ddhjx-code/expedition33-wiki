@@ -1,0 +1,51 @@
+{
+  "slug": "colim",
+  "title": "Colim - Weapon Stats & Location (Expedition 33)",
+  "description": "Colim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Colim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Light"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (B), Agility (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Sirene - kill any Chorale enemy"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Colim is a light-element weapon used by Lune. It scales with Vitality (B), Agility (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Light</td></tr><tr><td>Scaling</td><td>Vitality (B), Agility (C)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Colim",
+      "content": "<p><strong>Location:</strong> Sirene - kill any Chorale enemy.</p><p>Obtained from Sirene - kill any Chorale enemy.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Colim Worth Using?",
+      "content": "<p>Scales off Vitality (B), Agility (C). A dedicated light pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

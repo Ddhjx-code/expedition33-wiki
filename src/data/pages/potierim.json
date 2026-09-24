@@ -1,0 +1,51 @@
+{
+  "slug": "potierim",
+  "title": "Potierim - Weapon Stats & Location (Expedition 33)",
+  "description": "Potierim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Potierim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Ice"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (C), Agility (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Yellow Harvest"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Potierim is a ice-element weapon used by Lune. It scales with Defense (C), Agility (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Ice</td></tr><tr><td>Scaling</td><td>Defense (C), Agility (B)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Potierim",
+      "content": "<p><strong>Location:</strong> Yellow Harvest.</p><p>Obtained from Yellow Harvest.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Potierim Worth Using?",
+      "content": "<p>Scales off Defense (C), Agility (B). A dedicated ice pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

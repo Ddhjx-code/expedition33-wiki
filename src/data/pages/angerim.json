@@ -1,0 +1,51 @@
+{
+  "slug": "angerim",
+  "title": "Angerim - Weapon Stats & Location (Expedition 33)",
+  "description": "Angerim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Angerim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Fire"
+    },
+    {
+      "label": "Scaling",
+      "value": "Luck (B), Defense (A)"
+    },
+    {
+      "label": "Location",
+      "value": "The Continent - defeat the Chromatic Demineur north of Forgotten Battlefield"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Angerim is a fire-element weapon used by Lune. It scales with Luck (B), Defense (A).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Fire</td></tr><tr><td>Scaling</td><td>Luck (B), Defense (A)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Angerim",
+      "content": "<p><strong>Location:</strong> The Continent - defeat the Chromatic Demineur north of Forgotten Battlefield.</p><p>Obtained from The Continent - defeat the Chromatic Demineur north of Forgotten Battlefield.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Angerim Worth Using?",
+      "content": "<p>Scales off Luck (B), Defense (A). A dedicated fire pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

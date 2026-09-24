@@ -1,0 +1,51 @@
+{
+  "slug": "medalum",
+  "title": "Medalum - Weapon Stats & Location (Expedition 33)",
+  "description": "Medalum in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Medalum Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Maelle"
+    },
+    {
+      "label": "Element",
+      "value": "Physical"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (S), Agility (A)"
+    },
+    {
+      "label": "Location",
+      "value": "Gestral Village - win the arena tournament (missable)"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Medalum is a physical-element weapon used by Maelle. It scales with Defense (S), Agility (A).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Physical</td></tr><tr><td>Scaling</td><td>Defense (S), Agility (A)</td></tr><tr><td>Character</td><td>Maelle</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Medalum",
+      "content": "<p><strong>Location:</strong> Gestral Village - win the arena tournament (missable).</p><p>Obtained from Gestral Village - win the arena tournament (missable).</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Medalum Worth Using?",
+      "content": "<p>Scales off Defense (S), Agility (A). A physical-scaling weapon, so it fits any build that is not committed to a specific element.</p>"
+    }
+  ]
+}

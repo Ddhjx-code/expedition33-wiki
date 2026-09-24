@@ -1,0 +1,51 @@
+{
+  "slug": "demonam",
+  "title": "Demonam - Weapon Stats & Location (Expedition 33)",
+  "description": "Demonam in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Demonam Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Gustave / Verso"
+    },
+    {
+      "label": "Element",
+      "value": "Light"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (C), Agility (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Gestral Village - merchant after the duel"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Demonam is a light-element weapon used by Gustave / Verso. It scales with Defense (C), Agility (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Light</td></tr><tr><td>Scaling</td><td>Defense (C), Agility (B)</td></tr><tr><td>Character</td><td>Gustave / Verso</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Demonam",
+      "content": "<p><strong>Location:</strong> Gestral Village - merchant after the duel.</p><p>Obtained from Gestral Village - merchant after the duel.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Demonam Worth Using?",
+      "content": "<p>Scales off Defense (C), Agility (B). A dedicated light pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

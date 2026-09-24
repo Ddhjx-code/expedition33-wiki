@@ -1,0 +1,51 @@
+{
+  "slug": "benisim",
+  "title": "Benisim - Weapon Stats & Location (Expedition 33)",
+  "description": "Benisim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Benisim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Earth"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (B), Defense (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Forgotten Battlefield - merchant Kasumi past the ancient bridge"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Benisim is a earth-element weapon used by Lune. It scales with Vitality (B), Defense (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Earth</td></tr><tr><td>Scaling</td><td>Vitality (B), Defense (C)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Benisim",
+      "content": "<p><strong>Location:</strong> Forgotten Battlefield - merchant Kasumi past the ancient bridge.</p><p>Obtained from Forgotten Battlefield - merchant Kasumi past the ancient bridge.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Benisim Worth Using?",
+      "content": "<p>Scales off Vitality (B), Defense (C). A dedicated earth pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

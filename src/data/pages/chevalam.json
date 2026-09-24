@@ -1,0 +1,51 @@
+{
+  "slug": "chevalam",
+  "title": "Chevalam - Weapon Stats & Location (Expedition 33)",
+  "description": "Chevalam in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Chevalam Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Gustave / Verso"
+    },
+    {
+      "label": "Element",
+      "value": "Physical"
+    },
+    {
+      "label": "Scaling",
+      "value": "Agility (B), Luck (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Crimson Forest - defeat the area's final boss"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Chevalam is a physical-element weapon used by Gustave / Verso. It scales with Agility (B), Luck (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Physical</td></tr><tr><td>Scaling</td><td>Agility (B), Luck (C)</td></tr><tr><td>Character</td><td>Gustave / Verso</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Chevalam",
+      "content": "<p><strong>Location:</strong> Crimson Forest - defeat the area's final boss.</p><p>Obtained from Crimson Forest - defeat the area's final boss.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Chevalam Worth Using?",
+      "content": "<p>Scales off Agility (B), Luck (C). A physical-scaling weapon, so it fits any build that is not committed to a specific element.</p>"
+    }
+  ]
+}

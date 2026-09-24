@@ -28,12 +28,12 @@
     {
       "id": "area-3",
       "title": "Yellow Harvest",
-      "content": "<p>Optional side area unlocked once Esquie becomes a mount.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/glaise\"><strong>Glaise</strong></a></td><td>Yellow Spire Wrecks</td><td>Fire, Ice</td><td>Plenum (Maelle) · 24,190 EXP</td></tr></tbody></table>"
+      "content": "<p>Optional side area unlocked once Esquie becomes a mount.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/glaise\"><strong>Glaise</strong></a></td><td>Yellow Spire Wrecks</td><td>Fire, Ice</td><td><a href=\"/plenum\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Plenum</a> (Maelle) · 24,190 EXP</td></tr></tbody></table>"
     },
     {
       "id": "area-4",
       "title": "Falling Leaves",
-      "content": "<p>Optional Act 2 zone on the western edge of the Continent.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/scavenger\"><strong>Scavenger</strong></a></td><td>End of the path, past the Lady of Sap gate</td><td>Light</td><td>Scaverim (Lune) · 139,320 EXP</td></tr><tr><td><a href=\"/chromatic-ballet\"><strong>Chromatic Ballet</strong></a></td><td>Past the bridge</td><td>Fire / Dark / Ice (per entity)</td><td>Blizzon · 15x Colour of Lumina</td></tr></tbody></table>"
+      "content": "<p>Optional Act 2 zone on the western edge of the Continent.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/scavenger\"><strong>Scavenger</strong></a></td><td>End of the path, past the Lady of Sap gate</td><td>Light</td><td><a href=\"/scaverim\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Scaverim</a> (Lune) · 139,320 EXP</td></tr><tr><td><a href=\"/chromatic-ballet\"><strong>Chromatic Ballet</strong></a></td><td>Past the bridge</td><td>Fire / Dark / Ice (per entity)</td><td><a href=\"/blizzon\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Blizzon</a> · 15x Colour of Lumina</td></tr></tbody></table>"
     },
     {
       "id": "area-5",
@@ -48,12 +48,12 @@
     {
       "id": "area-7",
       "title": "Hidden Gestral Arena",
-      "content": "<p>1v1 Arena tournament. No party synergy - bring a self-sufficient character.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/matthieu-the-colossus\"><strong>Matthieu the Colossus</strong></a></td><td>Arena platform, via Limonsol</td><td>None</td><td>Arena progress toward Medalum</td></tr><tr><td><a href=\"/julien-tiny-head\"><strong>Julien Tiny Head</strong></a></td><td>Same Arena roster</td><td>None</td><td>Arena progress</td></tr></tbody></table>"
+      "content": "<p>1v1 Arena tournament. No party synergy - bring a self-sufficient character.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/matthieu-the-colossus\"><strong>Matthieu the Colossus</strong></a></td><td>Arena platform, via Limonsol</td><td>None</td><td>Arena progress toward <a href=\"/medalum\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Medalum</a></td></tr><tr><td><a href=\"/julien-tiny-head\"><strong>Julien Tiny Head</strong></a></td><td>Same Arena roster</td><td>None</td><td>Arena progress</td></tr></tbody></table>"
     },
     {
       "id": "area-8",
       "title": "Flying Manor",
-      "content": "<p>Post-game floating area, reached with Esquie's flight.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/flame-eveque\"><strong>Flame Eveque</strong></a></td><td>Fourth section, triple boss fight</td><td>Ice</td><td>Kralim · 6x Grandiose CC</td></tr><tr><td><a href=\"/grosse-tete\"><strong>Grosse Tete</strong></a></td><td>Below the <a href=\"/dualliste\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Dualliste</a> arena</td><td>None</td><td>Warming Up Pictos</td></tr></tbody></table>"
+      "content": "<p>Post-game floating area, reached with Esquie's flight.</p><table><thead><tr><th>Boss</th><th>Where in the area</th><th>Weak to</th><th>Notable drops</th></tr></thead><tbody><tr><td><a href=\"/flame-eveque\"><strong>Flame Eveque</strong></a></td><td>Fourth section, triple boss fight</td><td>Ice</td><td><a href=\"/kralim\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Kralim</a> · 6x Grandiose CC</td></tr><tr><td><a href=\"/grosse-tete\"><strong>Grosse Tete</strong></a></td><td>Below the <a href=\"/dualliste\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Dualliste</a> arena</td><td>None</td><td>Warming Up Pictos</td></tr></tbody></table>"
     },
     {
       "id": "area-9",

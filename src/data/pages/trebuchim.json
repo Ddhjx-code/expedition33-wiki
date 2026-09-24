@@ -1,0 +1,51 @@
+{
+  "slug": "trebuchim",
+  "title": "Trebuchim - Weapon Stats & Location (Expedition 33)",
+  "description": "Trebuchim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Trebuchim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Lightning"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (A), Luck (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Ancient Sanctuary - Catapult Sakapatate drop"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Trebuchim is a lightning-element weapon used by Lune. It scales with Vitality (A), Luck (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Lightning</td></tr><tr><td>Scaling</td><td>Vitality (A), Luck (B)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Trebuchim",
+      "content": "<p><strong>Location:</strong> Ancient Sanctuary - Catapult Sakapatate drop.</p><p>Obtained from Ancient Sanctuary - Catapult Sakapatate drop.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Trebuchim Worth Using?",
+      "content": "<p>Scales off Vitality (A), Luck (B). A dedicated lightning pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

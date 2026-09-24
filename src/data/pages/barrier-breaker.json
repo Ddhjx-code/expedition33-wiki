@@ -1,0 +1,51 @@
+{
+  "slug": "barrier-breaker",
+  "title": "Barrier Breaker - Weapon Stats & Location (Expedition 33)",
+  "description": "Barrier Breaker in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Barrier Breaker Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Maelle"
+    },
+    {
+      "label": "Element",
+      "value": "Void"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (B), Agility (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Main quest - after the second Axon, talk to the Curator"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Barrier Breaker is a void-element weapon used by Maelle. It scales with Defense (B), Agility (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Void</td></tr><tr><td>Scaling</td><td>Defense (B), Agility (C)</td></tr><tr><td>Character</td><td>Maelle</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Barrier Breaker",
+      "content": "<p><strong>Location:</strong> Main quest - after the second Axon, talk to the Curator.</p><p>Main quest - after the second Axon, talk to the Curator.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Barrier Breaker Worth Using?",
+      "content": "<p>Scales off Defense (B), Agility (C). A dedicated void pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "dualiso",
+  "title": "Dualiso - Weapon Stats & Location (Expedition 33)",
+  "description": "Dualiso in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Dualiso Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Gustave / Verso"
+    },
+    {
+      "label": "Element",
+      "value": "Lightning"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (S), Defense (A)"
+    },
+    {
+      "label": "Location",
+      "value": "Forgotten Battlefield - defeat Dualliste"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Dualiso is a lightning-element weapon used by Gustave / Verso. It scales with Vitality (S), Defense (A).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Lightning</td></tr><tr><td>Scaling</td><td>Vitality (S), Defense (A)</td></tr><tr><td>Character</td><td>Gustave / Verso</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Dualiso",
+      "content": "<p><strong>Location:</strong> Forgotten Battlefield - defeat Dualliste.</p><p>Obtained from Forgotten Battlefield - defeat Dualliste.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Dualiso Worth Using?",
+      "content": "<p>Scales off Vitality (S), Defense (A). A dedicated lightning pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

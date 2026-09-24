@@ -1,0 +1,51 @@
+{
+  "slug": "choralim",
+  "title": "Choralim - Weapon Stats & Location (Expedition 33)",
+  "description": "Choralim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Choralim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Fire"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (A), Agility (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Sirene's Dress - Chromatic Glissando drop"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Choralim is a fire-element weapon used by Lune. It scales with Defense (A), Agility (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Fire</td></tr><tr><td>Scaling</td><td>Defense (A), Agility (B)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Choralim",
+      "content": "<p><strong>Location:</strong> Sirene's Dress - Chromatic Glissando drop.</p><p>Obtained from Sirene's Dress - Chromatic Glissando drop.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Choralim Worth Using?",
+      "content": "<p>Scales off Defense (A), Agility (B). A dedicated fire pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

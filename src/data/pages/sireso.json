@@ -1,0 +1,51 @@
+{
+  "slug": "sireso",
+  "title": "Sireso - Weapon Stats & Location (Expedition 33)",
+  "description": "Sireso in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Sireso Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Gustave / Verso"
+    },
+    {
+      "label": "Element",
+      "value": "Physical"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (B), Agility (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Sirene - defeat the Chromatic Greatsword Cultist"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Sireso is a physical-element weapon used by Gustave / Verso. It scales with Vitality (B), Agility (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Physical</td></tr><tr><td>Scaling</td><td>Vitality (B), Agility (C)</td></tr><tr><td>Character</td><td>Gustave / Verso</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Sireso",
+      "content": "<p><strong>Location:</strong> Sirene - defeat the Chromatic Greatsword Cultist.</p><p>Obtained from Sirene - defeat the Chromatic Greatsword Cultist.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Sireso Worth Using?",
+      "content": "<p>Scales off Vitality (B), Agility (C). A physical-scaling weapon, so it fits any build that is not committed to a specific element.</p>"
+    }
+  ]
+}

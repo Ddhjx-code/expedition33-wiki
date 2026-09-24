@@ -1,0 +1,51 @@
+{
+  "slug": "charnon",
+  "title": "Charnon - Weapon Stats & Location (Expedition 33)",
+  "description": "Charnon in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Charnon Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Sciel"
+    },
+    {
+      "label": "Element",
+      "value": "Void"
+    },
+    {
+      "label": "Scaling",
+      "value": "Defense (D), Luck (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Renoir's Drafts - merchant Grour"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Charnon is a void-element weapon used by Sciel. It scales with Defense (D), Luck (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Void</td></tr><tr><td>Scaling</td><td>Defense (D), Luck (C)</td></tr><tr><td>Character</td><td>Sciel</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Charnon",
+      "content": "<p><strong>Location:</strong> Renoir's Drafts - merchant Grour.</p><p>Obtained from Renoir's Drafts - merchant Grour.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Charnon Worth Using?",
+      "content": "<p>Scales off Defense (D), Luck (C). A dedicated void pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

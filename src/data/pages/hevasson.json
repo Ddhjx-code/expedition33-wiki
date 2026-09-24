@@ -1,0 +1,51 @@
+{
+  "slug": "hevasson",
+  "title": "Hevasson - Weapon Stats & Location (Expedition 33)",
+  "description": "Hevasson in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Hevasson Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Sciel"
+    },
+    {
+      "label": "Element",
+      "value": "Physical"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (C), Defense (D)"
+    },
+    {
+      "label": "Location",
+      "value": "Gestral Village - defeat Golgra for the final time"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Hevasson is a physical-element weapon used by Sciel. It scales with Vitality (C), Defense (D).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Physical</td></tr><tr><td>Scaling</td><td>Vitality (C), Defense (D)</td></tr><tr><td>Character</td><td>Sciel</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Hevasson",
+      "content": "<p><strong>Location:</strong> Gestral Village - defeat Golgra for the final time.</p><p>Obtained from Gestral Village - defeat Golgra for the final time.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Hevasson Worth Using?",
+      "content": "<p>Scales off Vitality (C), Defense (D). A physical-scaling weapon, so it fits any build that is not committed to a specific element.</p>"
+    }
+  ]
+}

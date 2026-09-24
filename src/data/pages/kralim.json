@@ -1,0 +1,51 @@
+{
+  "slug": "kralim",
+  "title": "Kralim - Weapon Stats & Location (Expedition 33)",
+  "description": "Kralim in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Kralim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Lune"
+    },
+    {
+      "label": "Element",
+      "value": "Lightning"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (A), Agility (S)"
+    },
+    {
+      "label": "Location",
+      "value": "Yellow Harvest - defeat the Chromatic Orphelin"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Kralim is a lightning-element weapon used by Lune. It scales with Vitality (A), Agility (S).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Lightning</td></tr><tr><td>Scaling</td><td>Vitality (A), Agility (S)</td></tr><tr><td>Character</td><td>Lune</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Kralim",
+      "content": "<p><strong>Location:</strong> Yellow Harvest - defeat the Chromatic Orphelin.</p><p>Obtained from Yellow Harvest - defeat the Chromatic Orphelin.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Kralim Worth Using?",
+      "content": "<p>Scales off Vitality (A), Agility (S). A dedicated lightning pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

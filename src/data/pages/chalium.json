@@ -1,0 +1,51 @@
+{
+  "slug": "chalium",
+  "title": "Chalium - Weapon Stats & Location (Expedition 33)",
+  "description": "Chalium in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Chalium Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Maelle"
+    },
+    {
+      "label": "Element",
+      "value": "Light"
+    },
+    {
+      "label": "Scaling",
+      "value": "Agility (D), Vitality (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Sinister Cave - Chromatic Challier drop"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Chalium is a light-element weapon used by Maelle. It scales with Agility (D), Vitality (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Light</td></tr><tr><td>Scaling</td><td>Agility (D), Vitality (C)</td></tr><tr><td>Character</td><td>Maelle</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Chalium",
+      "content": "<p><strong>Location:</strong> Sinister Cave - Chromatic Challier drop.</p><p>Obtained from Sinister Cave - Chromatic Challier drop.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Chalium Worth Using?",
+      "content": "<p>Scales off Agility (D), Vitality (C). A dedicated light pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

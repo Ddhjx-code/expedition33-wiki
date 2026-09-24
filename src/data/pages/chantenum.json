@@ -1,0 +1,51 @@
+{
+  "slug": "chantenum",
+  "title": "Chantenum - Weapon Stats & Location (Expedition 33)",
+  "description": "Chantenum in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Chantenum Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Maelle"
+    },
+    {
+      "label": "Element",
+      "value": "Fire"
+    },
+    {
+      "label": "Scaling",
+      "value": "Agility (C), Luck (B)"
+    },
+    {
+      "label": "Location",
+      "value": "Sirene - merchant Klaudiso"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Chantenum is a fire-element weapon used by Maelle. It scales with Agility (C), Luck (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Fire</td></tr><tr><td>Scaling</td><td>Agility (C), Luck (B)</td></tr><tr><td>Character</td><td>Maelle</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Chantenum",
+      "content": "<p><strong>Location:</strong> Sirene - merchant Klaudiso.</p><p>Obtained from Sirene - merchant Klaudiso.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Chantenum Worth Using?",
+      "content": "<p>Scales off Agility (C), Luck (B). A dedicated fire pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

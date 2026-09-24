@@ -1,0 +1,51 @@
+{
+  "slug": "lanceram",
+  "title": "Lanceram - Weapon Stats & Location (Expedition 33)",
+  "description": "Lanceram in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Lanceram Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Gustave / Verso"
+    },
+    {
+      "label": "Element",
+      "value": "Physical"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (B), Agility (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Spring Meadows - found on the main path"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Lanceram is a physical-element weapon used by Gustave / Verso. It scales with Vitality (B), Agility (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Physical</td></tr><tr><td>Scaling</td><td>Vitality (B), Agility (C)</td></tr><tr><td>Character</td><td>Gustave / Verso</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Lanceram",
+      "content": "<p><strong>Location:</strong> Spring Meadows - found on the main path.</p><p>Obtained from Spring Meadows - found on the main path.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Lanceram Worth Using?",
+      "content": "<p>Scales off Vitality (B), Agility (C). A physical-scaling weapon, so it fits any build that is not committed to a specific element.</p>"
+    }
+  ]
+}

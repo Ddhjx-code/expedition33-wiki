@@ -1,0 +1,51 @@
+{
+  "slug": "tireso",
+  "title": "Tireso - Weapon Stats & Location (Expedition 33)",
+  "description": "Tireso in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Tireso Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Gustave / Verso"
+    },
+    {
+      "label": "Element",
+      "value": "Earth"
+    },
+    {
+      "label": "Scaling",
+      "value": "Vitality (A), Defense (B)"
+    },
+    {
+      "label": "Location",
+      "value": "The Reacher"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Tireso is a earth-element weapon used by Gustave / Verso. It scales with Vitality (A), Defense (B).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Earth</td></tr><tr><td>Scaling</td><td>Vitality (A), Defense (B)</td></tr><tr><td>Character</td><td>Gustave / Verso</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Tireso",
+      "content": "<p><strong>Location:</strong> The Reacher.</p><p>Obtained from The Reacher.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Tireso Worth Using?",
+      "content": "<p>Scales off Vitality (A), Defense (B). A dedicated earth pick - it belongs in a build already committed to that element.</p>"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "facesum",
+  "title": "Facesum - Weapon Stats & Location (Expedition 33)",
+  "description": "Facesum in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+  "keyword": "Facesum Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Character",
+      "value": "Maelle"
+    },
+    {
+      "label": "Element",
+      "value": "Physical"
+    },
+    {
+      "label": "Scaling",
+      "value": "Luck (D), Vitality (C)"
+    },
+    {
+      "label": "Location",
+      "value": "Isle of the Eyes"
+    },
+    {
+      "label": "Type",
+      "value": "Weapon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Facesum is a physical-element weapon used by Maelle. It scales with Luck (D), Vitality (C).</p>"
+    },
+    {
+      "id": "stats",
+      "title": "Stats",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Element</td><td>Physical</td></tr><tr><td>Scaling</td><td>Luck (D), Vitality (C)</td></tr><tr><td>Character</td><td>Maelle</td></tr></tbody></table>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get the Facesum",
+      "content": "<p><strong>Location:</strong> Isle of the Eyes.</p><p>Obtained from Isle of the Eyes.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is the Facesum Worth Using?",
+      "content": "<p>Scales off Luck (D), Vitality (C). A physical-scaling weapon, so it fits any build that is not committed to a specific element.</p>"
+    }
+  ]
+}
