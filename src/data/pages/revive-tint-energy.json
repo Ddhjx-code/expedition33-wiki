@@ -1,0 +1,43 @@
+{
+  "slug": "revive-tint-energy",
+  "title": "Revive Tint Energy - Pictos Effect & Location (Expedition 33)",
+  "description": "Revive Tint Energy in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Revive Tint Energy Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Multiple"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Revive Tint Energy is a Pictos in Clair Obscur: Expedition 33. Effect: Revives also grant AP to allies.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Revives also grant AP to allies.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Revive Tint Energy",
+      "content": "<p><strong>Location:</strong> Multiple.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

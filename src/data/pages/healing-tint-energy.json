@@ -1,0 +1,43 @@
+{
+  "slug": "healing-tint-energy",
+  "title": "Healing Tint Energy - Pictos Effect & Location (Expedition 33)",
+  "description": "Healing Tint Energy in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Healing Tint Energy Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Stone Wave Cliffs"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Healing Tint Energy is a Pictos in Clair Obscur: Expedition 33. Effect: Healing Tints also grant AP.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Healing Tints also grant AP.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Healing Tint Energy",
+      "content": "<p><strong>Location:</strong> Stone Wave Cliffs.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

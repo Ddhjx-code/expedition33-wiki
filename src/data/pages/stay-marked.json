@@ -1,0 +1,43 @@
+{
+  "slug": "stay-marked",
+  "title": "Stay Marked - Pictos Effect & Location (Expedition 33)",
+  "description": "Stay Marked in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Stay Marked Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Monolith"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Stay Marked is a Pictos in Clair Obscur: Expedition 33. Effect: Marks persist for an additional turn.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Marks persist for an additional turn.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Stay Marked",
+      "content": "<p><strong>Location:</strong> The Monolith.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

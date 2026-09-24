@@ -1,0 +1,43 @@
+{
+  "slug": "auto-regen",
+  "title": "Auto Regen - Pictos Effect & Location (Expedition 33)",
+  "description": "Auto Regen in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Auto Regen Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Sirene - Dancing Classes Flag, deep chamber"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Auto Regen is a Pictos in Clair Obscur: Expedition 33. Effect: Apply Regen automatically.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Apply Regen automatically.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Auto Regen",
+      "content": "<p><strong>Location:</strong> Sirene - Dancing Classes Flag, deep chamber.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

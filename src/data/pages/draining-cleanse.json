@@ -1,0 +1,43 @@
+{
+  "slug": "draining-cleanse",
+  "title": "Draining Cleanse - Pictos Effect & Location (Expedition 33)",
+  "description": "Draining Cleanse in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Draining Cleanse Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Multiple"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Draining Cleanse is a Pictos in Clair Obscur: Expedition 33. Effect: Cleansing also drains health from the target.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Cleansing also drains health from the target.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Draining Cleanse",
+      "content": "<p><strong>Location:</strong> Multiple.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

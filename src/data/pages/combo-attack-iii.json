@@ -1,0 +1,43 @@
+{
+  "slug": "combo-attack-iii",
+  "title": "Combo Attack III - Pictos Effect & Location (Expedition 33)",
+  "description": "Combo Attack III in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Combo Attack III Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Multiple"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Combo Attack III is a Pictos in Clair Obscur: Expedition 33. Effect: Increases damage of subsequent hits in a combo.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Increases damage of subsequent hits in a combo.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Combo Attack III",
+      "content": "<p><strong>Location:</strong> Multiple.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

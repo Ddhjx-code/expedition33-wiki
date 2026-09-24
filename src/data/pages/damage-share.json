@@ -1,0 +1,43 @@
+{
+  "slug": "damage-share",
+  "title": "Damage Share - Pictos Effect & Location (Expedition 33)",
+  "description": "Damage Share in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Damage Share Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Verso's Drafts"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Damage Share is a Pictos in Clair Obscur: Expedition 33. Effect: Damage taken is shared across the party.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Damage taken is shared across the party.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Damage Share",
+      "content": "<p><strong>Location:</strong> Verso's Drafts.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

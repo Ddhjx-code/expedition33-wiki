@@ -1,0 +1,43 @@
+{
+  "slug": "anti-stun",
+  "title": "Anti-Stun - Pictos Effect & Location (Expedition 33)",
+  "description": "Anti-Stun in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Anti-Stun Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Chromatic Petank, east of the map"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Anti-Stun is a Pictos in Clair Obscur: Expedition 33. Effect: Immune to Stun.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Immune to Stun.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Anti-Stun",
+      "content": "<p><strong>Location:</strong> Chromatic Petank, east of the map.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

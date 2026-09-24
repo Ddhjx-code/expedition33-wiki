@@ -1,0 +1,43 @@
+{
+  "slug": "augmented-first-strike",
+  "title": "Augmented First Strike - Pictos Effect & Location (Expedition 33)",
+  "description": "Augmented First Strike in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Augmented First Strike Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Defeat Francois at Esquie's Nest; Renoir's Drafts merchant"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Augmented First Strike is a Pictos in Clair Obscur: Expedition 33. Effect: 50% increased damage on the first hit of a battle, once per battle.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>50% increased damage on the first hit of a battle, once per battle.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Augmented First Strike",
+      "content": "<p><strong>Location:</strong> Defeat Francois at Esquie's Nest; Renoir's Drafts merchant.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

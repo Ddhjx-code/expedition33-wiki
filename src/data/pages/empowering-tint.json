@@ -1,0 +1,43 @@
+{
+  "slug": "empowering-tint",
+  "title": "Empowering Tint - Pictos Effect & Location (Expedition 33)",
+  "description": "Empowering Tint in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Empowering Tint Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Forgotten Battlefield; Endless Tower 8-3"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Empowering Tint is a Pictos in Clair Obscur: Expedition 33. Effect: Healing Tints also apply Powerful.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Healing Tints also apply Powerful.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Empowering Tint",
+      "content": "<p><strong>Location:</strong> Forgotten Battlefield; Endless Tower 8-3.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

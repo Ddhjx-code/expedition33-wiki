@@ -1,0 +1,43 @@
+{
+  "slug": "first-strike",
+  "title": "First Strike - Pictos Effect & Location (Expedition 33)",
+  "description": "First Strike in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "First Strike Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Stone Wave Cliffs - Paintress Shrine, grapple east"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>First Strike is a Pictos in Clair Obscur: Expedition 33. Effect: Increases damage on the first hit of a battle.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Increases damage on the first hit of a battle.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get First Strike",
+      "content": "<p><strong>Location:</strong> Stone Wave Cliffs - Paintress Shrine, grapple east.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

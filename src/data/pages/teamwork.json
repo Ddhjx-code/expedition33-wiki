@@ -1,0 +1,43 @@
+{
+  "slug": "teamwork",
+  "title": "Teamwork - Pictos Effect & Location (Expedition 33)",
+  "description": "Teamwork in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Teamwork Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Monoco's Station"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Teamwork is a Pictos in Clair Obscur: Expedition 33. Effect: Gains scale with the number of living allies.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Gains scale with the number of living allies.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Teamwork",
+      "content": "<p><strong>Location:</strong> Monoco's Station.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

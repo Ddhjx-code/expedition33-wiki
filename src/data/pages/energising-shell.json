@@ -1,0 +1,43 @@
+{
+  "slug": "energising-shell",
+  "title": "Energising Shell - Pictos Effect & Location (Expedition 33)",
+  "description": "Energising Shell in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Energising Shell Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "East of Stone Wave Cliffs Cave in a Paint Break"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Energising Shell is a Pictos in Clair Obscur: Expedition 33. Effect: Give 2 AP on applying Shell.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Give 2 AP on applying Shell.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Energising Shell",
+      "content": "<p><strong>Location:</strong> East of Stone Wave Cliffs Cave in a Paint Break.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

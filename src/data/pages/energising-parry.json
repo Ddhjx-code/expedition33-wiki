@@ -1,0 +1,43 @@
+{
+  "slug": "energising-parry",
+  "title": "Energising Parry - Pictos Effect & Location (Expedition 33)",
+  "description": "Energising Parry in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Energising Parry Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Forgotten Battlefield; Sacred River merchant; Renoir's Drafts merchant"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Energising Parry is a Pictos in Clair Obscur: Expedition 33. Effect: +1 AP on a successful Parry.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>+1 AP on a successful Parry.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Energising Parry",
+      "content": "<p><strong>Location:</strong> Forgotten Battlefield; Sacred River merchant; Renoir's Drafts merchant.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

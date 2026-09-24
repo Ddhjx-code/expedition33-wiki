@@ -1,0 +1,43 @@
+{
+  "slug": "accelerating-tint",
+  "title": "Accelerating Tint - Pictos Effect & Location (Expedition 33)",
+  "description": "Accelerating Tint in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Accelerating Tint Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Endless Night Sanctuary merchant"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Accelerating Tint is a Pictos in Clair Obscur: Expedition 33. Effect: Healing Tints also apply Rush.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Healing Tints also apply Rush.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Accelerating Tint",
+      "content": "<p><strong>Location:</strong> Endless Night Sanctuary merchant.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

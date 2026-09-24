@@ -1,0 +1,43 @@
+{
+  "slug": "burning-death",
+  "title": "Burning Death - Pictos Effect & Location (Expedition 33)",
+  "description": "Burning Death in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Burning Death Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Multiple"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Burning Death is a Pictos in Clair Obscur: Expedition 33. Effect: Applies Burn when the target dies.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Applies Burn when the target dies.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Burning Death",
+      "content": "<p><strong>Location:</strong> Multiple.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

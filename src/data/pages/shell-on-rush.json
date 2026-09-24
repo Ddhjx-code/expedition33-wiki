@@ -1,0 +1,43 @@
+{
+  "slug": "shell-on-rush",
+  "title": "Shell On Rush - Pictos Effect & Location (Expedition 33)",
+  "description": "Shell On Rush in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Shell On Rush Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Endless Night Sanctuary merchant"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Shell On Rush is a Pictos in Clair Obscur: Expedition 33. Effect: Applying Rush also applies Shell.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Applying Rush also applies Shell.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Shell On Rush",
+      "content": "<p><strong>Location:</strong> Endless Night Sanctuary merchant.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

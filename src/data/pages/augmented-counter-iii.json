@@ -1,0 +1,43 @@
+{
+  "slug": "augmented-counter-iii",
+  "title": "Augmented Counter III - Pictos Effect & Location (Expedition 33)",
+  "description": "Augmented Counter III in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Augmented Counter III Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Lumiere Act III - defeat the Chromatic Echassier (missable)"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Augmented Counter III is a Pictos in Clair Obscur: Expedition 33. Effect: Increased Counterattack damage.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Increased Counterattack damage.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Augmented Counter III",
+      "content": "<p><strong>Location:</strong> Lumiere Act III - defeat the Chromatic Echassier (missable).</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

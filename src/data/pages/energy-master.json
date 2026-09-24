@@ -1,0 +1,43 @@
+{
+  "slug": "energy-master",
+  "title": "Energy Master - Pictos Effect & Location (Expedition 33)",
+  "description": "Energy Master in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Energy Master Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Defeat Serpenphare on The Continent - requires Esquie's flight"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Energy Master is a Pictos in Clair Obscur: Expedition 33. Effect: Every AP gain is increased by 1.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Every AP gain is increased by 1.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Energy Master",
+      "content": "<p><strong>Location:</strong> Defeat Serpenphare on The Continent - requires Esquie's flight.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

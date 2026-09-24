@@ -1,0 +1,43 @@
+{
+  "slug": "accelerating-heal",
+  "title": "Accelerating Heal - Pictos Effect & Location (Expedition 33)",
+  "description": "Accelerating Heal in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Accelerating Heal Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Island southeast of Forgotten Battlefield"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Accelerating Heal is a Pictos in Clair Obscur: Expedition 33. Effect: Healing an ally also applies Rush for 1 turn.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Healing an ally also applies Rush for 1 turn.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Accelerating Heal",
+      "content": "<p><strong>Location:</strong> Island southeast of Forgotten Battlefield.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

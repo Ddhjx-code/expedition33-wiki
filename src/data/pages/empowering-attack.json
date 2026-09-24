@@ -1,0 +1,43 @@
+{
+  "slug": "empowering-attack",
+  "title": "Empowering Attack - Pictos Effect & Location (Expedition 33)",
+  "description": "Empowering Attack in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Empowering Attack Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Spring Meadows - Indigo Tree Flag, ledge near the exit portal"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Empowering Attack is a Pictos in Clair Obscur: Expedition 33. Effect: Base Attacks grant Powerful.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Base Attacks grant Powerful.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Empowering Attack",
+      "content": "<p><strong>Location:</strong> Spring Meadows - Indigo Tree Flag, ledge near the exit portal.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

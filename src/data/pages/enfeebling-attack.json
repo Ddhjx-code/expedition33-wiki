@@ -1,0 +1,43 @@
+{
+  "slug": "enfeebling-attack",
+  "title": "Enfeebling Attack - Pictos Effect & Location (Expedition 33)",
+  "description": "Enfeebling Attack in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Enfeebling Attack Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Multiple"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Enfeebling Attack is a Pictos in Clair Obscur: Expedition 33. Effect: Base Attacks apply a debuff.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Base Attacks apply a debuff.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Enfeebling Attack",
+      "content": "<p><strong>Location:</strong> Multiple.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

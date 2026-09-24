@@ -1,0 +1,43 @@
+{
+  "slug": "augmented-aim",
+  "title": "Augmented Aim - Pictos Effect & Location (Expedition 33)",
+  "description": "Augmented Aim in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Augmented Aim Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Flying Waters - Noco's Hut, climb the anchor"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Augmented Aim is a Pictos in Clair Obscur: Expedition 33. Effect: 50% increased Free Aim damage.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>50% increased Free Aim damage.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Augmented Aim",
+      "content": "<p><strong>Location:</strong> Flying Waters - Noco's Hut, climb the anchor.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "last-stand-critical",
+  "title": "Last Stand Critical - Pictos Effect & Location (Expedition 33)",
+  "description": "Last Stand Critical in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Last Stand Critical Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Hidden Gestral Arena"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Last Stand Critical is a Pictos in Clair Obscur: Expedition 33. Effect: Gain Critical if fighting alone.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Gain Critical if fighting alone.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Last Stand Critical",
+      "content": "<p><strong>Location:</strong> Hidden Gestral Arena.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "charging-tint",
+  "title": "Charging Tint - Pictos Effect & Location (Expedition 33)",
+  "description": "Charging Tint in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Charging Tint Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Continent - guarded pull, avoidable"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Charging Tint is a Pictos in Clair Obscur: Expedition 33. Effect: Plus 5% Gradient Charge on using an item.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Plus 5% Gradient Charge on using an item.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Charging Tint",
+      "content": "<p><strong>Location:</strong> The Continent - guarded pull, avoidable.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

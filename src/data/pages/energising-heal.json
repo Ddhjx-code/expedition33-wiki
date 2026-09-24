@@ -1,0 +1,43 @@
+{
+  "slug": "energising-heal",
+  "title": "Energising Heal - Pictos Effect & Location (Expedition 33)",
+  "description": "Energising Heal in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Energising Heal Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Southeast of Endless Tower"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Energising Heal is a Pictos in Clair Obscur: Expedition 33. Effect: On healing an ally, also give 2 AP.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>On healing an ally, also give 2 AP.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Energising Heal",
+      "content": "<p><strong>Location:</strong> Southeast of Endless Tower.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

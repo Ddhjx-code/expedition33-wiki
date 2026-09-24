@@ -1,0 +1,43 @@
+{
+  "slug": "anti-charm",
+  "title": "Anti-Charm - Pictos Effect & Location (Expedition 33)",
+  "description": "Anti-Charm in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Anti-Charm Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Defeat Tisseur in Sirene"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Anti-Charm is a Pictos in Clair Obscur: Expedition 33. Effect: Immune to Charm.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Immune to Charm.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Anti-Charm",
+      "content": "<p><strong>Location:</strong> Defeat Tisseur in Sirene.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

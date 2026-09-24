@@ -1,0 +1,43 @@
+{
+  "slug": "augmented-counter-i",
+  "title": "Augmented Counter I - Pictos Effect & Location (Expedition 33)",
+  "description": "Augmented Counter I in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Augmented Counter I Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Defeat Bourgeon near Stone Wave Cliffs; Renoir's Drafts merchant"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Augmented Counter I is a Pictos in Clair Obscur: Expedition 33. Effect: 25% increased Counterattack damage.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>25% increased Counterattack damage.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Augmented Counter I",
+      "content": "<p><strong>Location:</strong> Defeat Bourgeon near Stone Wave Cliffs; Renoir's Drafts merchant.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

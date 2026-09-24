@@ -1,0 +1,43 @@
+{
+  "slug": "powerful-heal",
+  "title": "Powerful Heal - Pictos Effect & Location (Expedition 33)",
+  "description": "Powerful Heal in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Powerful Heal Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Endless Night Sanctuary merchant"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Powerful Heal is a Pictos in Clair Obscur: Expedition 33. Effect: Healing an ally also applies Powerful for 1 turn.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Healing an ally also applies Powerful for 1 turn.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Powerful Heal",
+      "content": "<p><strong>Location:</strong> Endless Night Sanctuary merchant.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

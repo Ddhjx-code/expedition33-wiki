@@ -1,0 +1,43 @@
+{
+  "slug": "energising-start-ii",
+  "title": "Energising Start II - Pictos Effect & Location (Expedition 33)",
+  "description": "Energising Start II in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Energising Start II Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Ancient Sanctuary"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Energising Start II is a Pictos in Clair Obscur: Expedition 33. Effect: +1 AP on battle start.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>+1 AP on battle start.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Energising Start II",
+      "content": "<p><strong>Location:</strong> Ancient Sanctuary.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

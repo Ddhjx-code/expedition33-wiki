@@ -1,0 +1,43 @@
+{
+  "slug": "energising-pain",
+  "title": "Energising Pain - Pictos Effect & Location (Expedition 33)",
+  "description": "Energising Pain in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Energising Pain Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Stone Wave Cliffs"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Energising Pain is a Pictos in Clair Obscur: Expedition 33. Effect: No longer gain AP on Parry, but +1 AP when hit.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>No longer gain AP on Parry, but +1 AP when hit.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Energising Pain",
+      "content": "<p><strong>Location:</strong> Stone Wave Cliffs.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

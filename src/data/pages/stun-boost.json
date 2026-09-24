@@ -1,0 +1,43 @@
+{
+  "slug": "stun-boost",
+  "title": "Stun Boost - Pictos Effect & Location (Expedition 33)",
+  "description": "Stun Boost in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Stun Boost Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Ancient Sanctuary; Sacred River merchant"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Stun Boost is a Pictos in Clair Obscur: Expedition 33. Effect: Increases Stun chance.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Increases Stun chance.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Stun Boost",
+      "content": "<p><strong>Location:</strong> Ancient Sanctuary; Sacred River merchant.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}
