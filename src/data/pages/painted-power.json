@@ -1,0 +1,43 @@
+{
+  "slug": "painted-power",
+  "title": "Painted Power - Pictos Effect & Location (Expedition 33)",
+  "description": "Painted Power in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Painted Power Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Defeat The Paintress at the top of The Monolith"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Painted Power is a Pictos in Clair Obscur: Expedition 33. Effect: Damage can exceed 9,999.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Damage can exceed 9,999.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Painted Power",
+      "content": "<p><strong>Location:</strong> Defeat The Paintress at the top of The Monolith.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

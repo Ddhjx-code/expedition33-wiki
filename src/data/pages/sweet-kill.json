@@ -1,0 +1,43 @@
+{
+  "slug": "sweet-kill",
+  "title": "Sweet Kill - Pictos Effect & Location (Expedition 33)",
+  "description": "Sweet Kill in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Sweet Kill Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Forgotten Battlefield; Renoir's Drafts merchant"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Sweet Kill is a Pictos in Clair Obscur: Expedition 33. Effect: Recover 50% Health on killing an enemy.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Recover 50% Health on killing an enemy.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Sweet Kill",
+      "content": "<p><strong>Location:</strong> Forgotten Battlefield; Renoir's Drafts merchant.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

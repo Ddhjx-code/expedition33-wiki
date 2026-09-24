@@ -1,0 +1,43 @@
+{
+  "slug": "tainted",
+  "title": "Tainted - Pictos Effect & Location (Expedition 33)",
+  "description": "Tainted in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Tainted Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Reacher merchant"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Tainted is a Pictos in Clair Obscur: Expedition 33. Effect: Applies a Tainted effect to the target.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Applies a Tainted effect to the target.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Tainted",
+      "content": "<p><strong>Location:</strong> The Reacher merchant.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

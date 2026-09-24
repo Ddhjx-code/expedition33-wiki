@@ -1,0 +1,43 @@
+{
+  "slug": "sos-shell",
+  "title": "SOS Shell - Pictos Effect & Location (Expedition 33)",
+  "description": "SOS Shell in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "SOS Shell Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Flying Waters"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>SOS Shell is a Pictos in Clair Obscur: Expedition 33. Effect: Gain Shell while at low Health.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Gain Shell while at low Health.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get SOS Shell",
+      "content": "<p><strong>Location:</strong> Flying Waters.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

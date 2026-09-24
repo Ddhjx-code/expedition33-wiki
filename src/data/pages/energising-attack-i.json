@@ -1,0 +1,43 @@
+{
+  "slug": "energising-attack-i",
+  "title": "Energising Attack I - Pictos Effect & Location (Expedition 33)",
+  "description": "Energising Attack I in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Energising Attack I Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Yellow Harvest; Sacred River merchant; Renoir's Drafts merchant"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Energising Attack I is a Pictos in Clair Obscur: Expedition 33. Effect: +1 AP on Base Attack.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>+1 AP on Base Attack.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Energising Attack I",
+      "content": "<p><strong>Location:</strong> Yellow Harvest; Sacred River merchant; Renoir's Drafts merchant.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

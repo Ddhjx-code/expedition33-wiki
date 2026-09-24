@@ -1,0 +1,43 @@
+{
+  "slug": "protecting-heal",
+  "title": "Protecting Heal - Pictos Effect & Location (Expedition 33)",
+  "description": "Protecting Heal in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Protecting Heal Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Reacher merchant"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Protecting Heal is a Pictos in Clair Obscur: Expedition 33. Effect: Healing also applies Shield.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Healing also applies Shield.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Protecting Heal",
+      "content": "<p><strong>Location:</strong> The Reacher merchant.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

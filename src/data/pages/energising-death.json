@@ -1,0 +1,43 @@
+{
+  "slug": "energising-death",
+  "title": "Energising Death - Pictos Effect & Location (Expedition 33)",
+  "description": "Energising Death in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Energising Death Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Forgotten Battlefield; Monoco's Station"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Energising Death is a Pictos in Clair Obscur: Expedition 33. Effect: On death, give +4 AP to allies.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>On death, give +4 AP to allies.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Energising Death",
+      "content": "<p><strong>Location:</strong> Forgotten Battlefield; Monoco's Station.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

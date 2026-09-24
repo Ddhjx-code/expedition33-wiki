@@ -1,0 +1,43 @@
+{
+  "slug": "greater-powerful",
+  "title": "Greater Powerful - Pictos Effect & Location (Expedition 33)",
+  "description": "Greater Powerful in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Greater Powerful Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Sirene - Crumbling Path merchant past the handholds, 37,100 Chroma"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Greater Powerful is a Pictos in Clair Obscur: Expedition 33. Effect: Applies a stronger Powerful.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Applies a stronger Powerful.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Greater Powerful",
+      "content": "<p><strong>Location:</strong> Sirene - Crumbling Path merchant past the handholds, 37,100 Chroma.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

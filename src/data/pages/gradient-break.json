@@ -1,0 +1,43 @@
+{
+  "slug": "gradient-break",
+  "title": "Gradient Break - Pictos Effect & Location (Expedition 33)",
+  "description": "Gradient Break in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Gradient Break Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Endless Night Sanctuary - dark corner near the Grandis Engineer"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Gradient Break is a Pictos in Clair Obscur: Expedition 33. Effect: Breaking grants Gradient Charge.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Breaking grants Gradient Charge.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Gradient Break",
+      "content": "<p><strong>Location:</strong> Endless Night Sanctuary - dark corner near the Grandis Engineer.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

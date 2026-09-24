@@ -1,0 +1,43 @@
+{
+  "slug": "versatile",
+  "title": "Versatile - Pictos Effect & Location (Expedition 33)",
+  "description": "Versatile in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Versatile Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Flying Waters"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Versatile is a Pictos in Clair Obscur: Expedition 33. Effect: Grants a flexible stat bonus.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Grants a flexible stat bonus.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Versatile",
+      "content": "<p><strong>Location:</strong> Flying Waters.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

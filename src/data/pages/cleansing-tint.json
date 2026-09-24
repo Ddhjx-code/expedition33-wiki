@@ -1,0 +1,43 @@
+{
+  "slug": "cleansing-tint",
+  "title": "Cleansing Tint - Pictos Effect & Location (Expedition 33)",
+  "description": "Cleansing Tint in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Cleansing Tint Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Spring Meadows - Indigo Tree Flag, defeat Eveque"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Cleansing Tint is a Pictos in Clair Obscur: Expedition 33. Effect: Healing Tints also remove a status effect.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Healing Tints also remove a status effect.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Cleansing Tint",
+      "content": "<p><strong>Location:</strong> Spring Meadows - Indigo Tree Flag, defeat Eveque.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

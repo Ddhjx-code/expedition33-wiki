@@ -1,0 +1,43 @@
+{
+  "slug": "energising-burn",
+  "title": "Energising Burn - Pictos Effect & Location (Expedition 33)",
+  "description": "Energising Burn in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Energising Burn Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Frozen Hearts"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Energising Burn is a Pictos in Clair Obscur: Expedition 33. Effect: +1 AP on applying Burn, once per turn.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>+1 AP on applying Burn, once per turn.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Energising Burn",
+      "content": "<p><strong>Location:</strong> Frozen Hearts.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

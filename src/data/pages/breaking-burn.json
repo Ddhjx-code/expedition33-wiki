@@ -1,0 +1,43 @@
+{
+  "slug": "breaking-burn",
+  "title": "Breaking Burn - Pictos Effect & Location (Expedition 33)",
+  "description": "Breaking Burn in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Breaking Burn Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Continent - guarded by the Bourgeon"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Breaking Burn is a Pictos in Clair Obscur: Expedition 33. Effect: 25% increased Break damage against Burning enemies.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>25% increased Break damage against Burning enemies.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Breaking Burn",
+      "content": "<p><strong>Location:</strong> The Continent - guarded by the Bourgeon.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

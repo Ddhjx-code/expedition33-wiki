@@ -1,0 +1,43 @@
+{
+  "slug": "piercing-shot",
+  "title": "Piercing Shot - Pictos Effect & Location (Expedition 33)",
+  "description": "Piercing Shot in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Piercing Shot Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Reacher"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Piercing Shot is a Pictos in Clair Obscur: Expedition 33. Effect: The first Free Aim shot each turn deals 200% increased damage.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>The first Free Aim shot each turn deals 200% increased damage.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Piercing Shot",
+      "content": "<p><strong>Location:</strong> The Reacher.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "critical-weakness",
+  "title": "Critical Weakness - Pictos Effect & Location (Expedition 33)",
+  "description": "Critical Weakness in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Critical Weakness Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Endless Tower - complete 6 stages"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Critical Weakness is a Pictos in Clair Obscur: Expedition 33. Effect: Increased Critical damage against weak points.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Increased Critical damage against weak points.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Critical Weakness",
+      "content": "<p><strong>Location:</strong> Endless Tower - complete 6 stages.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

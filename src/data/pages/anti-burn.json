@@ -1,0 +1,43 @@
+{
+  "slug": "anti-burn",
+  "title": "Anti-Burn - Pictos Effect & Location (Expedition 33)",
+  "description": "Anti-Burn in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Anti-Burn Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Boss reward"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Anti-Burn is a Pictos in Clair Obscur: Expedition 33. Effect: Immune to Burn.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Immune to Burn.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Anti-Burn",
+      "content": "<p><strong>Location:</strong> Boss reward.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

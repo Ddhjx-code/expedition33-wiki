@@ -1,0 +1,43 @@
+{
+  "slug": "anti-blight",
+  "title": "Anti-Blight - Pictos Effect & Location (Expedition 33)",
+  "description": "Anti-Blight in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Anti-Blight Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Continent"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Anti-Blight is a Pictos in Clair Obscur: Expedition 33. Effect: Immune to Blight.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Immune to Blight.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Anti-Blight",
+      "content": "<p><strong>Location:</strong> The Continent.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "rewarding-mark",
+  "title": "Rewarding Mark - Pictos Effect & Location (Expedition 33)",
+  "description": "Rewarding Mark in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Rewarding Mark Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Multiple"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Rewarding Mark is a Pictos in Clair Obscur: Expedition 33. Effect: Consuming a Mark grants a bonus.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Consuming a Mark grants a bonus.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Rewarding Mark",
+      "content": "<p><strong>Location:</strong> Multiple.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

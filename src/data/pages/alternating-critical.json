@@ -1,0 +1,43 @@
+{
+  "slug": "alternating-critical",
+  "title": "Alternating Critical - Pictos Effect & Location (Expedition 33)",
+  "description": "Alternating Critical in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Alternating Critical Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Verso's Drafts - Candy Land entrance, blue tunnel"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Alternating Critical is a Pictos in Clair Obscur: Expedition 33. Effect: On a Critical hit, the next non-Critical hit deals 100% increased damage.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>On a Critical hit, the next non-Critical hit deals 100% increased damage.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Alternating Critical",
+      "content": "<p><strong>Location:</strong> Verso's Drafts - Candy Land entrance, blue tunnel.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

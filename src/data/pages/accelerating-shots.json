@@ -1,0 +1,43 @@
+{
+  "slug": "accelerating-shots",
+  "title": "Accelerating Shots - Pictos Effect & Location (Expedition 33)",
+  "description": "Accelerating Shots in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Accelerating Shots Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Gestral Village"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Accelerating Shots is a Pictos in Clair Obscur: Expedition 33. Effect: Free Aim shots apply Rush.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Free Aim shots apply Rush.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Accelerating Shots",
+      "content": "<p><strong>Location:</strong> Gestral Village.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

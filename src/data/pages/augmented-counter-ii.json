@@ -1,0 +1,43 @@
+{
+  "slug": "augmented-counter-ii",
+  "title": "Augmented Counter II - Pictos Effect & Location (Expedition 33)",
+  "description": "Augmented Counter II in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Augmented Counter II Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Visages - Sadness Vale, defeat the Chromatic Ramasseur"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Augmented Counter II is a Pictos in Clair Obscur: Expedition 33. Effect: 50% increased Counterattack damage.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>50% increased Counterattack damage.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Augmented Counter II",
+      "content": "<p><strong>Location:</strong> Visages - Sadness Vale, defeat the Chromatic Ramasseur.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

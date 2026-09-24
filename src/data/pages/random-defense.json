@@ -1,0 +1,43 @@
+{
+  "slug": "random-defense",
+  "title": "Random Defense - Pictos Effect & Location (Expedition 33)",
+  "description": "Random Defense in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Random Defense Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Endless Night Sanctuary; Renoir's Drafts"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Random Defense is a Pictos in Clair Obscur: Expedition 33. Effect: Defence is randomly multiplied between 50% and 200%.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Defence is randomly multiplied between 50% and 200%.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Random Defense",
+      "content": "<p><strong>Location:</strong> Endless Night Sanctuary; Renoir's Drafts.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

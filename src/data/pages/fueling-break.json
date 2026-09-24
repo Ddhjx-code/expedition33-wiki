@@ -1,0 +1,43 @@
+{
+  "slug": "fueling-break",
+  "title": "Fueling Break - Pictos Effect & Location (Expedition 33)",
+  "description": "Fueling Break in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Fueling Break Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Continent - east of The Carousel; Endless Tower stage 7"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Fueling Break is a Pictos in Clair Obscur: Expedition 33. Effect: Breaking a target doubles its Burn amount.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Breaking a target doubles its Burn amount.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Fueling Break",
+      "content": "<p><strong>Location:</strong> The Continent - east of The Carousel; Endless Tower stage 7.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "pro-retreat",
+  "title": "Pro Retreat - Pictos Effect & Location (Expedition 33)",
+  "description": "Pro Retreat in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Pro Retreat Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Multiple"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Pro Retreat is a Pictos in Clair Obscur: Expedition 33. Effect: Improves the effect of retreating.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>Improves the effect of retreating.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Pro Retreat",
+      "content": "<p><strong>Location:</strong> Multiple.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}

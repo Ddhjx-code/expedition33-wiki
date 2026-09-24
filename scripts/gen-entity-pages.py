@@ -162,6 +162,18 @@ def weapon_sections(rec):
     ]
 
 
+def picto_sections(rec):
+    name = rec["name"]
+    effect = rec.get("effect") or NONE
+    location = rec.get("location") or NONE
+    return [
+        {"id": "overview", "title": "Overview", "content": f'<p>{rec.get("summary","")}</p>'},
+        {"id": "effect", "title": "Effect", "content": f"<p><strong>{effect}</strong></p>"},
+        {"id": "how-to-get", "title": f"How to Get {name}", "content": f"<p><strong>Location:</strong> {location}.</p>"},
+        {"id": "strategy", "title": "Is It Worth Equipping?", "content": f'<p>{rec.get("verdict","")}</p>'},
+    ]
+
+
 def location_sections(rec):
     name = rec["name"]
     return [
@@ -196,6 +208,11 @@ BUILDERS = {
         *([("Scaling", r["scaling"])] if r.get("scaling") else []),
         *([("Location", r["location"])] if r.get("location") else []),
         ("Type", "Weapon"),
+    ]),
+    "picto": (picto_sections, lambda r: [
+        *([("Location", r["location"])] if r.get("location") else []),
+        ("Type", "Pictos"),
+        ("Unlocks", "Lumina after 4 battles"),
     ]),
     "location": (location_sections, lambda r: [
         *([("Act", r["acts"])] if r.get("acts") else []),

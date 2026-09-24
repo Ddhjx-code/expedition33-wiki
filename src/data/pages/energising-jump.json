@@ -1,0 +1,43 @@
+{
+  "slug": "energising-jump",
+  "title": "Energising Jump - Pictos Effect & Location (Expedition 33)",
+  "description": "Energising Jump in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+  "keyword": "Energising Jump Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Ancient Sanctuary"
+    },
+    {
+      "label": "Type",
+      "value": "Pictos"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Lumina after 4 battles"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Energising Jump is a Pictos in Clair Obscur: Expedition 33. Effect: +1 AP on a Jump Counterattack.</p>"
+    },
+    {
+      "id": "effect",
+      "title": "Effect",
+      "content": "<p><strong>+1 AP on a Jump Counterattack.</strong></p>"
+    },
+    {
+      "id": "how-to-get",
+      "title": "How to Get Energising Jump",
+      "content": "<p><strong>Location:</strong> Ancient Sanctuary.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "Is It Worth Equipping?",
+      "content": "<p>Pictos unlock a Lumina after four battles, so equipping it once is enough to keep the effect permanently available for the Lumina cost.</p>"
+    }
+  ]
+}
