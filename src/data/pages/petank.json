@@ -1,0 +1,43 @@
+{
+  "slug": "petank",
+  "title": "Petank - Location, Weakness & How to Beat",
+  "description": "Petank in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Petank Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "Multiple"
+    },
+    {
+      "label": "Weak to",
+      "value": "None (no elemental weakness)"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>No elemental profile. Like the Mime it is excluded from the weakness charts because there is nothing to exploit.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>None</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>No elemental weakness to exploit. Build for raw output and survivability instead.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Petank",
+      "content": "<p><strong>Areas:</strong> Multiple.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Petank",
+      "content": "<h3>Nothing to exploit</h3><p>This enemy has no elemental profile at all, which is why it is absent from the weakness charts. Damage type does not matter - hit count, Break application and parry timing do.</p>"
+    }
+  ]
+}

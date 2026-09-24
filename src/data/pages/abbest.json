@@ -1,0 +1,47 @@
+{
+  "slug": "abbest",
+  "title": "Abbest - Location, Weakness & How to Beat",
+  "description": "Abbest in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Abbest Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "Spring Meadows, Flying Waters, The Monolith"
+    },
+    {
+      "label": "Weak to",
+      "value": "Ice"
+    },
+    {
+      "label": "Resists",
+      "value": "Physical"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A robed caster Nevron that appears from the early game onward. It resists Physical, so a purely physical party loses a large share of its damage against it.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Ice</td></tr><tr><td>Resists</td><td>Physical</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Ice damage. Physical is resisted, so those turns are wasted.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Abbest",
+      "content": "<p><strong>Areas:</strong> Spring Meadows, Flying Waters, The Monolith.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Abbest",
+      "content": "<h3>Exploit the weakness</h3><p>Ice is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p><h3>What not to bring</h3><ul><li>It resists Physical, so that damage is halved.</li></ul>"
+    }
+  ]
+}

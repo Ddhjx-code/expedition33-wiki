@@ -1,0 +1,43 @@
+{
+  "slug": "orphelin",
+  "title": "Orphelin - Location, Weakness & How to Beat",
+  "description": "Orphelin in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Orphelin Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "Yellow Harvest"
+    },
+    {
+      "label": "Weak to",
+      "value": "Earth"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Earth is the one element that lands. Its Chromatic form is the route to Kralim.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Earth</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Earth damage.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Orphelin",
+      "content": "<p><strong>Areas:</strong> Yellow Harvest.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Orphelin",
+      "content": "<h3>Exploit the weakness</h3><p>Earth is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p>"
+    }
+  ]
+}

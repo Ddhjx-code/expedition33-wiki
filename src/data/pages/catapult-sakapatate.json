@@ -1,0 +1,43 @@
+{
+  "slug": "catapult-sakapatate",
+  "title": "Catapult Sakapatate - Location, Weakness & How to Beat",
+  "description": "Catapult Sakapatate in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Catapult Sakapatate Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "Ancient Sanctuary"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>One of the Sakapatate family of planted enemies. Fire is the family answer and defeating this one awards Trebuchim.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Fire damage.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Catapult Sakapatate",
+      "content": "<p><strong>Areas:</strong> Ancient Sanctuary.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Catapult Sakapatate",
+      "content": "<h3>Exploit the weakness</h3><p>Fire is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p>"
+    }
+  ]
+}

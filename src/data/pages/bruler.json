@@ -1,0 +1,43 @@
+{
+  "slug": "bruler",
+  "title": "Bruler - Location, Weakness & How to Beat",
+  "description": "Bruler in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Bruler Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "Flying Waters"
+    },
+    {
+      "label": "Weak to",
+      "value": "Lightning"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A straightforward early melee Nevron. Lightning lands and nothing in its profile resists you.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Lightning</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Lightning damage.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Bruler",
+      "content": "<p><strong>Areas:</strong> Flying Waters.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Bruler",
+      "content": "<h3>Exploit the weakness</h3><p>Lightning is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p>"
+    }
+  ]
+}

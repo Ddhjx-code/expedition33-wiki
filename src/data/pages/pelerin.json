@@ -1,0 +1,47 @@
+{
+  "slug": "pelerin",
+  "title": "Pelerin - Location, Weakness & How to Beat",
+  "description": "Pelerin in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Pelerin Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Areas",
+      "value": "The Continent"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire"
+    },
+    {
+      "label": "Absorbs",
+      "value": "Ice"
+    },
+    {
+      "label": "Type",
+      "value": "Enemy / Nevron"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>Absorbs Ice, so an ice-based Lune build is a liability against it.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>Ice</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Fire damage. Ice is absorbed - using it heals the target.</p>"
+    },
+    {
+      "id": "where",
+      "title": "Where to Find the Pelerin",
+      "content": "<p><strong>Areas:</strong> The Continent.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Pelerin",
+      "content": "<h3>Exploit the weakness</h3><p>Fire is the element that lands. Elemental weaknesses in Expedition 33 are a 50% damage swing in both directions, so matching correctly is usually worth more than a tier of weapon upgrade.</p><h3>What not to bring</h3><ul><li>It absorbs Ice, so that element heals it rather than hurting it.</li></ul>"
+    }
+  ]
+}
