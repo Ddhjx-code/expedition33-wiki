@@ -76,3 +76,46 @@ Outfits (97) and haircuts (121). Lowest per-page value, largest count.
 
 Where a value is not verifiable against a second source, the page says so
 rather than guessing. That constraint is not relaxed for volume.
+
+## Status at 2026-09-24
+
+| Phase | Scope | Shipped | Notes |
+| --- | --- | --- | --- |
+| 1 | Boss completion | 28 pages | 16 Chromatic variants + 12 notable optionals |
+| 2 | Enemies | 42 pages | Weakness chart data per enemy |
+| 3 | Weapons | 102 pages | Character, element, scaling, acquisition |
+| 4 | Locations | 23 pages | Access, bosses, loot, gotchas |
+| 5 | Pictos | 185 pages | Effect and location each |
+| 6 | Cosmetics | not built | see below |
+| - | Site search | shipped | 451-entry index, command palette |
+| - | Page-top sub-nav | shipped | section sibling links |
+| - | Security / spoiler mark | shipped | inline reveal pattern |
+| - | Infobox field links | shipped | huijiwiki card-field pattern |
+| - | Breadcrumbs, categories, sources | shipped | fixed page tail |
+
+Site totals: 451 entity+index pages, 458 routes generated.
+
+### Why phase 6 was not built as planned
+
+The outfit and haircut sources are client-rendered React apps and could not be
+read reliably - the tables do not appear in the served HTML or in a rendered
+DOM without authentication. What could be read covers roughly a third of the
+97 outfits and a smaller share of the 121 haircuts.
+
+The plan's own rule applies: where a value cannot be verified against a second
+source the page says so rather than guessing, and that rule is not relaxed for
+volume. Emitting 218 pages from a partial list would mean inventing the
+unlock method for most of them, which is worse than having no page.
+
+Cosmetics are also the lowest-value entity type by search demand, so the
+correct fix is to strengthen the two existing index pages once the data can be
+obtained, not to ship thin per-item pages now.
+
+### Ordering if this resumes
+
+1. Source cosmetic data from a rendered walkthrough rather than the DLC-era
+   checklists, then build phase 6 from verified rows only.
+2. Stat radar chart on character pages (six-axis attribute visual).
+3. Relationship graph for the relationship system.
+4. Item and skill icons inline, rather than only weapon sprites.
+5. Remaining 106 bosses (Endless Tower remixes) once unique data is available.
