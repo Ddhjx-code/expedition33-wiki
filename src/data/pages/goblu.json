@@ -56,6 +56,11 @@
       "content": "<ul><li>Energising Attack I Pictos</li><li>Colour of Lumina x3</li></ul>"
     },
     {
+      "id": "attacks",
+      "title": "Attacks &amp; How to Answer Them",
+      "content": "<details open><summary>Attack list</summary><table class=\"moves\"><thead><tr><th>Tell</th><th>What it does</th><th>Answer</th></tr></thead><tbody><tr><td>Slow two-hit swipe</td><td>Goblu leads with a wide swing from one side, then mirrors it from the other. This is the most generous window in the fight.</td><td><span class=\"ct ct-parry\">Parry</span></td></tr><tr><td>Overhead slam</td><td>After a clear pause it winds up and brings both arms down. The pause is the tell — parry on the drop, not the wind-up.</td><td><span class=\"ct ct-parry\">Parry</span></td></tr><tr><td>Arm sweep</td><td>A wide horizontal sweep that catches the whole party rather than one target. Wider than the single-target swings, so the timing is slightly earlier.</td><td><span class=\"ct ct-dodge\">Dodge</span></td></tr></tbody></table></details>"
+    },
+    {
       "id": "strategy",
       "title": "How to Beat the Goblu",
       "content": "Goblu is a parry tutorial disguised as a boss. Its swings are slow and heavily telegraphed, which makes the timing generous compared to later fights.<h3>What to bring</h3><ul><li><strong>Gustave's Overcharge</strong> is the single best answer - it is Lightning damage and it hits hard enough to shorten the fight noticeably.</li><li><strong>Lune's Lightning skills</strong> do the same job if you would rather burst than build Overcharge.</li><li>Do not invest in Ice here. Ice is resisted, so those turns are wasted.</li></ul><h3>The pattern</h3><p>Goblu opens with a two-hit swipe, pauses, then winds up a heavier overhead slam. The pause is the tell - parry on the swing, not on the wind-up. If you miss a parry the hit is survivable at this level, so treat the fight as practice rather than a wall."

@@ -52,6 +52,11 @@
       "content": "<ul><li>Colour of Lumina</li><li>Chroma Catalyst</li></ul>"
     },
     {
+      "id": "attacks",
+      "title": "Attacks &amp; How to Answer Them",
+      "content": "<details open><summary>Attack list</summary><table class=\"moves\"><thead><tr><th>Tell</th><th>What it does</th><th>Answer</th></tr></thead><tbody><tr><td>Shield guard</td><td>The boss carries a large shield in one hand. While it is raised, your damage is not reaching the health bar.</td><td><span class=\"ct ct-none\">No counter</span></td></tr><tr><td>Mace swing</td><td>A red furry mace swung in a wide arc. Straightforward to read, but it hits hard at this level.</td><td><span class=\"ct ct-parry\">Parry</span></td></tr><tr><td>Fire is the answer</td><td>Not an attack — the fight's only lever. Every turn spent on a non-Fire element is a wasted turn.</td><td><span class=\"ct ct-none\">No counter</span></td></tr></tbody></table></details>"
+    },
+    {
       "id": "strategy",
       "title": "How to Beat the Ultimate Sakapatate",
       "content": "<h3>Break the guard first</h3><p>Ultimate Sakapatate carries a shield and a red mace. While the shield is up, your damage is going somewhere other than its health bar. Break effects and multi-hit Fire skills are the efficient route.</p><h3>Fire is the key</h3><p>Nothing else lands cleanly. Every Fire-skilled character you have should be in the party, and Fire-infused weapons are worth the swap even if they are a tier lower.</p><ul><li>Fire only - everything else is a waste of a turn.</li><li>Strip the shield before you try to burst it down.</li><li>It re-appears later with the same profile, so the answer does not change.</li></ul>"

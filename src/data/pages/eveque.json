@@ -52,6 +52,11 @@
       "content": "<ul><li>Colour of Lumina</li><li>Chroma Catalyst</li></ul>"
     },
     {
+      "id": "attacks",
+      "title": "Attacks &amp; How to Answer Them",
+      "content": "<details open><summary>Attack list</summary><table class=\"moves\"><thead><tr><th>Tell</th><th>What it does</th><th>Answer</th></tr></thead><tbody><tr><td>Shielded swings</td><td>Eveque's body is covered by shield instances and its only vulnerable point is the exposed centre of the robe. Multi-hit skills strip shields faster than single heavy hits.</td><td><span class=\"ct ct-parry\">Parry</span></td></tr><tr><td>Summons two Abbests</td><td>It calls two Abbests into the fight. Ignore them and their chip damage stacks across the whole encounter.</td><td><span class=\"ct ct-none\">No counter</span></td></tr><tr><td>Ice attacks</td><td>Its own profile leans on Ice, which is also its weakness — resist gear is a reasonable swap if you are struggling.</td><td><span class=\"ct ct-dodge\">Dodge</span></td></tr></tbody></table></details>"
+    },
+    {
       "id": "strategy",
       "title": "How to Beat the Eveque",
       "content": "<h3>Shields, not health</h3><p>Eveque has multiple shield instances covering its body. Its weak point is exposed in the centre of the robe, which is the only place your damage really lands. Multi-hit skills strip shields faster than single heavy attacks.</p><h3>It summons</h3><p>Eveque can call two Abbests into the fight. If you leave them alive they add chip damage across the whole encounter, so clear them before you go back to the boss.</p><ul><li>Ice is the weakness.</li><li>Aim at the exposed centre, not the robe itself.</li><li>Kill the summoned Abbests rather than tanking them.</li></ul>"

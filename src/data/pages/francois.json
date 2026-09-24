@@ -52,6 +52,11 @@
       "content": "<ul><li>Colour of Lumina</li><li>Resplendent Chroma Catalyst</li></ul>"
     },
     {
+      "id": "attacks",
+      "title": "Attacks &amp; How to Answer Them",
+      "content": "<details open><summary>Attack list</summary><table class=\"moves\"><thead><tr><th>Tell</th><th>What it does</th><th>Answer</th></tr></thead><tbody><tr><td>Ice beam</td><td>Francois charges, then fires a beam that will kill a character at the level you meet him. It is the only move that really threatens a wipe.</td><td><span class=\"ct ct-parry\">Parry</span></td></tr><tr><td>Shield stack</td><td>He raises additional shield layers instead of attacking. Not a threat on its own, but every layer you fail to strip is damage you do not deal.</td><td><span class=\"ct ct-none\">No counter</span></td></tr><tr><td>Shell swing</td><td>A short melee swing at his own reach. Simple to read because he cannot move to reposition.</td><td><span class=\"ct ct-parry\">Parry</span></td></tr><tr><td>Sand spit</td><td>A quick ranged shot at a single character. Low damage, but it chips you between beam windows.</td><td><span class=\"ct ct-dodge\">Dodge</span></td></tr></tbody></table></details>"
+    },
+    {
       "id": "strategy",
       "title": "How to Beat the Francois",
       "content": "Francois does not move - he is locked in place - so the entire fight is about surviving his ranged pressure while you chew through shields.<h3>Shields are the real health bar</h3><p>Francois stacks multiple shield instances that soak damage before his health moves. Multi-hit skills and Break effects are worth far more here than one big hit, because a single large attack is wasted on a single shield layer.</p><h3>The ice beam</h3><p>His beam is the kill move. It is telegraphed clearly before it fires and it will delete a character who stands still. Parry or dodge it and the rest of the fight is straightforward; miss it twice and you lose the run.</p><ul><li>Bring Dark damage - it is the only element that lands cleanly.</li><li>Prefer multi-hit skills to strip shields.</li><li>Treat the beam as the only attack that matters for timing practice.</li></ul>"

@@ -7,14 +7,14 @@ export default function TopicNav({ currentSlug }: { currentSlug: string }) {
   if (!topic) return null;
 
   return (
-    <nav
-      className="mt-12 rounded-lg border border-border bg-card/50 p-4"
-      aria-label={`${topic.label} navigation`}
-    >
-      <h2 className="mb-3 text-sm font-semibold uppercase tracking-wide text-muted-foreground">
+    <details className="fold mt-12" open aria-label={`${topic.label} navigation`}>
+      <summary>
         {topic.label}
-      </h2>
-      <ul className="flex flex-wrap gap-x-3 gap-y-2">
+        <span className="ml-auto text-xs font-normal text-muted-foreground">
+          {topic.pages.length} pages
+        </span>
+      </summary>
+      <ul className="flex flex-wrap gap-x-3 gap-y-2 py-4">
         {topic.pages.map((page) => {
           const current = page.slug === currentSlug;
           return (
@@ -34,6 +34,6 @@ export default function TopicNav({ currentSlug }: { currentSlug: string }) {
           );
         })}
       </ul>
-    </nav>
+    </details>
   );
 }
