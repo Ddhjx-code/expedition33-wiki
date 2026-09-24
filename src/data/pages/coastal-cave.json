@@ -1,0 +1,39 @@
+{
+  "slug": "coastal-cave",
+  "title": "Coastal Cave - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "Coastal Cave in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "Coastal Cave Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Type",
+      "value": "Optional area"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A cave system on the coastline with a cluster of merchants and the Gobluson and Bourgelon weapons.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach Coastal Cave",
+      "content": "<p>Reached from the coastal edge of The Continent.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Bourgelon merchants, Gobluson merchants, Seeram</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Seeram, Bourgelon, Gobluson</p>"
+    }
+  ]
+}

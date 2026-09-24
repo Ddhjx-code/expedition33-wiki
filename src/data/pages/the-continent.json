@@ -1,0 +1,39 @@
+{
+  "slug": "the-continent",
+  "title": "the-continent - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "the-continent in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "the-continent Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 1-3"
+    },
+    {
+      "label": "Type",
+      "value": "Overworld"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The open world that connects every zone. It holds a large share of the game's optional bosses, most of the merchants and the hidden Paint Cages.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach the-continent",
+      "content": "<p>Unlocked progressively as the story advances. Travel is on foot until Esquie's flight ability opens the water and islands.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Bourgeon, Jar, Echassier, Gault, Ramasseur, Reaper Cultist, Chromatic Reaper Cultist, Glaise (Chosen Path)</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Blodam, Corpeso, Cultam, Painerim, Charnon, Direton, Yeverum</p>"
+    }
+  ]
+}

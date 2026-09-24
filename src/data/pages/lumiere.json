@@ -1,0 +1,39 @@
+{
+  "slug": "lumiere",
+  "title": "lumiere - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "lumiere in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "lumiere Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 3"
+    },
+    {
+      "label": "Type",
+      "value": "Endgame city"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The last human city and the setting for the endgame. Act 3 opens the city up, along with its merchants and the final boss.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach lumiere",
+      "content": "<p>Unlocked at the start of Act 3.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Renoir (final), Creation, Lumiere Citizen</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Liteso, Volesterum, Litheson, Ballaro</p>"
+    }
+  ]
+}

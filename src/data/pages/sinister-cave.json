@@ -1,0 +1,39 @@
+{
+  "slug": "sinister-cave",
+  "title": "Act 2 - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "Act 2 in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "Act 2 Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Type",
+      "value": "Optional dungeon"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A cave holding Elerim and the Chalium drop from the Chromatic Challier. Its entrance Flag is a useful landmark for the left-wall route to Elerim.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach Act 2",
+      "content": "<p>Reached from The Continent during Act 2.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Chromatic Challier</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Elerim, Chalium</p>"
+    }
+  ]
+}

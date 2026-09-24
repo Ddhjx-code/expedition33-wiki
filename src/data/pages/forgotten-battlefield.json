@@ -1,0 +1,39 @@
+{
+  "slug": "forgotten-battlefield",
+  "title": "Forgotten Battlefield - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "Forgotten Battlefield in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "Forgotten Battlefield Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Type",
+      "value": "Act 2 zone"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A battlefield strewn with the remains of earlier expeditions. It hosts Dualliste, the first boss after Verso joins, and a number of merchant finds.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach Forgotten Battlefield",
+      "content": "<p>Reached during Act 2 as part of the Monolith route.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Dualliste, Luster, Ramasson, Greatsword Cultist, Chromatic Troubadour</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Dualiso, Benisim, Lusteson, Ramasson, Energising Attack I</p>"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "old-lumiere",
+  "title": "Old Lumiere - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "Old Lumiere in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "Old Lumiere Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Type",
+      "value": "Act 2 zone"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The ruined old city, with an unmistakable bent Eiffel Tower. It is where Act 2 opens and where a set of merchant weapons become available.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach Old Lumiere",
+      "content": "<p>Reached at the start of Act 2. It connects to the Monolith route.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Renoir (first proper fight), Chromatic Danseuse, Mime</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Danseso, Redalim, Algueron, Mellarum, Chromatic Danseuse drop</p>"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "yellow-harvest",
+  "title": "Yellow Harvest - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "Yellow Harvest in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "Yellow Harvest Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Type",
+      "value": "Optional area"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A golden field area tied to the Glaise encounters and several optional bosses. It rewards elemental Fire and Ice builds.</p>"
+    },
+    {
+      "id": "getting-there",
+      "title": "How to Reach Yellow Harvest",
+      "content": "<p>Reached from The Continent in Act 2 through a portal.</p>"
+    },
+    {
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Glaise (Yellow Harvest), Chromatic Orphelin, Potierim, Plenum</p>"
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Potierim, Plenum, Kralim, Gaulteram</p>"
+    }
+  ]
+}
