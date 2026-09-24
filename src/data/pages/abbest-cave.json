@@ -1,39 +1,39 @@
 {
   "slug": "abbest-cave",
-  "title": "Abbest Cave Guide - Expedition 33 Location Walkthrough",
-  "description": "Complete Abbest Cave guide for Clair Obscur: Expedition 33. Explore DANGER-level areas, find loot, defeat enemies, and navigate safely through this challenging location.",
-  "keyword": "abbest cave expedition 33",
-  "lastUpdated": "2026-08-17",
+  "title": "Abbest Cave - Expedition 33 Area Guide (Bosses, Loot & Tips)",
+  "description": "Abbest Cave in Clair Obscur: Expedition 33 - how to reach it, the bosses inside, the weapons and Pictos you can find, and what to watch out for.",
+  "keyword": "Abbest Cave Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Act",
+      "value": "Act 1"
+    },
+    {
+      "label": "Type",
+      "value": "Optional cave"
+    }
+  ],
   "sections": [
     {
       "id": "overview",
-      "title": "Abbest Cave Overview",
-      "content": "<p><strong>Abbest Cave</strong> is a challenging DANGER-level dungeon in Clair Obscur: Expedition 33. Located in the deeper regions of the Continent, this cave features powerful enemies, unique environmental puzzles, and valuable rewards for well-prepared expeditioners.</p><table><thead><tr><th>Detail</th><th>Info</th></tr></thead><tbody><tr><td><strong>Location</strong></td><td>Eastern Continent</td></tr><tr><td><strong>Difficulty</strong></td><td>DANGER (high-level area)</td></tr><tr><td><strong>Recommended Level</strong></td><td>25+</td></tr><tr><td><strong>Key Rewards</strong></td><td>Rare <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a>, <a href=\"/best-weapons\" style=\"color:var(--accent)\">Chroma Catalysts</a>, unique weapon</td></tr></tbody></table>"
+      "title": "Overview",
+      "content": "<p>A short cave off Spring Meadows named for the Abbest that nestle inside it. It is the first place the game asks you to fight a caster-type Nevron that resists Physical damage.</p>"
     },
     {
-      "id": "how-to-reach",
+      "id": "getting-there",
       "title": "How to Reach Abbest Cave",
-      "content": "<p>Abbest Cave becomes accessible after progressing through Act 2. Follow these steps to find the entrance:</p><ol><li>Travel to the eastern edge of the Continent map.</li><li>Look for the rock formation with glowing paint markings near the cliff face.</li><li>The entrance is partially hidden — you may need <a href=\"/characters\" style=\"color:var(--accent)\">Esquie</a>'s traversal abilities to reach it.</li></ol><p><strong>Tip:</strong> If you see a DANGER warning when approaching, it means the enemies inside are above your current level. Come back when you've leveled up, or proceed carefully with a well-built party.</p>"
+      "content": "<p>Entered from Spring Meadows. The route is signposted but the cave is optional.</p>"
     },
     {
-      "id": "enemies",
-      "title": "Enemies & Combat Tips",
-      "content": "<p>Abbest Cave contains some of the tougher standard enemies in Expedition 33. Key threats include:</p><ul><li><strong>Cave Sentinels</strong> — Heavy armored enemies with shields. Use multi-hit skills (<a href=\"/characters\" style=\"color:var(--accent)\">Gustave</a>'s Lumiere Assault) to break shields quickly.</li><li><strong>Crystalline Fiends</strong> — Elemental enemies weak to specific Stains. Use <a href=\"/build-lune\" style=\"color:var(--accent)\">Lune</a>'s elemental coverage.</li><li><strong>Abbest Guardian (Mini-boss)</strong> — Appears deeper in the cave. Has a powerful AoE attack — time your Jumps to avoid ground slams.</li></ul><h3>Recommended Party</h3><table><thead><tr><th>Character</th><th>Role</th><th>Why</th></tr></thead><tbody><tr><td>Gustave</td><td>Shield Breaker</td><td>Multi-hit Overcharge destroys shields fast</td></tr><tr><td>Lune</td><td>Healer/Mage</td><td>Elemental coverage + healing sustain</td></tr><tr><td><a href=\"/build-maelle\" style=\"color:var(--accent)\">Maelle</a> or <a href=\"/build-verso\" style=\"color:var(--accent)\">Verso</a></td><td>DPS</td><td>High single-target damage for mini-boss</td></tr></tbody></table>"
+      "id": "bosses",
+      "title": "Bosses Here",
+      "content": "<p>Abbest</p>"
     },
     {
-      "id": "exploration-guide",
-      "title": "Exploration & Collectibles",
-      "content": "<p>Abbest Cave has multiple branching paths. Here's what to look for:</p><h3><a href=\"/locations\" style=\"color:var(--accent)\">Paint Cages</a></h3><p>There are 2 Paint Cages in Abbest Cave. Shoot all 3 red marks on each cage to unlock the loot inside. One contains a <a href=\"/best-weapons\" style=\"color:var(--accent)\">Chroma Catalyst</a>, the other a rare <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a>.</p><h3>Hidden Paths</h3><ul><li><strong>Left fork (after the first chamber)</strong> — Leads to a dead end with a White Nevron. Bring it the Glowing Moss (found near the entrance) for a weapon reward.</li><li><strong>Right fork</strong> — Leads to the mini-boss and the main cave exit.</li><li><strong>Upper path (requires <a href=\"/characters\" style=\"color:var(--accent)\">Esquie</a>)</strong> — A ledge reachable only with Esquie's climb ability. Contains a powerful Pictos.</li></ul>"
-    },
-    {
-      "id": "rewards",
-      "title": "Rewards & Loot",
-      "content": "<ul><li><strong><a href=\"/best-weapons\" style=\"color:var(--accent)\">Chroma Catalyst</a> ×2</strong> — For weapon upgrades at the <a href=\"/camp-guide\" style=\"color:var(--accent)\">Curator</a>.</li><li><strong>Rare <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a>: Crystal Ward</strong> — Provides elemental resistance when equipped. Lumina effect grants party-wide damage reduction.</li><li><strong>White Nevron reward</strong> — Unique weapon upgrade material.</li><li><strong>Mini-boss drop</strong> — High-tier weapon component + significant XP.</li></ul><p>Abbest Cave is worth revisiting after gaining <a href=\"/characters\" style=\"color:var(--accent)\">Esquie</a>'s flight ability — the upper sections contain additional secrets.</p>"
-    },
-    {
-      "id": "tips",
-      "title": "Quick Tips",
-      "content": "<ul><li>Save before entering if you're near the recommended level — enemies hit hard.</li><li>Bring Chroma Elixirs for healing without needing to rest (which respawns enemies).</li><li>The mini-boss is weak to Burn status — apply it early for shield removal.</li><li>Check every wall for hidden alcoves — some contain crafting materials.</li><li>Return later with <a href=\"/characters\" style=\"color:var(--accent)\">Esquie</a>'s full traversal kit to access all areas.</li></ul>"
+      "id": "collectibles",
+      "title": "Collectibles & Notable Loot",
+      "content": "<p>Chroma Catalysts, low-tier Pictos</p>"
     }
   ]
 }
