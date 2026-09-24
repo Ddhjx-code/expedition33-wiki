@@ -10,6 +10,7 @@ import FactsCard from "@/components/FactsCard";
 import Breadcrumb from "@/components/Breadcrumb";
 import CategoryTags from "@/components/CategoryTags";
 import MobileToc from "@/components/MobileToc";
+import SubNav from "@/components/SubNav";
 import PageSources from "@/components/PageSources";
 import AdBanner from "@/components/AdBanner";
 import JsonLd, {
@@ -160,6 +161,8 @@ export default function SlugPage({ params }: PageProps) {
 
           <article className="flex-1 min-w-0">
             <Breadcrumb slug={params.slug} title={content.title} />
+
+            <SubNav slug={params.slug} />
 
             {/* Page header */}
             <header className="mb-8">
