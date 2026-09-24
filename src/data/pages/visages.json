@@ -56,6 +56,11 @@
       "content": "<ul><li>Colour of Lumina</li><li>Grandiose Chroma Catalyst</li></ul>"
     },
     {
+      "id": "attacks",
+      "title": "Attacks &amp; How to Answer Them",
+      "content": "<details open><summary>Attack list</summary><table class=\"moves\"><thead><tr><th>Tell</th><th>What it does</th><th>Answer</th></tr></thead><tbody><tr><td>Determination Mask</td><td>A three-hit combo. Start answering when the arm begins to descend.</td><td><span class=\"ct ct-parry\">Parry</span></td></tr><tr><td>Mask eye weak points</td><td>Not an attack — this is your win condition. Five masks emerge from the mirror and each has an eye weak point. Hitting all of them ends stage one.</td><td><span class=\"ct ct-none\">No counter</span></td></tr><tr><td>Ultimate attack</td><td>When stage one ends, Visages unloads an ultimate before the transition to Mask Keeper. Do not be caught at low health.</td><td><span class=\"ct ct-dodge\">Dodge</span></td></tr><tr><td>Mask Keeper — long combos</td><td>Stage two favours extended multi-hit strings that punish broken parry rhythm. A revenge skill that scales with damage taken is a reasonable fallback.</td><td><span class=\"ct ct-parry\">Parry</span></td></tr></tbody></table></details>"
+    },
+    {
       "id": "strategy",
       "title": "How to Beat the Visages",
       "content": "<h3>Stage one: the masks</h3><p>Five masks emerge from the mirror. Each has an eye weak point, and hitting those is what ends stage one - attacking the stone slabs that make up its body is significantly slower. Burn and Dark stacking both pay off. When stage one ends, Visages unloads an ultimate attack before the transition, so do not be caught without health.</p><h3>Stage two</h3><p>The fight continues immediately as Mask Keeper with a new move set and no reset. See the Mask Keeper page for that half.</p><ul><li>Fire and Dark - bring both if you can.</li><li>Target mask eye weak points, not the body.</li><li>Expect no break between the two stages.</li></ul>"

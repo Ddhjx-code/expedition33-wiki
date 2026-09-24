@@ -52,6 +52,11 @@
       "content": "<ul><li>Colour of Lumina</li><li>Resplendent Chroma Catalyst</li></ul>"
     },
     {
+      "id": "attacks",
+      "title": "Attacks &amp; How to Answer Them",
+      "content": "<details open><summary>Attack list</summary><table class=\"moves\"><thead><tr><th>Tell</th><th>What it does</th><th>Answer</th></tr></thead><tbody><tr><td>Leg-driven combos</td><td>Creation's attacks come from the four thin legs under its heavy golden body rather than the bulk. Read the legs, not the body.</td><td><span class=\"ct ct-dodge\">Dodge</span></td></tr><tr><td>No elemental gimmick</td><td>There is no weakness to exploit and no special mechanic to solve. The fight is a straight execution and survivability check.</td><td><span class=\"ct ct-none\">No counter</span></td></tr></tbody></table></details>"
+    },
+    {
       "id": "strategy",
       "title": "How to Beat the Creation",
       "content": "<h3>It is a physical fight</h3><p>Bring your highest-damage party composition and your best upgrade levels rather than an element-matched lineup. There is no key to find here.</p><h3>Read the legs</h3><p>Its silhouette is four thin legs under a heavy golden body, and the attacks come from that lower frame. Positioning your dodge around the legs rather than the bulk of the body is what keeps you alive through its combos.</p><ul><li>No weakness - bring damage and defence, not elemental answers.</li><li>Available again in the Endless Tower and Renoir's Drafts.</li></ul>"

@@ -56,6 +56,11 @@
       "content": "<ul><li>Colour of Lumina</li><li>Grandiose Chroma Catalyst</li></ul>"
     },
     {
+      "id": "attacks",
+      "title": "Attacks &amp; How to Answer Them",
+      "content": "<details open><summary>Attack list</summary><table class=\"moves\"><thead><tr><th>Tell</th><th>What it does</th><th>Answer</th></tr></thead><tbody><tr><td>Extended combos</td><td>Mask Keeper's strings are longer and more aggressive than the Visages stage. Missing one parry mid-combo usually costs the rest of the string.</td><td><span class=\"ct ct-parry\">Parry</span></td></tr><tr><td>Vale-sourced buffs</td><td>It draws extra abilities from Jovial Moissonneuse, Seething Boucheclier and Sorrowful Chapelier. Each one you defeat beforehand removes a buff, not an attack.</td><td><span class=\"ct ct-none\">No counter</span></td></tr><tr><td>No reset between stages</td><td>Stage two begins the moment Visages ends. There is no heal window and no checkpoint.</td><td><span class=\"ct ct-none\">No counter</span></td></tr></tbody></table></details>"
+    },
+    {
       "id": "strategy",
       "title": "How to Beat the Mask Keeper",
       "content": "<h3>Clear the Vales first</h3><p>Mask Keeper draws extra abilities from the three Vale bosses in the Visages area - Jovial Moissonneuse, Seething Boucheclier and Sorrowful Chapelier. Defeating each of them before the main fight removes one of those buffs, which is the single largest difficulty swing available to you.</p><h3>Long combos</h3><p>It favours extended multi-hit strings. If your parry timing breaks down mid-combo, a revenge-style skill that scales with damage taken is a reasonable safety net rather than losing the turn entirely.</p><ul><li>Kill the three Vale bosses first - it directly weakens this fight.</li><li>Fire and Dark, same as Visages.</li><li>Expect no gap between the Visages stage and this one.</li></ul>"

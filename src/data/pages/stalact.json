@@ -52,6 +52,11 @@
       "content": "<ul><li>Colour of Lumina</li><li>Resplendent Chroma Catalyst</li></ul>"
     },
     {
+      "id": "attacks",
+      "title": "Attacks &amp; How to Answer Them",
+      "content": "<details open><summary>Attack list</summary><table class=\"moves\"><thead><tr><th>Tell</th><th>What it does</th><th>Answer</th></tr></thead><tbody><tr><td>Stance shift</td><td>Stalact changes stance during the fight, flipping its weakness between Fire and Ice. Check the stance before committing a turn.</td><td><span class=\"ct ct-none\">No counter</span></td></tr><tr><td>Drill head strike</td><td>It drives its pointed rock head at a character. The head is also its weak point, so the same read serves both defence and offence.</td><td><span class=\"ct ct-parry\">Parry</span></td></tr><tr><td>Rock body</td><td>The body is made of sharp blue rock and is not the weak point — hitting it is chip damage at best.</td><td><span class=\"ct ct-none\">No counter</span></td></tr></tbody></table></details>"
+    },
+    {
       "id": "strategy",
       "title": "How to Beat the Stalact",
       "content": "<h3>Read the stance first</h3><p>Do not fire an elemental skill until you have checked which stance Stalact is in. Using the wrong element does nothing useful, and using the right one is a large multiplier - the difference between the two is the fight.</p><h3>Its body is the target</h3><p>Stalact is made of sharp blue rock with a drill-like head point. That head is the weak spot, and hitting it is how you break the fight open rather than chipping at the body.</p><ul><li>Fire in Ice Stance, Ice in Fire Stance - never guess.</li><li>Aim for the drill head.</li><li>Because the key keeps flipping, bring both elements rather than committing to one.</li></ul>"

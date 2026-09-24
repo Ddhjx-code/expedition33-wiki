@@ -7,6 +7,10 @@ import Sidebar from "@/components/Sidebar";
 import RelatedPages from "@/components/RelatedPages";
 import TopicNav from "@/components/TopicNav";
 import FactsCard from "@/components/FactsCard";
+import Breadcrumb from "@/components/Breadcrumb";
+import CategoryTags from "@/components/CategoryTags";
+import MobileToc from "@/components/MobileToc";
+import PageSources from "@/components/PageSources";
 import AdBanner from "@/components/AdBanner";
 import JsonLd, {
   getArticleSchema,
@@ -155,6 +159,8 @@ export default function SlugPage({ params }: PageProps) {
           <Sidebar sections={content.sections} />
 
           <article className="flex-1 min-w-0">
+            <Breadcrumb slug={params.slug} title={content.title} />
+
             {/* Page header */}
             <header className="mb-8">
               <h1 className="text-3xl font-bold text-foreground mb-2">
@@ -164,6 +170,8 @@ export default function SlugPage({ params }: PageProps) {
                 Last updated: {content.lastUpdated}
               </p>
             </header>
+
+            <MobileToc sections={content.sections} />
 
             {/* Banner image */}
             <div className="mb-6 overflow-hidden rounded-lg border border-border">
@@ -202,6 +210,10 @@ export default function SlugPage({ params }: PageProps) {
 
             {/* Related Pages */}
             <RelatedPages currentSlug={params.slug} />
+
+            <PageSources lastUpdated={content.lastUpdated} />
+
+            <CategoryTags slug={params.slug} title={content.title} />
           </article>
         </div>
       </div>
