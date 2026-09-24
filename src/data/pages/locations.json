@@ -8,12 +8,12 @@
     {
       "id": "overview",
       "title": "The Continent - World Overview",
-      "content": "<p>Clair Obscur: Expedition 33 takes place on a vast, painterly Continent filled with diverse environments — from coastal villages to volcanic caverns, mystical forests to ancient ruins. Each area contains unique enemies, <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a>, weapons, and secrets.</p><p>This guide covers every major location, organized by region and progression order.</p>"
+      "content": "<p><a href=\"/clair-obscur\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">Clair Obscur</a>: Expedition 33 takes place on a vast, painterly Continent filled with diverse environments — from coastal villages to volcanic caverns, mystical forests to ancient ruins. Each area contains unique enemies, <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a>, weapons, and secrets.</p><p>This guide covers every major location, organized by region and progression order.</p>"
     },
     {
       "id": "starting-areas",
       "title": "Starting Areas (Act 1)",
-      "content": "<table><thead><tr><th>Location</th><th>Level Range</th><th>Key Items</th><th>Notes</th></tr></thead><tbody><tr><td><strong>Festival Shore</strong></td><td>1-5</td><td>Festival Tokens, early <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a></td><td>Tutorial area, mime fight</td></tr><tr><td><strong>Flying Waters</strong></td><td>5-10</td><td><a href=\"/build-maelle\" style=\"color:var(--accent)\">Maelle</a> joins party</td><td>First major dungeon</td></tr><tr><td><strong>The Fountain</strong></td><td>8-12</td><td>Rest point, <a href=\"/camp-guide\" style=\"color:var(--accent)\">Curator</a> access</td><td>Hub area for Act 1</td></tr><tr><td><strong>Bloodied Beach</strong></td><td>10-15</td><td>Coastal weapons, shells</td><td>Optional but rewarding</td></tr></tbody></table>"
+      "content": "<table><thead><tr><th>Location</th><th>Level Range</th><th>Key Items</th><th>Notes</th></tr></thead><tbody><tr><td><strong>Festival Shore</strong></td><td>1-5</td><td>Festival Tokens, early <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a></td><td>Tutorial area, <a href=\"/mime\" style=\"color:var(--accent);text-decoration:underline;text-underline-offset:2px\">mime</a> fight</td></tr><tr><td><strong>Flying Waters</strong></td><td>5-10</td><td><a href=\"/build-maelle\" style=\"color:var(--accent)\">Maelle</a> joins party</td><td>First major dungeon</td></tr><tr><td><strong>The Fountain</strong></td><td>8-12</td><td>Rest point, <a href=\"/camp-guide\" style=\"color:var(--accent)\">Curator</a> access</td><td>Hub area for Act 1</td></tr><tr><td><strong>Bloodied Beach</strong></td><td>10-15</td><td>Coastal weapons, shells</td><td>Optional but rewarding</td></tr></tbody></table>"
     },
     {
       "id": "mid-game-areas",

@@ -1,0 +1,60 @@
+{
+  "slug": "chromatic-jar",
+  "title": "Chromatic Jar - Location, Weakness & Rewards",
+  "description": "Chromatic Jar in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it.",
+  "keyword": "Chromatic Jar Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Continent, west of Old Lumiere"
+    },
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire, Ice, Earth, Lightning"
+    },
+    {
+      "label": "Resists",
+      "value": "Physical"
+    },
+    {
+      "label": "Type",
+      "value": "Chromatic variant"
+    },
+    {
+      "label": "Base enemy",
+      "value": "Jar"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>A Chromatic Jar, and unusually generous on weaknesses: four of the six elements land, while Physical is the resisted one. Physical-only parties are the wrong pick here for once.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Chromatic Jar",
+      "content": "<p><strong>Location:</strong> The Continent, west of Old Lumiere.</p><p>Availability: Act 2.</p><p>Chromatic enemies are optional, supercharged versions of an enemy you already fought. They are not required for the story, but they drop the better tier of materials and the weapons tied to their base enemy.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire, Ice, Earth, Lightning</td></tr><tr><td>Resists</td><td>Physical</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Fire, Ice, Earth, Lightning damage. Physical is resisted, so those turns are wasted.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Higher-tier Chroma materials than the base Jar</li><li>Weapons and Pictos gated behind defeating the Chromatic Jar</li></ul><p>Exact drop quantities for this encounter are not documented in the sources we could verify, so they are not listed rather than estimated.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Chromatic Jar",
+      "content": "<h3>Same answer as the base enemy</h3><p>The Chromatic Jar keeps the weaknesses and resistances of the ordinary Jar. If you have already fought the base version, your party does not need to change - what changes is the margin for error.</p><h3>What actually kills you</h3><p>Chromatic variants hit harder and hold more health than the enemy they are based on. The failure mode is almost always running out of resources mid-fight rather than a mechanic you did not understand, so bring healing headroom rather than a greedier damage build.</p>"
+    }
+  ]
+}

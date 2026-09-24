@@ -1,0 +1,60 @@
+{
+  "slug": "chromatic-abbest",
+  "title": "Chromatic Abbest - Location, Weakness & Rewards",
+  "description": "Chromatic Abbest in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it.",
+  "keyword": "Chromatic Abbest Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Spring Meadows, Flying Waters"
+    },
+    {
+      "label": "Act",
+      "value": "Act 1"
+    },
+    {
+      "label": "Weak to",
+      "value": "Ice"
+    },
+    {
+      "label": "Resists",
+      "value": "Physical"
+    },
+    {
+      "label": "Type",
+      "value": "Chromatic variant"
+    },
+    {
+      "label": "Base enemy",
+      "value": "Abbest"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The supercharged form of the Abbest, the robed caster enemy found across the early areas. Like every Chromatic variant it is a tougher encounter with a matching reward tier rather than a new move set, so the answer is the same element that works on the base enemy.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Chromatic Abbest",
+      "content": "<p><strong>Location:</strong> Spring Meadows, Flying Waters.</p><p>Availability: Act 1.</p><p>Chromatic enemies are optional, supercharged versions of an enemy you already fought. They are not required for the story, but they drop the better tier of materials and the weapons tied to their base enemy.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Ice</td></tr><tr><td>Resists</td><td>Physical</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Ice damage. Physical is resisted, so those turns are wasted.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Higher-tier Chroma materials than the base Abbest</li><li>Weapons and Pictos gated behind defeating the Chromatic Abbest</li></ul><p>Exact drop quantities for this encounter are not documented in the sources we could verify, so they are not listed rather than estimated.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Chromatic Abbest",
+      "content": "<h3>Same answer as the base enemy</h3><p>The Chromatic Abbest keeps the weaknesses and resistances of the ordinary Abbest. If you have already fought the base version, your party does not need to change - what changes is the margin for error.</p><h3>What actually kills you</h3><p>Chromatic variants hit harder and hold more health than the enemy they are based on. The failure mode is almost always running out of resources mid-fight rather than a mechanic you did not understand, so bring healing headroom rather than a greedier damage build.</p>"
+    }
+  ]
+}
