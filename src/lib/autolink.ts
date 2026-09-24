@@ -66,26 +66,42 @@ const SKIP_TAGS = new Set([
 const TAG_NAME = /^<\s*(\/?)\s*([a-zA-Z][a-zA-Z0-9]*)/;
 
 function linkifyRun(run: string, currentSlug: string, used: Set<number>): string {
-  let remaining = run;
   const out: string[] = [];
+  let cursor = 0;
 
-  for (let i = 0; i < ENTITY_LINKS.length; i++) {
-    if (used.has(i)) continue;
-    const [pattern, href] = ENTITY_LINKS[i];
-    if (href.slice(1) === currentSlug) continue;
+  while (cursor < run.length) {
+    let bestIndex = -1;
+    let bestRule = -1;
+    let bestText = "";
 
-    const match = pattern.exec(remaining);
-    if (!match || match.index === undefined) continue;
+    for (let i = 0; i < ENTITY_LINKS.length; i++) {
+      if (used.has(i)) continue;
+      const [pattern, href] = ENTITY_LINKS[i];
+      if (href.slice(1) === currentSlug) continue;
 
-    out.push(remaining.slice(0, match.index));
+      const match = pattern.exec(run.slice(cursor));
+      if (!match || match.index === undefined) continue;
+
+      const at = cursor + match.index;
+      if (bestIndex === -1 || at < bestIndex) {
+        bestIndex = at;
+        bestRule = i;
+        bestText = match[0];
+      }
+    }
+
+    if (bestRule === -1) break;
+
+    const href = ENTITY_LINKS[bestRule][1];
+    out.push(run.slice(cursor, bestIndex));
     out.push(
-      `<a href="${href}" style="color:var(--accent);text-decoration:underline;text-underline-offset:2px">${match[0]}</a>`
+      `<a href="${href}" style="color:var(--accent);text-decoration:underline;text-underline-offset:2px">${bestText}</a>`
     );
-    remaining = remaining.slice(match.index + match[0].length);
-    used.add(i);
+    cursor = bestIndex + bestText.length;
+    used.add(bestRule);
   }
 
-  out.push(remaining);
+  out.push(run.slice(cursor));
   return out.join("");
 }
 
