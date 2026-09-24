@@ -127,6 +127,28 @@ details.fold > summary:hover {
   width: calc(100% - 2rem);
 }
 
+.spoiler {
+  background: hsl(var(--muted));
+  color: transparent;
+  border-radius: 0.2rem;
+  padding: 0 0.25rem;
+  cursor: help;
+  transition: color 0.15s ease, background 0.15s ease;
+  text-shadow: none;
+}
+
+.spoiler:hover,
+.spoiler:focus,
+.spoiler.revealed {
+  background: transparent;
+  color: inherit;
+}
+
+.spoiler::selection {
+  background: hsl(var(--accent) / 0.35);
+  color: inherit;
+}
+
 .ct {
   display: inline-block;
   border-radius: 9999px;

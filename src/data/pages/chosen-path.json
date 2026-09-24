@@ -5,6 +5,11 @@
   "lastUpdated": "2026-08-19",
   "sections": [
     {
+      "id": "spoiler-warning",
+      "title": "Before You Read",
+      "content": "<div style=\"border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:6px;padding:12px 16px;margin:0 0 8px;background:var(--card)\"><strong style=\"color:var(--accent)\">Spoiler warning</strong><p style=\"margin:6px 0 0\">This page discusses story content, including how the game ends. Anything hidden behind a grey bar below is a spoiler &mdash; hover or tap it to reveal.</p></div>"
+    },
+    {
       "id": "overview",
       "title": "What is the Chosen Path?",
       "content": "<p>The <strong>Chosen Path</strong> system in Expedition 33 is the game's branching narrative mechanic. At critical story moments, you make decisions that lock your playthrough into specific story routes, affecting available content, character outcomes, and which ending you receive.</p><h3>Key Facts</h3><ul><li>Multiple branching paths exist throughout Acts 2 and 3</li><li>Once locked into a path, you cannot change it without reloading a save</li><li>Different paths unlock exclusive weapons, <a href=\"/best-pictos\" style=\"color:var(--accent)\">Pictos</a>, and story content</li><li>Your path directly determines which ending you get</li><li>A full playthrough only sees one path — replay for others</li></ul>"
