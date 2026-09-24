@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import Image from "next/image";
 import { getAllSlugs, getPageContent } from "@/lib/content";
+import { autoLink } from "@/lib/autolink";
 import { isBossSlug } from "@/lib/nav-topics";
 import Sidebar from "@/components/Sidebar";
 import RelatedPages from "@/components/RelatedPages";
@@ -187,7 +188,9 @@ export default function SlugPage({ params }: PageProps) {
                   </h2>
                   <div
                     className="prose prose-sm prose-invert max-w-none text-muted-foreground leading-relaxed [&_table]:w-full [&_table]:border-collapse [&_th]:border [&_th]:border-border [&_th]:bg-card [&_th]:px-3 [&_th]:py-2 [&_th]:text-left [&_th]:text-foreground [&_td]:border [&_td]:border-border [&_td]:px-3 [&_td]:py-2 [&_ul]:list-disc [&_ul]:pl-5 [&_ol]:list-decimal [&_ol]:pl-5 [&_li]:mb-1 [&_h3]:text-foreground [&_h3]:font-semibold [&_h3]:mt-4 [&_h3]:mb-2 [&_strong]:text-foreground [&_a]:text-accent [&_a]:underline [&_p]:mb-3"
-                    dangerouslySetInnerHTML={{ __html: section.content }}
+                    dangerouslySetInnerHTML={{
+                      __html: autoLink(section.content, params.slug),
+                    }}
                   />
                 </section>
               ))}
