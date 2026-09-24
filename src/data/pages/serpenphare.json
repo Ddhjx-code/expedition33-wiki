@@ -3,6 +3,24 @@
   "title": "Serpenphare - Location, Weakness & Shield Strategy",
   "description": "Serpenphare is the floating optional boss on The Continent that drains your party's AP and stacks shields. Where to find it and how to beat it.",
   "keyword": "serpenphare expedition 33",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Continent — southeast of the Boat Graveyard"
+    },
+    {
+      "label": "Weak to",
+      "value": "Lightning"
+    },
+    {
+      "label": "Resists",
+      "value": "Ice, Fire"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Energy Master Pictos · Perfect Chroma Catalyst x1 · Grandiose Chroma Catalyst x3"
+    }
+  ],
   "lastUpdated": "2026-09-23",
   "sections": [
     {

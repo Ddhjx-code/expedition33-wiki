@@ -7,12 +7,18 @@ export interface PageSection {
   content: string;
 }
 
+export interface PageFact {
+  label: string;
+  value: string;
+}
+
 export interface PageContent {
   slug: string;
   title: string;
   description: string;
   keyword: string;
   lastUpdated: string;
+  facts?: PageFact[];
   sections: PageSection[];
 }
 

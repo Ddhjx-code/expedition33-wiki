@@ -3,6 +3,20 @@
   "title": "Golgra - All 3 Locations & How to Beat Her",
   "description": "Golgra appears in three places in Expedition 33 - Gestral Village, the Dark Gestral Arena and the Sacred River. Where to find her and how to win.",
   "keyword": "golgra expedition 33",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "3 encounters — Gestral Village · Dark Gestral Arena · Sacred River"
+    },
+    {
+      "label": "Weak to",
+      "value": "None (no elemental weakness)"
+    },
+    {
+      "label": "Missable",
+      "value": "Yes — one encounter is permanently missable"
+    }
+  ],
   "lastUpdated": "2026-09-23",
   "sections": [
     {

@@ -3,6 +3,32 @@
   "title": "Flame Eveque - Location, Weakness & Triple Fight Guide",
   "description": "Flame Eveque in Expedition 33's Flying Manor is part of a triple boss fight with a randomised invulnerability mechanic. Weakness, location and rewards.",
   "keyword": "flame eveque expedition 33",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Flying Manor (plus the Endless Tower)"
+    },
+    {
+      "label": "Weak to",
+      "value": "Ice (and Void)"
+    },
+    {
+      "label": "Resists",
+      "value": "Physical, Light, Dark, Earth, Lightning"
+    },
+    {
+      "label": "Absorbs",
+      "value": "Fire"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Kralim · Grandiose Chroma Catalyst x6 · Colour of Lumina x5"
+    },
+    {
+      "label": "EXP",
+      "value": "1,113,750 EXP"
+    }
+  ],
   "lastUpdated": "2026-09-23",
   "sections": [
     {

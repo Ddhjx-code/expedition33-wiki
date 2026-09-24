@@ -3,6 +3,24 @@
   "title": "Sprong - Location & Why to Beat It First",
   "description": "Sprong is an optional boss north of the Endless Tower in Expedition 33, and it drops the Cheater Pictos - the single best reason to beat it first.",
   "keyword": "sprong expedition 33",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Continent — partially submerged in the ocean just north of the Endless Tower"
+    },
+    {
+      "label": "Weak to",
+      "value": "None (no elemental weakness)"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Cheater Pictos - lets an equipped character act twice in a row on their turn · The \"Sprong\" achievement"
+    },
+    {
+      "label": "Why fight first",
+      "value": "Drops the Cheater Pictos — extra action per turn"
+    }
+  ],
   "lastUpdated": "2026-09-23",
   "sections": [
     {

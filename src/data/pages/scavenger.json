@@ -3,6 +3,32 @@
   "title": "Scavenger - Location, Weakness & How to Unlock the Fight",
   "description": "The Scavenger in Expedition 33's Falling Leaves is locked behind the Lady of Sap quest. Location, Light weakness, and what it drops.",
   "keyword": "scavenger expedition 33",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Falling Leaves — see the two separate encounter routes"
+    },
+    {
+      "label": "Weak to",
+      "value": "Light (and Physical)"
+    },
+    {
+      "label": "Resists",
+      "value": "Ice, Fire, Earth, Lightning"
+    },
+    {
+      "label": "Absorbs",
+      "value": "Dark"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Scaverim weapon (Level 14, for Lune) · Resplendent Chroma Catalyst x3 · 8,020 Chroma"
+    },
+    {
+      "label": "EXP",
+      "value": "139,320 EXP"
+    }
+  ],
   "lastUpdated": "2026-09-23",
   "sections": [
     {
