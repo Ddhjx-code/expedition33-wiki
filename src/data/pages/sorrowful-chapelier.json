@@ -1,0 +1,56 @@
+{
+  "slug": "sorrowful-chapelier",
+  "title": "Sorrowful Chapelier - Location, Weakness & Rewards",
+  "description": "Sorrowful Chapelier in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it.",
+  "keyword": "Sorrowful Chapelier Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Visages - Sadness Vale"
+    },
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire, Dark"
+    },
+    {
+      "label": "Resists",
+      "value": "Ice"
+    },
+    {
+      "label": "Type",
+      "value": "Optional boss"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The third mask attached to the Visages Axon. It shares the Fire and Dark weakness of the other two Vale bosses, so the same party clears all three without rebuilding.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Sorrowful Chapelier",
+      "content": "<p><strong>Location:</strong> Visages - Sadness Vale.</p><p>Availability: Act 2.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire, Dark</td></tr><tr><td>Resists</td><td>Ice</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Fire, Dark damage. Ice is resisted, so those turns are wasted.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Colour of Lumina</li><li>Chroma Catalyst</li><li>Pictos or weapon tied to the encounter</li></ul><p>Exact drop quantities for this encounter are not documented in the sources we could verify, so they are not listed rather than estimated.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Sorrowful Chapelier",
+      "content": "<h3>What actually kills you</h3><p>Chromatic variants hit harder and hold more health than the enemy they are based on. The failure mode is almost always running out of resources mid-fight rather than a mechanic you did not understand, so bring healing headroom rather than a greedier damage build.</p>"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "jovial-moissonneuse",
+  "title": "Jovial Moissonneuse - Location, Weakness & Rewards",
+  "description": "Jovial Moissonneuse in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it.",
+  "keyword": "Jovial Moissonneuse Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Visages - Joy Vale"
+    },
+    {
+      "label": "Act",
+      "value": "Act 2"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire, Dark"
+    },
+    {
+      "label": "Resists",
+      "value": "Ice"
+    },
+    {
+      "label": "Type",
+      "value": "Optional boss"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>One of the three masks connected to the Axon in Visages, and one of the three Vale bosses that feed Mask Keeper's extra abilities. Defeating it before the main fight directly removes one of those buffs.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Jovial Moissonneuse",
+      "content": "<p><strong>Location:</strong> Visages - Joy Vale.</p><p>Availability: Act 2.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>Fire, Dark</td></tr><tr><td>Resists</td><td>Ice</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>Bring Fire, Dark damage. Ice is resisted, so those turns are wasted.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Colour of Lumina</li><li>Chroma Catalyst</li><li>Pictos or weapon tied to the encounter</li></ul><p>Exact drop quantities for this encounter are not documented in the sources we could verify, so they are not listed rather than estimated.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Jovial Moissonneuse",
+      "content": "<h3>What actually kills you</h3><p>Chromatic variants hit harder and hold more health than the enemy they are based on. The failure mode is almost always running out of resources mid-fight rather than a mechanic you did not understand, so bring healing headroom rather than a greedier damage build.</p>"
+    }
+  ]
+}

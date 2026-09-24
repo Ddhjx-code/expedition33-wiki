@@ -1,0 +1,56 @@
+{
+  "slug": "white-haired-man",
+  "title": "White-Haired Man - Location, Weakness & Rewards",
+  "description": "White-Haired Man in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it.",
+  "keyword": "White-Haired Man Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Stone Wave Cliffs"
+    },
+    {
+      "label": "Act",
+      "value": "Act 1"
+    },
+    {
+      "label": "Weak to",
+      "value": "None (no elemental weakness)"
+    },
+    {
+      "label": "Type",
+      "value": "Story boss"
+    },
+    {
+      "label": "Base enemy",
+      "value": "Renoir"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>The White-Haired Man is the first appearance of the character you later fight properly as Renoir. This encounter is the introduction to his move set and the reason the later fights feel familiar rather than new.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the White-Haired Man",
+      "content": "<p><strong>Location:</strong> Stone Wave Cliffs.</p><p>Availability: Act 1.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>None</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>There is no elemental weakness to exploit here. Build for raw output and survivability instead of matching an element.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Higher-tier Chroma materials than the base Renoir</li><li>Weapons and Pictos gated behind defeating the Chromatic Renoir</li></ul><p>Exact drop quantities for this encounter are not documented in the sources we could verify, so they are not listed rather than estimated.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the White-Haired Man",
+      "content": "<h3>Same answer as the base enemy</h3><p>The Chromatic Renoir keeps the weaknesses and resistances of the ordinary Renoir. If you have already fought the base version, your party does not need to change - what changes is the margin for error.</p><h3>What actually kills you</h3><p>Chromatic variants hit harder and hold more health than the enemy they are based on. The failure mode is almost always running out of resources mid-fight rather than a mechanic you did not understand, so bring healing headroom rather than a greedier damage build.</p><h3>No elemental shortcut</h3><p>With no weakness to exploit, the fight is decided by your upgrade levels and your parry timing. Check that your weapons are current before attempting it.</p>"
+    }
+  ]
+}

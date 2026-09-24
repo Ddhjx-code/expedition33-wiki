@@ -1,0 +1,52 @@
+{
+  "slug": "bertrand-big-hands",
+  "title": "Bertrand Big Hands - Location, Weakness & Rewards",
+  "description": "Bertrand Big Hands in Clair Obscur: Expedition 33 - where to find it, its elemental weakness and resistances, and how to beat it.",
+  "keyword": "Bertrand Big Hands Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Hidden Gestral Arena"
+    },
+    {
+      "label": "Act",
+      "value": "Act 1"
+    },
+    {
+      "label": "Weak to",
+      "value": "None (no elemental weakness)"
+    },
+    {
+      "label": "Type",
+      "value": "Arena boss"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "content": "<p>An Arena opponent in the Hidden Gestral Arena tournament. Arena fights are 1v1, so party synergy cannot cover for a bad matchup - the whole result is your own parry timing and single-target damage.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where to Find the Bertrand Big Hands",
+      "content": "<p><strong>Location:</strong> Hidden Gestral Arena.</p><p>Availability: Act 1.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weakness & Resistances",
+      "content": "<table><thead><tr><th>Property</th><th>Value</th></tr></thead><tbody><tr><td>Weak to</td><td>None</td></tr><tr><td>Resists</td><td>None</td></tr><tr><td>Absorbs</td><td>None</td></tr><tr><td>Immune</td><td>None</td></tr></tbody></table><p>There is no elemental weakness to exploit here. Build for raw output and survivability instead of matching an element.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "Rewards",
+      "content": "<ul><li>Colour of Lumina</li><li>Chroma Catalyst</li><li>Pictos or weapon tied to the encounter</li></ul><p>Exact drop quantities for this encounter are not documented in the sources we could verify, so they are not listed rather than estimated.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Beat the Bertrand Big Hands",
+      "content": "<h3>What actually kills you</h3><p>Chromatic variants hit harder and hold more health than the enemy they are based on. The failure mode is almost always running out of resources mid-fight rather than a mechanic you did not understand, so bring healing headroom rather than a greedier damage build.</p><h3>No elemental shortcut</h3><p>With no weakness to exploit, the fight is decided by your upgrade levels and your parry timing. Check that your weapons are current before attempting it.</p>"
+    }
+  ]
+}
