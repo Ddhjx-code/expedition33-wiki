@@ -10,6 +10,10 @@
       "value": "Old Lumiere / The Monolith"
     },
     {
+      "label": "Nearest flag",
+      "value": "South Entrance Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 2 &amp; 3"
     },
@@ -57,5 +61,10 @@
       "title": "How to Beat the Renoir",
       "content": "<h3>There is no elemental answer</h3><p>Renoir is the point in the game where elemental matching stops carrying you. Bring your best general-purpose party and your best upgrade levels; the fight is a mechanics check.</p><h3>Two stages</h3><p>The Monolith version has two stages, and the second brings a bestial lion form that fights alongside him. That phase adds fast jumping attacks and Gradient Attacks to the move list, so the second half is materially harder than the first.</p><h3>The endgame version escalates</h3><p>His final fight adds a Black Hole attack, a Void Cross and Void Meteors, and he can channel the Axons you already defeated - Sirene restoring his health, Visages granting him shields. If Visages is still standing in your save you are giving him free defensive layers.</p><ul><li>No weakness - bring raw damage and defensive comfort.</li><li>Expect a second stage with an added lion summon.</li><li>Defeat the Axons before the final fight or he channels them against you.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Old Lumiere",
+    "flag": "South Entrance Flag",
+    "directions": "In front of the Manor within Old Lumiere, on the South Entrance side."
+  }
 }

@@ -10,6 +10,10 @@
       "value": "Stone Wave Cliffs"
     },
     {
+      "label": "Nearest flag",
+      "value": "South Entrance Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 1"
     },
@@ -65,5 +69,10 @@
       "title": "How to Beat the Lampmaster",
       "content": "Lampmaster hovers and shoots lamps, and the fight is a targeting puzzle before it is a damage race.<h3>Shoot the lamps</h3><p>The lamps are separate targets. Destroying them removes the attacks tied to them, which shrinks its move list as the fight goes on. Ignore them and you spend the whole fight dodging a wider and wider spread.</p><h3>Dizzy</h3><p>Lampmaster can inflict Dizzy, which wobbles your camera and makes free aim unreliable. If you depend on free aim to hit weak points, this debuff will cost you turns - plan to use skill-based damage during those windows instead.</p><ul><li>No element works: bring your highest raw damage line.</li><li>Spend early turns killing lamps rather than racing the health bar.</li><li>Light is resisted - do not build around it.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Stone Wave Cliffs",
+    "flag": "South Entrance Flag",
+    "directions": "Near the end of the area at the South Entrance side, before the Act 2 transition."
+  }
 }

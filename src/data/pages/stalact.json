@@ -10,6 +10,10 @@
       "value": "Monoco's Station"
     },
     {
+      "label": "Nearest flag",
+      "value": "Monoco's Station Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 2"
     },
@@ -61,5 +65,10 @@
       "title": "How to Beat the Stalact",
       "content": "<h3>Read the stance first</h3><p>Do not fire an elemental skill until you have checked which stance Stalact is in. Using the wrong element does nothing useful, and using the right one is a large multiplier - the difference between the two is the fight.</p><h3>Its body is the target</h3><p>Stalact is made of sharp blue rock with a drill-like head point. That head is the weak spot, and hitting it is how you break the fight open rather than chipping at the body.</p><ul><li>Fire in Ice Stance, Ice in Fire Stance - never guess.</li><li>Aim for the drill head.</li><li>Because the key keeps flipping, bring both elements rather than committing to one.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Monoco's Station",
+    "flag": "Monoco's Station Flag",
+    "directions": "Inside the station. Fight it shortly after reuniting with Monoco, on the way back through the previous room."
+  }
 }

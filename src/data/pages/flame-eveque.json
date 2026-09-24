@@ -9,6 +9,10 @@
       "value": "Flying Manor (plus the Endless Tower)"
     },
     {
+      "label": "Nearest flag",
+      "value": "Coastal Cave Flag"
+    },
+    {
       "label": "Weak to",
       "value": "Ice (and Void)"
     },
@@ -56,5 +60,10 @@
       "title": "How to Beat the Triple Eveque Fight",
       "content": "<h3>The invulnerability mechanic</h3><p>This is the part that catches people out. In the Flying Manor encounter, <strong>one of the three Eveques is invulnerable</strong> at any given time, indicated by a <strong>golden shield beside its name</strong> under the health bar.</p><ul><li>The invulnerable one is <strong>randomised per attempt</strong> - it is not always the same Eveque</li><li><strong>Use free aim to check</strong> which one is currently protected before committing skills</li><li>You must <strong>neutralise the vulnerable Eveque first</strong>, then move to the next</li></ul><h3>Elemental discipline</h3><p>Each of the three absorbs its own element and resists nearly everything else. Because you are fighting all three at once, a single weapon element will be absorbed by one of them - so <strong>avoid AoE elemental skills entirely</strong> and use focused single-target attacks.</p><h3>Recommended damage</h3><p><strong>Lune</strong> for Ice, and <strong>Maelle's Void skills</strong>. Fextralife specifically recommends leaning on <strong>parrying</strong> because of how high the trio's resistances are - counterattacks bypass the elemental problem.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "The Continent",
+    "flag": "Coastal Cave Flag",
+    "directions": "Overworld encounter near the Coastal Cave approach; use Esquie's flight to reach it."
+  }
 }

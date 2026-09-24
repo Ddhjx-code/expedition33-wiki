@@ -9,6 +9,10 @@
       "value": "The Continent — Flying Manor (Chosen Path route)"
     },
     {
+      "label": "Nearest flag",
+      "value": "Flying Manor Flag"
+    },
+    {
       "label": "Weak to",
       "value": "None (no elemental weakness)"
     },
@@ -48,5 +52,10 @@
       "title": "How to Beat the Grosse Tete",
       "content": "<h3>The fight ends when it explodes</h3><p>Grosse Tete attacks by <strong>bouncing</strong>. Each time it attacks, its combo gains <strong>two more bounces</strong>. It starts with two bounces, then four, then six, and so on. After the attack that reaches <strong>24 bounces, it self-destructs</strong> - and you win.</p><p>So your goal is simply to survive 12 attacks. You never need to deal meaningful damage.</p><h3>Dodge and parry timing</h3><p>The bounce intervals change randomly, which makes pure reaction unreliable. The consistent read is:</p><ul><li>Wait until Grosse Tete starts falling back down</li><li>Press dodge or parry when it is <strong>about halfway to the ground</strong></li><li>Or simply parry on the <strong>sound cue</strong></li></ul><p>Once you lock into that rhythm, the fight becomes a long but very winnable endurance test.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Flying Manor",
+    "flag": "Flying Manor Flag",
+    "directions": "Inside the Flying Manor. A second encounter sits on the Chosen Path route."
+  }
 }

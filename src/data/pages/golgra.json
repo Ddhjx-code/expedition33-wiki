@@ -9,6 +9,10 @@
       "value": "3 encounters — Gestral Village · Dark Gestral Arena · Sacred River"
     },
     {
+      "label": "Nearest flag",
+      "value": "Gestral Village Flag"
+    },
+    {
       "label": "Weak to",
       "value": "None (no elemental weakness)"
     },
@@ -44,5 +48,10 @@
       "title": "How to Beat Golgra",
       "content": "<ul><li><strong>Bring Maelle.</strong> Her single-target damage output is the most reliable answer to a boss with no exploitable element</li><li><strong>Do not attempt the Gestral Village fight early</strong> - it is tuned for a late-game party</li><li><strong>Watch the accept prompt in the Dark Gestral Arena.</strong> Accept immediately after Chromatic Robust Sakapatate or the encounter is gone for good</li><li>With no weaknesses and no absorb, counterattacks are unusually valuable - they ignore the elemental question entirely</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Gestral Village / Dark Gestral Arena",
+    "flag": "Gestral Village Flag",
+    "directions": "Three encounters: Gestral Village in Act 1, the Dark Gestral Arena, and the Sacred River."
+  }
 }

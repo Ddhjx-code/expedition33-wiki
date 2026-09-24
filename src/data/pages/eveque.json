@@ -10,6 +10,10 @@
       "value": "Spring Meadows"
     },
     {
+      "label": "Nearest flag",
+      "value": "Grand Meadow Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 1"
     },
@@ -61,5 +65,10 @@
       "title": "How to Beat the Eveque",
       "content": "<h3>Shields, not health</h3><p>Eveque has multiple shield instances covering its body. Its weak point is exposed in the centre of the robe, which is the only place your damage really lands. Multi-hit skills strip shields faster than single heavy attacks.</p><h3>It summons</h3><p>Eveque can call two Abbests into the fight. If you leave them alive they add chip damage across the whole encounter, so clear them before you go back to the boss.</p><ul><li>Ice is the weakness.</li><li>Aim at the exposed centre, not the robe itself.</li><li>Kill the summoned Abbests rather than tanking them.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Spring Meadows",
+    "flag": "Grand Meadow Flag",
+    "directions": "Follow the main path from the opening meadow; the fight is on the route, not off it."
+  }
 }

@@ -9,6 +9,10 @@
       "value": "The Continent"
     },
     {
+      "label": "Nearest flag",
+      "value": "Expedition Flag near Forgotten Battlefield"
+    },
+    {
       "label": "Weak to",
       "value": "Earth"
     },
@@ -48,5 +52,10 @@
       "title": "Strategy",
       "content": "<p>Because it resists almost every damage type, this fight is mostly a build check: if you arrive with Earth damage you will kill it comfortably, and if you do not, it will drag.</p><p>Its attacks are lightning-based and, per community reports, its pattern is readable rather than erratic - parry and counter rather than playing defensively. Counterattacks do not care about its resistances, which makes parrying unusually valuable in this particular fight.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "The Continent",
+    "flag": "Expedition Flag near Forgotten Battlefield",
+    "directions": "Overworld boss - use Esquie's flight and look for the marker north of the Forgotten Battlefield."
+  }
 }

@@ -9,6 +9,10 @@
       "value": "Falling Leaves — see the two separate encounter routes"
     },
     {
+      "label": "Nearest flag",
+      "value": "Falling Leaves Flag"
+    },
+    {
       "label": "Weak to",
       "value": "Light (and Physical)"
     },
@@ -56,5 +60,10 @@
       "title": "How to Beat the Scavenger",
       "content": "<h3>Leave Lune and Sciel at home</h3><p>The Scavenger is a <strong>Dark-based</strong> boss that absorbs Dark damage. Lune and Sciel are the two most Dark-oriented party members, which makes them actively worse than useless here - a Dark skill literally heals it.</p><p><strong>Verso is the recommended pick.</strong> Build your team around <strong>Light</strong> and <strong>Physical</strong> damage and avoid AoE elemental skills that would feed it.</p><h3>Check your weapons first</h3><p>Because it resists four elements and absorbs a fifth, a poorly matched weapon loadout will make this fight take several times longer than it should. Swap to Light or Physical before you open the gate.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Falling Leaves",
+    "flag": "Falling Leaves Flag",
+    "directions": "Inside the Falling Leaves area; two separate encounter routes lead to it."
+  }
 }

@@ -9,6 +9,10 @@
       "value": "The Continent — snowy area, north of the Stone Quarry"
     },
     {
+      "label": "Nearest flag",
+      "value": "Stone Quarry Flag"
+    },
+    {
       "label": "Weak to",
       "value": "Lightning"
     },
@@ -56,5 +60,10 @@
       "title": "How to Beat the Frost Eveque",
       "content": "<h3>There is a second phase at 30% HP</h3><p>When it drops to roughly <strong>30% health</strong> it powers up and becomes noticeably more aggressive: it uses a <strong>new Gradient Attack</strong> and its <strong>melee attack becomes faster</strong>. The timing on its other attacks stays the same.</p><h3>Lightning is the whole plan</h3><p>Recommended skills: <strong>Lune's Lightning Dance, Thunderfall or Electrify</strong>. Equip a Lightning-affinity weapon so your free aim and adaptive skills also convert to Lightning.</p><h3>Stack Mark for extra damage</h3><p>Have someone apply <strong>Mark</strong> first, then follow with your Lightning burst:</p><ul><li>Verso - Defiant Strike or Marking Shot</li><li>Sciel - Marking Card</li><li>Monoco - Chapelier Slash or Echassier Stabs</li></ul><p>Then follow up with a high-damage Lightning skill. Suggested loadouts from the community: <strong>Kralim + Lightning on Lune</strong>, <strong>Brulerum</strong> to stack Burns on Maelle, and <strong>Dualiso</strong> on Verso.</p><h3>Attack reads</h3><ul><li><strong>Spear</strong> - it charges the spear, pulses, then plunges it; after the first strike it creates up to 3 shockwaves hitting the whole team (up to 4 damage instances). Parry on the first strike</li><li><strong>Ice Blast</strong> - it turns to its side and holds an orb in its right hand; parry after the pulse, but note there is a slight delay after the sound cue</li><li><strong>Energy Blast</strong> (phase 2) - screen turns monochromatic just before it fires at a single target; press as the blast fires for a gradient counter</li><li><strong>Full Power / Tremor</strong> - a crawling wave with up to 9 damage instances; the parry timing is on the third step</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "The Continent",
+    "flag": "Stone Quarry Flag",
+    "directions": "Southern end of the snowy belt in the middle of the map, just north of the Stone Quarry."
+  }
 }

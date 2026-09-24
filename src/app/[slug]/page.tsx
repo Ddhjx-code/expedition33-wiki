@@ -11,6 +11,7 @@ import Breadcrumb from "@/components/Breadcrumb";
 import CategoryTags from "@/components/CategoryTags";
 import MobileToc from "@/components/MobileToc";
 import SubNav from "@/components/SubNav";
+import MapBlock from "@/components/MapBlock";
 import PageSources from "@/components/PageSources";
 import AdBanner from "@/components/AdBanner";
 import JsonLd, {
@@ -142,6 +143,10 @@ export default function SlugPage({ params }: PageProps) {
 
   const banner = getBannerImage(params.slug);
 
+  const areaFact =
+    content.facts?.find((f) => f.label === "Location")?.value ??
+    content.facts?.find((f) => f.label === "Areas")?.value;
+
   return (
     <>
       <JsonLd
@@ -189,6 +194,12 @@ export default function SlugPage({ params }: PageProps) {
 
             {/* At-a-glance facts */}
             <FactsCard facts={content.facts} />
+
+            <MapBlock
+              area={content.map?.area ?? areaFact}
+              flag={content.map?.flag}
+              directions={content.map?.directions}
+            />
 
             {/* Sections */}
             <div className="space-y-8">

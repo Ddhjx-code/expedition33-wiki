@@ -19,6 +19,11 @@ export interface PageContent {
   keyword: string;
   lastUpdated: string;
   facts?: PageFact[];
+  map?: {
+    area: string;
+    flag?: string;
+    directions?: string;
+  };
   sections: PageSection[];
 }
 

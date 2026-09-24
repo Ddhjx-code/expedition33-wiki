@@ -9,6 +9,10 @@
       "value": "The Fountain - inside the middle of the mountain — west of Spring Meadows"
     },
     {
+      "label": "Nearest flag",
+      "value": "The Fountain Flag"
+    },
+    {
       "label": "Weak to",
       "value": "N/A — usually not a fight at all"
     },
@@ -48,5 +52,10 @@
       "title": "Do Not Attack Friendly Nevrons",
       "content": "<p>This is the single most important thing on this page. <strong>One kill anywhere in the friendly Nevron questline locks you out of the 100 Colour of Lumina reward.</strong></p><ul><li>Do not attack the friendly White Nevrons you meet in Acts 1 and 2</li><li>Even if you want their drops, <strong>do that after speaking to Blanche</strong> - not before</li><li>Already killed one? The reward is gone for that playthrough and Blanche will fight you</li></ul><h3>Who is involved in the questline</h3><ul><li><strong>Jar</strong> and <strong>Demineur</strong></li><li><strong>Benisseur</strong> in the Red Woods - requires escalating Chroma donations (5,000, then 10,000, then 25,000, then 50,000). He rewards Pictos along the way</li><li><strong>Hexga</strong> and other friendly White Nevrons</li></ul><p>Whenever one offers a choice, <strong>spare.</strong> That is the condition.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "The Fountain",
+    "flag": "The Fountain Flag",
+    "directions": "Inside the middle of the mountain west of Spring Meadows. Requires Esquie's flight."
+  }
 }

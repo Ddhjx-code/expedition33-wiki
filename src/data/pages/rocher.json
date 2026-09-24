@@ -9,6 +9,10 @@
       "value": "Stone Wave Cliffs"
     },
     {
+      "label": "Nearest flag",
+      "value": "Stone Wave Cliffs Flag"
+    },
+    {
       "label": "Weak to",
       "value": "Ice"
     },
@@ -44,5 +48,10 @@
       "title": "Strategy",
       "content": "<p>Because Rocher resists Fire and is weak to Ice, check your equipped weapons' damage types before the fight - a Fire-scaling weapon will make this take far longer than it should.</p><p>The GSC query pattern around this boss is people looking for the <em>rock boss</em> location, which suggests it is easy to pass by. It is in the Stone Wave Cliffs proper, not an optional side cavern.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Stone Wave Cliffs",
+    "flag": "Stone Wave Cliffs Flag",
+    "directions": "Rock-bodied boss inside the cliffs area."
+  }
 }

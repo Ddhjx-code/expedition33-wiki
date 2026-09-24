@@ -9,6 +9,10 @@
       "value": "Hidden Gestral Arena"
     },
     {
+      "label": "Nearest flag",
+      "value": "Gestral Arena Flag"
+    },
+    {
       "label": "Weak to",
       "value": "None (no elemental weakness)"
     },
@@ -48,5 +52,10 @@
       "title": "Fighting in the Hidden Gestral Arena",
       "content": "<p>Because Arena fights are 1v1, the general rules differ from the rest of the game:</p><ul><li><strong>Bring your most self-sufficient character</strong>, not your best support unit</li><li><strong>Parry windows matter more than build theory</strong> - you have no ally to cover a missed read</li><li>Expect fast, aggressive opponents rather than large telegraphed ones</li></ul><p>Matthieu the Colossus is the best-documented opponent in this set - his left-handed hook and uppercut timings are well mapped, and the same read-and-parry approach applies across the Arena roster.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Hidden Gestral Arena",
+    "flag": "Gestral Arena Flag",
+    "directions": "Enter the Arena tournament to meet the roster."
+  }
 }

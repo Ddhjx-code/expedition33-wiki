@@ -9,6 +9,10 @@
       "value": "Sirene"
     },
     {
+      "label": "Nearest flag",
+      "value": "Crumbling Path Flag"
+    },
+    {
       "label": "Weak to",
       "value": "Fire, Light"
     },
@@ -44,5 +48,10 @@
       "title": "Strategy",
       "content": "<p>Because it resists three elements and is weak to two, this is a build-check fight similar to the elemental Eveque variants - arriving with the wrong damage type makes it significantly harder than it needs to be.</p><p>Since you choose when to start it, use that: check your element coverage first, then start the conversation.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Sirene",
+    "flag": "Crumbling Path Flag",
+    "directions": "Optional, inside Sirene before the Axon. Killing it is strongly recommended."
+  }
 }

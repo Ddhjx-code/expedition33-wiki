@@ -9,6 +9,10 @@
       "value": "Crushing Cavern"
     },
     {
+      "label": "Nearest flag",
+      "value": "Crushing Cavern Flag"
+    },
+    {
       "label": "Key Drops",
       "value": "Solidifying · Polished Chroma Catalyst"
     }
@@ -40,5 +44,10 @@
       "title": "How to Beat the Giant Sapling",
       "content": "<h3>It only has two moves</h3><p>On each of its turns it does exactly one of these:</p><ul><li><strong>Applies 6 Shields to itself</strong></li><li><strong>Fires 3 purple orbs</strong> that inflict Exhausted on anyone hit</li></ul><p>Winning means repeatedly stripping the shields and never losing turns to Exhausted.</p><h3>The shield answer</h3><p><strong>Maelle's Breaking Rules</strong> is exceptional here - it removes all shields, deals damage, and restores AP per shield removed. Lune's <strong>Tremor</strong> also removes all shields if you are running Lune.</p><h3>Orb timing</h3><p>The orbs arc upward and then curve sharply down. The correct dodge/parry window is <strong>just as the orb starts curving downward</strong>. They travel quickly, so this is the main execution hurdle.</p><h3>Your Speed stat is a damage stat here</h3><p>The limit is counted in the <strong>Sapling's turns</strong>, not yours. Higher party Speed means you take more turns before its 7th - so Speed effectively buys you damage. This is one of the few fights where Speed is directly a DPS stat.</p><h3>Build advice</h3><p>Prioritise attack power over defence. You are not trying to survive a long fight - you are trying to finish inside a short one.</p>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Crushing Cavern",
+    "flag": "Crushing Cavern Flag",
+    "directions": "Inside the cavern - it is a timed fight, so move straight to the arena."
+  }
 }

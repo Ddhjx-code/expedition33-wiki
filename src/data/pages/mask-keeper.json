@@ -10,6 +10,10 @@
       "value": "Visages"
     },
     {
+      "label": "Nearest flag",
+      "value": "Visages Flag"
+    },
+    {
       "label": "Act",
       "value": "Act 2"
     },
@@ -65,5 +69,10 @@
       "title": "How to Beat the Mask Keeper",
       "content": "<h3>Clear the Vales first</h3><p>Mask Keeper draws extra abilities from the three Vale bosses in the Visages area - Jovial Moissonneuse, Seething Boucheclier and Sorrowful Chapelier. Defeating each of them before the main fight removes one of those buffs, which is the single largest difficulty swing available to you.</p><h3>Long combos</h3><p>It favours extended multi-hit strings. If your parry timing breaks down mid-combo, a revenge-style skill that scales with damage taken is a reasonable safety net rather than losing the turn entirely.</p><ul><li>Kill the three Vale bosses first - it directly weakens this fight.</li><li>Fire and Dark, same as Visages.</li><li>Expect no gap between the Visages stage and this one.</li></ul>"
     }
-  ]
+  ],
+  "map": {
+    "area": "Visages",
+    "flag": "Visages Flag",
+    "directions": "Same arena as Visages - stage two begins immediately, with no travel between."
+  }
 }
