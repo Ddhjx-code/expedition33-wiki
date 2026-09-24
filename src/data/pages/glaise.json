@@ -3,6 +3,32 @@
   "title": "Glaise (Yellow Harvest) - Location, Weakness & Rewards",
   "description": "Glaise in Expedition 33's Yellow Harvest: exact route to the Yellow Spire Wrecks, its Fire/Ice weakness, and the Plenum weapon it drops.",
   "keyword": "glaise expedition 33",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Yellow Harvest — Yellow Spire Wrecks (also in The Chosen Path)"
+    },
+    {
+      "label": "Weak to",
+      "value": "Fire, Ice"
+    },
+    {
+      "label": "Resists",
+      "value": "Lightning"
+    },
+    {
+      "label": "Absorbs",
+      "value": "Earth"
+    },
+    {
+      "label": "Key Drops",
+      "value": "Plenum weapon (Level 7, for Maelle) · Energising Attack I Pictos (Level 7) · Polished Chroma Catalyst x3"
+    },
+    {
+      "label": "EXP",
+      "value": "24,190 EXP"
+    }
+  ],
   "lastUpdated": "2026-09-23",
   "sections": [
     {

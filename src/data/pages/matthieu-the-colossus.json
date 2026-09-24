@@ -3,6 +3,24 @@
   "title": "Matthieu the Colossus - How to Beat (Gestral Arena)",
   "description": "How to find and beat Matthieu the Colossus in Expedition 33's Hidden Gestral Arena - attack patterns, parry timing and rewards.",
   "keyword": "matthieu the colossus expedition 33",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "Hidden Gestral Arena"
+    },
+    {
+      "label": "Weak to",
+      "value": "None (no elemental weakness)"
+    },
+    {
+      "label": "Format",
+      "value": "1v1 Arena duel"
+    },
+    {
+      "label": "Route",
+      "value": "Arena tournament → Medalum weapon"
+    }
+  ],
   "lastUpdated": "2026-09-23",
   "sections": [
     {

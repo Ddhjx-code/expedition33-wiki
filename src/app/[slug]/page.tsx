@@ -5,6 +5,7 @@ import { isBossSlug } from "@/lib/nav-topics";
 import Sidebar from "@/components/Sidebar";
 import RelatedPages from "@/components/RelatedPages";
 import TopicNav from "@/components/TopicNav";
+import FactsCard from "@/components/FactsCard";
 import AdBanner from "@/components/AdBanner";
 import JsonLd, {
   getArticleSchema,
@@ -164,7 +165,7 @@ export default function SlugPage({ params }: PageProps) {
             </header>
 
             {/* Banner image */}
-            <div className="mb-8 overflow-hidden rounded-lg border border-border">
+            <div className="mb-6 overflow-hidden rounded-lg border border-border">
               <Image
                 src={banner.src}
                 alt={banner.alt}
@@ -173,6 +174,9 @@ export default function SlugPage({ params }: PageProps) {
                 className="w-full h-auto object-cover"
               />
             </div>
+
+            {/* At-a-glance facts */}
+            <FactsCard facts={content.facts} />
 
             {/* Sections */}
             <div className="space-y-8">

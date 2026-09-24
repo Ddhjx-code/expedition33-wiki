@@ -3,6 +3,24 @@
   "title": "Blanche - Should You Fight Her? (The Fountain Quest)",
   "description": "Blanche at The Fountain in Expedition 33 is a choice, not just a boss. Sparing every friendly Nevron earns 100 Colour of Lumina - fighting her means you killed one.",
   "keyword": "blanche expedition 33 the fountain",
+  "facts": [
+    {
+      "label": "Location",
+      "value": "The Fountain - inside the middle of the mountain — west of Spring Meadows"
+    },
+    {
+      "label": "Weak to",
+      "value": "N/A — usually not a fight at all"
+    },
+    {
+      "label": "If spared",
+      "value": "100x Colour of Lumina + Aiding the Enemy"
+    },
+    {
+      "label": "If killed",
+      "value": "10x Colour of Lumina + Grandiose Chroma Catalyst x2"
+    }
+  ],
   "lastUpdated": "2026-09-23",
   "sections": [
     {
