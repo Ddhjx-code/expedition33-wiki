@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
+import SearchDialog from "./SearchDialog";
 
 const NAV_ITEMS = [
   { label: "Guide", href: "/guide" },
@@ -47,30 +48,33 @@ export default function Navbar() {
           ))}
         </div>
 
-        {/* Mobile hamburger button */}
-        <button
-          type="button"
-          className="md:hidden flex flex-col items-center justify-center w-8 h-8 gap-1.5"
-          onClick={() => setMobileOpen(!mobileOpen)}
-          aria-label="Toggle navigation menu"
-          aria-expanded={mobileOpen}
-        >
-          <span
-            className={`block h-0.5 w-5 bg-foreground transition-transform duration-200 ${
-              mobileOpen ? "translate-y-2 rotate-45" : ""
-            }`}
-          />
-          <span
-            className={`block h-0.5 w-5 bg-foreground transition-opacity duration-200 ${
-              mobileOpen ? "opacity-0" : ""
-            }`}
-          />
-          <span
-            className={`block h-0.5 w-5 bg-foreground transition-transform duration-200 ${
-              mobileOpen ? "-translate-y-2 -rotate-45" : ""
-            }`}
-          />
-        </button>
+        <div className="flex items-center gap-3">
+          <SearchDialog />
+
+          <button
+            type="button"
+            className="md:hidden flex flex-col items-center justify-center w-8 h-8 gap-1.5"
+            onClick={() => setMobileOpen(!mobileOpen)}
+            aria-label="Toggle navigation menu"
+            aria-expanded={mobileOpen}
+          >
+            <span
+              className={`block h-0.5 w-5 bg-foreground transition-transform duration-200 ${
+                mobileOpen ? "translate-y-2 rotate-45" : ""
+              }`}
+            />
+            <span
+              className={`block h-0.5 w-5 bg-foreground transition-opacity duration-200 ${
+                mobileOpen ? "opacity-0" : ""
+              }`}
+            />
+            <span
+              className={`block h-0.5 w-5 bg-foreground transition-transform duration-200 ${
+                mobileOpen ? "-translate-y-2 -rotate-45" : ""
+              }`}
+            />
+          </button>
+        </div>
       </nav>
 
       {/* Mobile dropdown */}
