@@ -1,0 +1,66 @@
+{
+  "slug": "sciel",
+  "title": "Sciel - Location, Weakness & How to Beat",
+  "description": "Sciel in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Sciel Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Playable",
+      "value": "Yes"
+    },
+    {
+      "label": "Role",
+      "value": "AoE DPS"
+    },
+    {
+      "label": "Unique mechanic",
+      "value": "Foretell / Twilight"
+    },
+    {
+      "label": "Joins",
+      "value": "Mid-game (Gestral Village)"
+    },
+    {
+      "label": "Tier",
+      "value": "A"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Who They Are",
+      "content": "<p>Sciel joins at Gestral Village and is the party's area-damage dealer. She is at her strongest once she reaches Twilight, which her Foretell stacking builds toward.</p><p><strong>Joins:</strong> Mid-game (Gestral Village)</p>"
+    },
+    {
+      "id": "background",
+      "title": "Background",
+      "content": "<p>(not documented in verifiable sources) published backstory detail.</p>"
+    },
+    {
+      "id": "playable",
+      "title": "Playable or NPC",
+      "content": "<p>Their defining mechanic is <strong>Foretell / Twilight</strong>.</p><p>Party role: <strong>AoE DPS</strong>.</p><p>In the <a href=\"/tier-list\">party tier list</a> they sit at <strong>A</strong>.</p>"
+    },
+    {
+      "id": "weapons",
+      "title": "Weapon Set",
+      "content": "<p>Sciel wields 21 weapons. Their element and scaling are listed here; which ones are worth upgrading is on <a href=\"/best-weapons\">best weapons</a> and <a href=\"/weapons-tier-list\">the tier list</a>.</p><table><thead><tr><th>Weapon</th><th>Element</th><th>Scaling</th><th>How to obtain</th></tr></thead><tbody><tr><td><a href=\"/algueron\">Algueron</a></td><td>Ice</td><td>Vitality (B), Luck (C)</td><td>Old Lumiere - merchant Mendelyo</td></tr><tr><td><a href=\"/blizzon\">Blizzon</a></td><td>Ice</td><td>Luck (B)</td><td>Falling Leaves - defeat the Chromatic Ballet</td></tr><tr><td><a href=\"/bourgelon\">Bourgelon</a></td><td>Light</td><td>Agility (C), Vitality (B)</td><td>Coastal Cave merchant</td></tr><tr><td><a href=\"/charnon\">Charnon</a></td><td>Void</td><td>Defense (D), Luck (C)</td><td>Renoir's Drafts - merchant Grour</td></tr><tr><td><a href=\"/chation\">Chation</a></td><td>Dark</td><td>Luck (C), Vitality (B)</td><td>Stone Wave Cliffs</td></tr><tr><td><a href=\"/corderon\">Corderon</a></td><td>Dark</td><td>Defense (C), Luck (D)</td><td>The Continent</td></tr><tr><td><a href=\"/direton\">Direton</a></td><td>Earth</td><td>Agility (D), Luck (C)</td><td>Falling Leaves merchant</td></tr><tr><td><a href=\"/garganon\">Garganon</a></td><td>Fire</td><td>Vitality (B), Defense (C)</td><td>Inside the Monolith - merchant Melosh</td></tr><tr><td><a href=\"/gobluson\">Gobluson</a></td><td>Fire</td><td>Defense (B), Agility (C)</td><td>Coastal Cave - merchants</td></tr><tr><td><a href=\"/guleson\">Guleson</a></td><td>Lightning</td><td>Luck (C), Agility (B)</td><td>Endless Night Sanctuary</td></tr><tr><td><a href=\"/hevasson\">Hevasson</a></td><td>Physical</td><td>Vitality (C), Defense (D)</td><td>Gestral Village - defeat Golgra for the final time</td></tr><tr><td><a href=\"/litheson\">Litheson</a></td><td>Physical</td><td>Agility (B), Vitality (A)</td><td>Lumiere (Act 3)</td></tr><tr><td><a href=\"/lusteson\">Lusteson</a></td><td>Dark</td><td>Vitality (B), Agility (C)</td><td>Forgotten Battlefield - Chromatic Luster drop</td></tr><tr><td><a href=\"/martenon\">Martenon</a></td><td>Earth</td><td>Vitality (B), Agility (C)</td><td>Flying Manor</td></tr><tr><td><a href=\"/minason\">Minason</a></td><td>Physical</td><td>Luck (D), Vitality (C)</td><td>The Crows - Chromatic Chapelier drop</td></tr><tr><td><a href=\"/moisson\">Moisson</a></td><td>Physical</td><td>Agility (C), Luck (D)</td><td>Chromatic Moissonneuse drop</td></tr><tr><td><a href=\"/ramasson\">Ramasson</a></td><td>Physical</td><td>Luck (C), Vitality (B)</td><td>Forgotten Battlefield</td></tr><tr><td><a href=\"/rangeson\">Rangeson</a></td><td>Dark</td><td>Defense (C), Agility (B)</td><td>Stone Wave Cliffs - merchant Jerijeri</td></tr><tr><td><a href=\"/sadon\">Sadon</a></td><td>Light</td><td>Agility (C), Defense (B)</td><td>Visages - merchant Blurraga</td></tr><tr><td><a href=\"/scieleson\">Scieleson</a></td><td>Physical</td><td>Agility (B), Luck (C)</td><td>Starting weapon</td></tr><tr><td><a href=\"/tisseron\">Tisseron</a></td><td>Lightning</td><td>Agility (C), Defense (B)</td><td>Sirene</td></tr></tbody></table>"
+    },
+    {
+      "id": "relationships",
+      "title": "Relationships",
+      "content": "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead><tbody><tr><td><a href=\"/maelle\">Maelle</a></td><td>Can generate additional AP, which keeps Maelle in Virtuose Stance longer</td></tr></tbody></table>"
+    },
+    {
+      "id": "appearances",
+      "title": "Where They Appear",
+      "content": "<ul><li>Joins mid-game at Gestral Village</li><li>Her weapons are listed on <a href=\"/weapons\">all weapons</a></li></ul>"
+    },
+    {
+      "id": "status",
+      "title": "Source Status",
+      "content": "<p>Story facts here are drawn from <a href=\"/world-lore\">the world lore page</a>, the join timing and mechanic from the <a href=\"/guide\">beginner guide</a>, and the tier placement from the <a href=\"/tier-list\">tier list</a>. Anything those pages do not state is left unrecorded rather than guessed. Back to <a href=\"/characters\">all characters</a>.</p>"
+    }
+  ]
+}

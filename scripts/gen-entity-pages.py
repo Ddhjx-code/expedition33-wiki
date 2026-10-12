@@ -184,6 +184,148 @@ def location_sections(rec):
     ]
 
 
+def weapons_for(name):
+    """Weapons whose owner field lists this character. Read from the data layer so
+    the roster cannot drift from the weapon pages themselves."""
+    try:
+        items = json.load(open("src/data/entities/weapons.json", encoding="utf-8"))
+    except Exception:
+        return []
+    out = []
+    for w in items:
+        owners = [o.strip() for o in str(w.get("owner", "")).split("/")]
+        if name in owners:
+            out.append(w)
+    return out
+
+
+
+def character_sections(rec):
+    name = rec["name"]
+    out = [
+        {
+            "id": "overview",
+            "title": "Who They Are",
+            "content": (
+                f'<p>{rec["summary"]}</p>'
+                + (
+                    f'<p><strong>Joins:</strong> {rec["joins"]}</p>'
+                    if rec.get("joins")
+                    else ""
+                )
+            ),
+        }
+    ]
+
+    bg = rec.get("background")
+    out.append(
+        {
+            "id": "background",
+            "title": "Background",
+            "content": f"<p>{bg}</p>" if bg else f"<p>{NONE} published backstory detail.</p>",
+        }
+    )
+
+    if rec.get("spoilers"):
+        out[-1]["content"] = (
+            '<p class="text-sm italic opacity-75">Contains story spoilers - '
+            'stop here if you have not finished the game.</p>' + out[-1]["content"]
+        )
+
+    mech = rec.get("mechanic")
+    role = rec.get("role")
+    bits = []
+    if mech:
+        bits.append(f"<p>Their defining mechanic is <strong>{mech}</strong>.</p>")
+    if role:
+        bits.append(f"<p>Party role: <strong>{role}</strong>.</p>")
+    if rec.get("build_slug"):
+        bits.append(
+            f'<p>Skills, Pictos and stat allocation are covered on the '
+            f'<a href="/{rec["build_slug"]}">{name} build guide</a> - this page is the character, '
+            "not the kit.</p>"
+        )
+    if rec.get("tier"):
+        bits.append(
+            f'<p>In the <a href="/tier-list">party tier list</a> they sit at '
+            f'<strong>{rec["tier"]}</strong>.</p>'
+        )
+    out.append(
+        {
+            "id": "playable",
+            "title": "Playable or NPC",
+            "content": "".join(bits)
+            if bits
+            else f"<p>{NONE}</p>",
+        }
+    )
+
+    owned = weapons_for(name)
+    if owned:
+        rows = "".join(
+            f'<tr><td><a href="/{w["slug"]}">{w["name"]}</a></td>'
+            f'<td>{w.get("element", "-")}</td><td>{w.get("scaling", "-")}</td>'
+            f'<td>{w.get("location", "-")}</td></tr>'
+            for w in sorted(owned, key=lambda x: x["name"])
+        )
+        arsenal = (
+            f"<p>{name} wields {len(owned)} weapons. Their element and scaling are listed here; "
+            f"which ones are worth upgrading is on <a href=\"/best-weapons\">best weapons</a> and "
+            f"<a href=\"/weapons-tier-list\">the tier list</a>.</p>"
+            "<table><thead><tr><th>Weapon</th><th>Element</th><th>Scaling</th>"
+            f"<th>How to obtain</th></tr></thead><tbody>{rows}</tbody></table>"
+        )
+    else:
+        arsenal = f"<p>{NONE} weapon set - {name} is not part of the playable roster.</p>"
+    out.append(
+        {
+            "id": "weapons",
+            "title": "Weapon Set",
+            "content": arsenal,
+        }
+    )
+
+    rel = rec.get("relationships") or []
+    if rel:
+        rows = "".join(
+            f'<tr><td><a href="/{r["to"]}">{r["label"]}</a></td><td>{r["with"]}</td></tr>'
+            for r in rel
+        )
+        body = (
+            "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead>"
+            f"<tbody>{rows}</tbody></table>"
+        )
+    else:
+        body = f"<p>{NONE} documented relationship web.</p>"
+    out.append({"id": "relationships", "title": "Relationships", "content": body})
+
+    app = rec.get("appearances") or []
+    out.append(
+        {
+            "id": "appearances",
+            "title": "Where They Appear",
+            "content": ("<ul>" + "".join(f"<li>{a}</li>" for a in app) + "</ul>")
+            if app
+            else f"<p>{NONE}</p>",
+        }
+    )
+
+    out.append(
+        {
+            "id": "status",
+            "title": "Source Status",
+            "content": (
+                f'<p>Story facts here are drawn from <a href="/world-lore">the world lore page</a>, '
+                f'the join timing and mechanic from the <a href="/guide">beginner guide</a>, and the '
+                f'tier placement from the <a href="/tier-list">tier list</a>. Anything those pages do '
+                "not state is left unrecorded rather than guessed. Back to "
+                '<a href="/characters">all characters</a>.</p>'
+            ),
+        }
+    )
+    return out
+
+
 BUILDERS = {
     "boss": (boss_sections, lambda r: [
         *([("Location", r["locations"])] if r.get("locations") else []),
@@ -213,6 +355,13 @@ BUILDERS = {
         *([("Location", r["location"])] if r.get("location") else []),
         ("Type", "Pictos"),
         ("Unlocks", "Lumina after 4 battles"),
+    ]),
+    "character": (character_sections, lambda r: [
+        *([("Playable", "Yes" if r.get("playable") else "No - NPC")] if "playable" in r else []),
+        *([("Role", r["role"])] if r.get("role") else []),
+        *([("Unique mechanic", r["mechanic"])] if r.get("mechanic") else []),
+        *([("Joins", r["joins"])] if r.get("joins") else []),
+        *([("Tier", r["tier"])] if r.get("tier") else []),
     ]),
     "location": (location_sections, lambda r: [
         *([("Act", r["acts"])] if r.get("acts") else []),

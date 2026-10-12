@@ -1,0 +1,58 @@
+{
+  "slug": "esquie",
+  "title": "Esquie - Location, Weakness & How to Beat",
+  "description": "Esquie in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Esquie Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Playable",
+      "value": "No - NPC"
+    },
+    {
+      "label": "Role",
+      "value": "Mythical mount"
+    },
+    {
+      "label": "Unique mechanic",
+      "value": "Swim, Dive, Fly"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Who They Are",
+      "content": "<p>Esquie is not a party member but a mount whose abilities gate areas of the map: Swim crosses water, Dive opens underwater routes, Climb reaches high ground, and Fly unlocks late-game.</p>"
+    },
+    {
+      "id": "background",
+      "title": "Background",
+      "content": "<p>(not documented in verifiable sources) published backstory detail.</p>"
+    },
+    {
+      "id": "playable",
+      "title": "Playable or NPC",
+      "content": "<p>Their defining mechanic is <strong>Swim, Dive, Fly</strong>.</p><p>Party role: <strong>Mythical mount</strong>.</p>"
+    },
+    {
+      "id": "weapons",
+      "title": "Weapon Set",
+      "content": "<p>(not documented in verifiable sources) weapon set - Esquie is not part of the playable roster.</p>"
+    },
+    {
+      "id": "relationships",
+      "title": "Relationships",
+      "content": "<p>(not documented in verifiable sources) documented relationship web.</p>"
+    },
+    {
+      "id": "appearances",
+      "title": "Where They Appear",
+      "content": "<ul><li>Unlocked through the story rather than recruited</li><li>Francois is fought at Esquie's Nest during Act 1, after Flying Waters</li><li>Several optional areas only open once Esquie can swim or fly - see <a href=\"/bosses-by-area\">bosses by area</a></li><li>Collect Esquie's missing rocks scattered across the map</li></ul>"
+    },
+    {
+      "id": "status",
+      "title": "Source Status",
+      "content": "<p>Story facts here are drawn from <a href=\"/world-lore\">the world lore page</a>, the join timing and mechanic from the <a href=\"/guide\">beginner guide</a>, and the tier placement from the <a href=\"/tier-list\">tier list</a>. Anything those pages do not state is left unrecorded rather than guessed. Back to <a href=\"/characters\">all characters</a>.</p>"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "lune",
+  "title": "Lune - Location, Weakness & How to Beat",
+  "description": "Lune in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Lune Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Playable",
+      "value": "Yes"
+    },
+    {
+      "label": "Role",
+      "value": "Mage / Healer"
+    },
+    {
+      "label": "Unique mechanic",
+      "value": "Elemental Stains"
+    },
+    {
+      "label": "Joins",
+      "value": "Start"
+    },
+    {
+      "label": "Tier",
+      "value": "A"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Who They Are",
+      "content": "<p>Lune is the party's healer and its elemental setup. She applies Burn and other elemental Stains that other characters then build their damage around.</p><p><strong>Joins:</strong> Start</p>"
+    },
+    {
+      "id": "background",
+      "title": "Background",
+      "content": "<p>(not documented in verifiable sources) published backstory detail.</p>"
+    },
+    {
+      "id": "playable",
+      "title": "Playable or NPC",
+      "content": "<p>Their defining mechanic is <strong>Elemental Stains</strong>.</p><p>Party role: <strong>Mage / Healer</strong>.</p><p>Skills, Pictos and stat allocation are covered on the <a href=\"/build-lune\">Lune build guide</a> - this page is the character, not the kit.</p><p>In the <a href=\"/tier-list\">party tier list</a> they sit at <strong>A</strong>.</p>"
+    },
+    {
+      "id": "weapons",
+      "title": "Weapon Set",
+      "content": "<p>Lune wields 22 weapons. Their element and scaling are listed here; which ones are worth upgrading is on <a href=\"/best-weapons\">best weapons</a> and <a href=\"/weapons-tier-list\">the tier list</a>.</p><table><thead><tr><th>Weapon</th><th>Element</th><th>Scaling</th><th>How to obtain</th></tr></thead><tbody><tr><td><a href=\"/angerim\">Angerim</a></td><td>Fire</td><td>Luck (B), Defense (A)</td><td>The Continent - defeat the Chromatic Demineur north of Forgotten Battlefield</td></tr><tr><td><a href=\"/benisim\">Benisim</a></td><td>Earth</td><td>Vitality (B), Defense (C)</td><td>Forgotten Battlefield - merchant Kasumi past the ancient bridge</td></tr><tr><td><a href=\"/betelim\">Betelim</a></td><td>Earth</td><td>Agility (D), Vitality (C)</td><td>Gestral Village - break a rock on the right side with a Paint Spike</td></tr><tr><td><a href=\"/braselim\">Braselim</a></td><td>Fire</td><td>Luck (C), Vitality (B)</td><td>Inside the Monolith</td></tr><tr><td><a href=\"/chapelim\">Chapelim</a></td><td>Earth</td><td>Agility (C), Defense (B)</td><td>Visages - Joy Vale, defeat the area's final boss</td></tr><tr><td><a href=\"/choralim\">Choralim</a></td><td>Fire</td><td>Defense (A), Agility (B)</td><td>Sirene's Dress - Chromatic Glissando drop</td></tr><tr><td><a href=\"/colim\">Colim</a></td><td>Light</td><td>Vitality (B), Agility (C)</td><td>Sirene - kill any Chorale enemy</td></tr><tr><td><a href=\"/coralim\">Coralim</a></td><td>Ice</td><td>Defense (C), Vitality (B)</td><td>Stone Wave Cliffs - Flooded Building Flag, past a rope climb</td></tr><tr><td><a href=\"/deminerim\">Deminerim</a></td><td>Lightning</td><td>Agility (D), Luck (C)</td><td>Flying Waters - return the Intact Mine to the Demineur</td></tr><tr><td><a href=\"/elerim\">Elerim</a></td><td>Earth</td><td>Vitality (B), Defense (C)</td><td>Sinister Cave - hug the left wall to a dead end</td></tr><tr><td><a href=\"/kralim\">Kralim</a></td><td>Lightning</td><td>Vitality (A), Agility (S)</td><td>Yellow Harvest - defeat the Chromatic Orphelin</td></tr><tr><td><a href=\"/lighterim\">Lighterim</a></td><td>Fire</td><td>Agility (C), Defense (B)</td><td>Spring Meadows - Indigo Tree</td></tr><tr><td><a href=\"/lithelim\">Lithelim</a></td><td>Void</td><td>Vitality (B)</td><td>Inside the Monolith</td></tr><tr><td><a href=\"/lunerim\">Lunerim</a></td><td>Fire</td><td>Vitality (D), Luck (C)</td><td>Starting weapon</td></tr><tr><td><a href=\"/painerim\">Painerim</a></td><td>Earth</td><td>Luck (D), Vitality (C)</td><td>Renoir's Drafts - merchant Grour</td></tr><tr><td><a href=\"/potierim\">Potierim</a></td><td>Ice</td><td>Defense (C), Agility (B)</td><td>Yellow Harvest</td></tr><tr><td><a href=\"/redalim\">Redalim</a></td><td>Ice</td><td>Defense (B), Agility (C)</td><td>Old Lumiere</td></tr><tr><td><a href=\"/saperim\">Saperim</a></td><td>Lightning</td><td>Defense (B), Luck (C)</td><td>Falling Leaves</td></tr><tr><td><a href=\"/scaverim\">Scaverim</a></td><td>Dark</td><td>Vitality (B), Agility (C)</td><td>Falling Leaves - defeat the Scavenger</td></tr><tr><td><a href=\"/snowim\">Snowim</a></td><td>Ice</td><td>Agility (A), Vitality (B)</td><td>Frozen Hearts - defeat Gargant</td></tr><tr><td><a href=\"/trebuchim\">Trebuchim</a></td><td>Lightning</td><td>Vitality (A), Luck (B)</td><td>Ancient Sanctuary - Catapult Sakapatate drop</td></tr><tr><td><a href=\"/troubadim\">Troubadim</a></td><td>Physical</td><td>Vitality (C), Defense (B)</td><td>Flying Waters - defeat the Chromatic Troubadour</td></tr></tbody></table>"
+    },
+    {
+      "id": "relationships",
+      "title": "Relationships",
+      "content": "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead><tbody><tr><td><a href=\"/maelle\">Maelle</a></td><td>Her Burn setup is the trigger for Maelle's Rain of Fire - the pair is called the strongest early-game synergy</td></tr></tbody></table>"
+    },
+    {
+      "id": "appearances",
+      "title": "Where They Appear",
+      "content": "<ul><li>Playable from the start of the game</li><li>The Act 1 Demineur quest rewards her the Deminerim weapon</li><li>Full kit on the <a href=\"/build-lune\">Lune build guide</a></li></ul>"
+    },
+    {
+      "id": "status",
+      "title": "Source Status",
+      "content": "<p>Story facts here are drawn from <a href=\"/world-lore\">the world lore page</a>, the join timing and mechanic from the <a href=\"/guide\">beginner guide</a>, and the tier placement from the <a href=\"/tier-list\">tier list</a>. Anything those pages do not state is left unrecorded rather than guessed. Back to <a href=\"/characters\">all characters</a>.</p>"
+    }
+  ]
+}

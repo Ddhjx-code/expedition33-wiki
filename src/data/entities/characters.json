@@ -1,0 +1,192 @@
+[
+  {
+    "slug": "gustave",
+    "name": "Gustave",
+    "playable": true,
+    "role": "DPS / Mark Applier",
+    "mechanic": "Overcharge",
+    "joins": "Start - playable from the opening expedition",
+    "tier": "A",
+    "build_slug": null,
+    "summary": "Gustave is the character the game starts on. Act 1 follows him as he assembles his expedition team and crosses The Continent toward the Paintress.",
+    "background": "In the prologue he says goodbye to his former partner Sophie on the day she is Gomaged - along with every other 33-year-old in Lumiere. That loss is what sets his expedition in motion. See the Gommage day section of <a href=\"/world-lore\">world lore</a>.",
+    "spoilers": false,
+    "relationships": [
+      {
+        "to": "verso",
+        "label": "Verso",
+        "with": "Share the same weapon set - every Gustave Lumina is listed as Gustave / Verso"
+      }
+    ],
+    "appearances": [
+      "Playable from the start of the game",
+      "Act 1 is framed around him - see the <a href=\"/walkthrough\">walkthrough</a>",
+      "His weapons are catalogued on <a href=\"/weapons\">all weapons</a>"
+    ]
+  },
+  {
+    "slug": "lune",
+    "name": "Lune",
+    "playable": true,
+    "role": "Mage / Healer",
+    "mechanic": "Elemental Stains",
+    "joins": "Start",
+    "tier": "A",
+    "build_slug": "build-lune",
+    "summary": "Lune is the party's healer and its elemental setup. She applies Burn and other elemental Stains that other characters then build their damage around.",
+    "background": null,
+    "spoilers": false,
+    "relationships": [
+      {
+        "to": "maelle",
+        "label": "Maelle",
+        "with": "Her Burn setup is the trigger for Maelle's Rain of Fire - the pair is called the strongest early-game synergy"
+      }
+    ],
+    "appearances": [
+      "Playable from the start of the game",
+      "The Act 1 Demineur quest rewards her the Deminerim weapon",
+      "Full kit on the <a href=\"/build-lune\">Lune build guide</a>"
+    ]
+  },
+  {
+    "slug": "maelle",
+    "name": "Maelle",
+    "playable": true,
+    "role": "Melee DPS / Support",
+    "mechanic": "Battle Stance - Defensive, Offensive, Virtuose",
+    "joins": "Act 1 (Flying Waters)",
+    "tier": "S",
+    "build_slug": "build-maelle",
+    "summary": "Maelle joins during Act 1 at Flying Waters and is the fastest melee fighter in the party. Her Battle Stance system rewards constant switching: every stance change gives her +1 AP, so transitions are never wasted.",
+    "background": "Maelle is really Alicia Dessendre, Verso's sister. Entering the Canvas overwhelmed her and she was reborn inside it as Maelle, without her memories. Act 3 centres on her, and the single decision that determines which ending you get is a private conversation with her - telling her the truth, or lying. Full breakdown on <a href=\"/endings-explained\">endings explained</a>.",
+    "spoilers": true,
+    "relationships": [
+      {
+        "to": "verso",
+        "label": "Verso",
+        "with": "Brother - though the Verso in your party is a painted copy, not the original"
+      },
+      {
+        "to": "clea",
+        "label": "Clea",
+        "with": "Sister; the Nevrons call her Mistress because of the family link"
+      },
+      {
+        "to": "renoir",
+        "label": "Renoir",
+        "with": "The painted Renoir is the antagonist for most of the game; the real one causes the Gommage"
+      }
+    ],
+    "appearances": [
+      "Joins during Act 1 at Flying Waters",
+      "Act 3 is built around her",
+      "A required conversation with her in Act 3 gates the endings",
+      "Full kit on the <a href=\"/build-maelle\">Maelle build guide</a>"
+    ]
+  },
+  {
+    "slug": "sciel",
+    "name": "Sciel",
+    "playable": true,
+    "role": "AoE DPS",
+    "mechanic": "Foretell / Twilight",
+    "joins": "Mid-game (Gestral Village)",
+    "tier": "A",
+    "build_slug": null,
+    "summary": "Sciel joins at Gestral Village and is the party's area-damage dealer. She is at her strongest once she reaches Twilight, which her Foretell stacking builds toward.",
+    "background": null,
+    "spoilers": false,
+    "relationships": [
+      {
+        "to": "maelle",
+        "label": "Maelle",
+        "with": "Can generate additional AP, which keeps Maelle in Virtuose Stance longer"
+      }
+    ],
+    "appearances": [
+      "Joins mid-game at Gestral Village",
+      "Her weapons are listed on <a href=\"/weapons\">all weapons</a>"
+    ]
+  },
+  {
+    "slug": "verso",
+    "name": "Verso",
+    "playable": true,
+    "role": "DPS / Mark Support",
+    "mechanic": "Perfection Rank (D to S)",
+    "joins": "Sinister Cave (Act 2)",
+    "tier": "S",
+    "build_slug": "build-verso",
+    "summary": "Verso joins in Act 2 at the Sinister Cave and shifts the party's damage model toward marks. His Perfection Rank climbs from D to S as he fights, and Marking Shot sets up mark-dependent skills on allies.",
+    "background": "The Verso you recruit is a painted copy of the real Verso Dessendre, who died in a fire at the family home. The Canvas itself was painted into existence by that real Verso, and holds the last surviving fragment of his soul. See <a href=\"/world-lore\">world lore</a>.",
+    "spoilers": true,
+    "relationships": [
+      {
+        "to": "maelle",
+        "label": "Maelle",
+        "with": "His sister - she is Alicia Dessendre, reborn inside the Canvas without her memories"
+      },
+      {
+        "to": "clea",
+        "label": "Clea",
+        "with": "Sister; she created the Nevrons"
+      },
+      {
+        "to": "monoco",
+        "label": "Monoco",
+        "with": "The painted Verso created the Gestrals, and Monoco was based on his real-world dog"
+      }
+    ],
+    "appearances": [
+      "Joins in Act 2 at Sinister Cave",
+      "Shares his weapon set with Gustave",
+      "Full kit on the <a href=\"/build-verso\">Verso build guide</a>"
+    ]
+  },
+  {
+    "slug": "monoco",
+    "name": "Monoco",
+    "playable": true,
+    "role": "Flex / AP Support",
+    "mechanic": "Bestial Wheel (Transform)",
+    "joins": "Late Act 2 - after being fought as a story boss",
+    "tier": "B",
+    "build_slug": null,
+    "summary": "Monoco is the most flexible party member and the least specialised. He is fought as a story boss alongside Stalact before he can be recruited, and his value is AP generation for the whole party rather than personal damage.",
+    "background": "Monoco is a Gestral. The Gestrals were created by the painted Verso, and Monoco specifically was modelled on his real-world dog.",
+    "spoilers": true,
+    "relationships": [
+      {
+        "to": "verso",
+        "label": "Verso",
+        "with": "Created the Gestrals; Monoco was based on his dog"
+      }
+    ],
+    "appearances": [
+      "Fought as a story boss in Act 2 with Stalact",
+      "Joins late in Act 2",
+      "His weapon set is the Gestral-themed one listed on <a href=\"/weapons\">all weapons</a>"
+    ]
+  },
+  {
+    "slug": "esquie",
+    "name": "Esquie",
+    "playable": false,
+    "role": "Mythical mount",
+    "mechanic": "Swim, Dive, Fly",
+    "joins": null,
+    "tier": null,
+    "build_slug": null,
+    "summary": "Esquie is not a party member but a mount whose abilities gate areas of the map: Swim crosses water, Dive opens underwater routes, Climb reaches high ground, and Fly unlocks late-game.",
+    "background": null,
+    "spoilers": false,
+    "relationships": [],
+    "appearances": [
+      "Unlocked through the story rather than recruited",
+      "Francois is fought at Esquie's Nest during Act 1, after Flying Waters",
+      "Several optional areas only open once Esquie can swim or fly - see <a href=\"/bosses-by-area\">bosses by area</a>",
+      "Collect Esquie's missing rocks scattered across the map"
+    ]
+  }
+]

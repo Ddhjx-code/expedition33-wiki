@@ -1,0 +1,66 @@
+{
+  "slug": "maelle",
+  "title": "Maelle - Location, Weakness & How to Beat",
+  "description": "Maelle in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Maelle Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Playable",
+      "value": "Yes"
+    },
+    {
+      "label": "Role",
+      "value": "Melee DPS / Support"
+    },
+    {
+      "label": "Unique mechanic",
+      "value": "Battle Stance - Defensive, Offensive, Virtuose"
+    },
+    {
+      "label": "Joins",
+      "value": "Act 1 (Flying Waters)"
+    },
+    {
+      "label": "Tier",
+      "value": "S"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Who They Are",
+      "content": "<p>Maelle joins during Act 1 at Flying Waters and is the fastest melee fighter in the party. Her Battle Stance system rewards constant switching: every stance change gives her +1 AP, so transitions are never wasted.</p><p><strong>Joins:</strong> Act 1 (Flying Waters)</p>"
+    },
+    {
+      "id": "background",
+      "title": "Background",
+      "content": "<p class=\"text-sm italic opacity-75\">Contains story spoilers - stop here if you have not finished the game.</p><p>Maelle is really Alicia Dessendre, Verso's sister. Entering the Canvas overwhelmed her and she was reborn inside it as Maelle, without her memories. Act 3 centres on her, and the single decision that determines which ending you get is a private conversation with her - telling her the truth, or lying. Full breakdown on <a href=\"/endings-explained\">endings explained</a>.</p>"
+    },
+    {
+      "id": "playable",
+      "title": "Playable or NPC",
+      "content": "<p>Their defining mechanic is <strong>Battle Stance - Defensive, Offensive, Virtuose</strong>.</p><p>Party role: <strong>Melee DPS / Support</strong>.</p><p>Skills, Pictos and stat allocation are covered on the <a href=\"/build-maelle\">Maelle build guide</a> - this page is the character, not the kit.</p><p>In the <a href=\"/tier-list\">party tier list</a> they sit at <strong>S</strong>.</p>"
+    },
+    {
+      "id": "weapons",
+      "title": "Weapon Set",
+      "content": "<p>Maelle wields 22 weapons. Their element and scaling are listed here; which ones are worth upgrading is on <a href=\"/best-weapons\">best weapons</a> and <a href=\"/weapons-tier-list\">the tier list</a>.</p><table><thead><tr><th>Weapon</th><th>Element</th><th>Scaling</th><th>How to obtain</th></tr></thead><tbody><tr><td><a href=\"/barrier-breaker\">Barrier Breaker</a></td><td>Void</td><td>Defense (B), Agility (C)</td><td>Main quest - after the second Axon, talk to the Curator</td></tr><tr><td><a href=\"/battlum\">Battlum</a></td><td>Physical</td><td>Defense (B), Luck (C)</td><td>Old Lumiere - Right Street Flag, enemy group on the main path</td></tr><tr><td><a href=\"/brulerum\">Brulerum</a></td><td>Fire</td><td>Agility (D), Luck (C)</td><td>Flying Waters - Noco's Hut</td></tr><tr><td><a href=\"/chalium\">Chalium</a></td><td>Light</td><td>Agility (D), Vitality (C)</td><td>Sinister Cave - Chromatic Challier drop</td></tr><tr><td><a href=\"/chantenum\">Chantenum</a></td><td>Fire</td><td>Agility (C), Luck (B)</td><td>Sirene - merchant Klaudiso</td></tr><tr><td><a href=\"/clierum\">Clierum</a></td><td>Lightning</td><td>Agility (C), Defense (B)</td><td>Visages - Seething Boucheclier drop</td></tr><tr><td><a href=\"/duenum\">Duenum</a></td><td>Physical</td><td>Defense (B), Agility (C)</td><td>Stone Wave Cliffs - near the Farm waypoint</td></tr><tr><td><a href=\"/facesum\">Facesum</a></td><td>Physical</td><td>Luck (D), Vitality (C)</td><td>Isle of the Eyes</td></tr><tr><td><a href=\"/glaisum\">Glaisum</a></td><td>Physical</td><td>Defense (A), Agility (B)</td><td>Falling Leaves</td></tr><tr><td><a href=\"/jarum\">Jarum</a></td><td>Physical</td><td>Defense (B), Luck (C)</td><td>The Continent - defeat the Chromatic Jar west of Old Lumiere</td></tr><tr><td><a href=\"/lithum\">Lithum</a></td><td>Void</td><td>Vitality (B), Agility (A)</td><td>The Reacher</td></tr><tr><td><a href=\"/maellum\">Maellum</a></td><td>Physical</td><td>Vitality (C)</td><td>Starting weapon</td></tr><tr><td><a href=\"/medalum\">Medalum</a></td><td>Physical</td><td>Defense (S), Agility (A)</td><td>Gestral Village - win the arena tournament (missable)</td></tr><tr><td><a href=\"/mellarum\">Mellarum</a></td><td>Physical</td><td>Vitality (B), Luck (C)</td><td>Old Lumiere</td></tr><tr><td><a href=\"/plenum\">Plenum</a></td><td>Ice</td><td>Defense (C), Luck (B)</td><td>Yellow Harvest - defeat Glaise</td></tr><tr><td><a href=\"/seashellum\">Seashellum</a></td><td>Fire</td><td>Agility (D), Luck (C)</td><td>Flying Manor</td></tr><tr><td><a href=\"/sekarum\">Sekarum</a></td><td>Physical</td><td>Vitality (B), Agility (C)</td><td>Gestral Village - merchant Eesda</td></tr><tr><td><a href=\"/stalum\">Stalum</a></td><td>Fire</td><td>Defense (A), Luck (B)</td><td>Frozen Hearts</td></tr><tr><td><a href=\"/tissenum\">Tissenum</a></td><td>Earth</td><td>Agility (C), Vitality (B)</td><td>Sirene - Tisseur drop</td></tr><tr><td><a href=\"/veremum\">Veremum</a></td><td>Physical</td><td>Physical (C), Vitality (B)</td><td>Inside the Monolith - Mistra</td></tr><tr><td><a href=\"/volesterum\">Volesterum</a></td><td>Physical</td><td>Agility (B), Vitality (A)</td><td>Lumiere (Act 3)</td></tr><tr><td><a href=\"/yeverum\">Yeverum</a></td><td>Physical</td><td>Vitality (C), Defense (D)</td><td>Renoir's Drafts - merchant Grour</td></tr></tbody></table>"
+    },
+    {
+      "id": "relationships",
+      "title": "Relationships",
+      "content": "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead><tbody><tr><td><a href=\"/verso\">Verso</a></td><td>Brother - though the Verso in your party is a painted copy, not the original</td></tr><tr><td><a href=\"/clea\">Clea</a></td><td>Sister; the Nevrons call her Mistress because of the family link</td></tr><tr><td><a href=\"/renoir\">Renoir</a></td><td>The painted Renoir is the antagonist for most of the game; the real one causes the Gommage</td></tr></tbody></table>"
+    },
+    {
+      "id": "appearances",
+      "title": "Where They Appear",
+      "content": "<ul><li>Joins during Act 1 at Flying Waters</li><li>Act 3 is built around her</li><li>A required conversation with her in Act 3 gates the endings</li><li>Full kit on the <a href=\"/build-maelle\">Maelle build guide</a></li></ul>"
+    },
+    {
+      "id": "status",
+      "title": "Source Status",
+      "content": "<p>Story facts here are drawn from <a href=\"/world-lore\">the world lore page</a>, the join timing and mechanic from the <a href=\"/guide\">beginner guide</a>, and the tier placement from the <a href=\"/tier-list\">tier list</a>. Anything those pages do not state is left unrecorded rather than guessed. Back to <a href=\"/characters\">all characters</a>.</p>"
+    }
+  ]
+}
