@@ -371,14 +371,43 @@ BUILDERS = {
 }
 
 
+KIND_DEFAULTS = {
+    "boss": {
+        "title": "{name} - Location, Weakness & How to Beat",
+        "description": "{name} in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+    },
+    "enemy": {
+        "title": "{name} - Location & Weakness",
+        "description": "{name} in Clair Obscur: Expedition 33 - where it appears, its elemental weakness and how to handle it.",
+    },
+    "weapon": {
+        "title": "{name} - Weapon Stats & Location",
+        "description": "{name} in Clair Obscur: Expedition 33 - which character uses it, its element and scaling, and exactly where to get it.",
+    },
+    "picto": {
+        "title": "{name} - Pictos Effect & Location",
+        "description": "{name} in Clair Obscur: Expedition 33 - what this Pictos does and exactly where to find it.",
+    },
+    "location": {
+        "title": "{name} - Area Guide & Walkthrough",
+        "description": "{name} in Clair Obscur: Expedition 33 - what is there, how to reach it and what to collect.",
+    },
+    "character": {
+        "title": "{name} - Expedition 33 Character Guide & Lore",
+        "description": "{name} in Clair Obscur: Expedition 33 - who they are, when they join the party, their unique mechanic, relationships and role in the story.",
+    },
+}
+
+
 def build(rec, kind):
     name = rec["name"]
     sections_fn, facts_fn = BUILDERS[kind]
     facts = [{"label": k, "value": v} for k, v in facts_fn(rec)]
     return {
         "slug": rec["slug"],
-        "title": rec.get("title") or f"{name} - Location, Weakness & How to Beat",
-        "description": rec.get("description") or f'{name} in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.',
+        "title": rec.get("title") or KIND_DEFAULTS[kind]["title"].format(name=name),
+        "description": rec.get("description")
+        or KIND_DEFAULTS[kind]["description"].format(name=name),
         "keyword": rec.get("keyword") or f"{name} Expedition 33",
         "lastUpdated": TODAY,
         "facts": facts,
