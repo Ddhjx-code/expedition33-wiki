@@ -1,0 +1,65 @@
+{
+  "slug": "clea",
+  "title": "Clea - Mistress of the Nevrons (Expedition 33)",
+  "description": "Clea in Clair Obscur: Expedition 33 - who she is, the difference between the Clea fight at Flying Manor and Clea Unleashed in the Endless Tower, what each drops, and which ending outfit her defeat unlocks.",
+  "keyword": "clea expedition 33, clea unleashed expedition 33, mistress expedition 33",
+  "lastUpdated": "2026-10-12",
+  "facts": [
+    {
+      "label": "Role",
+      "value": "Antagonist - called “Mistress” by the Nevrons"
+    },
+    {
+      "label": "Relation",
+      "value": "Verso's sister"
+    },
+    {
+      "label": "Fight location",
+      "value": "Flying Manor"
+    },
+    {
+      "label": "Enhanced form",
+      "value": "Clea Unleashed - Endless Tower"
+    },
+    {
+      "label": "Drops",
+      "value": "Clea's Life (Pictos) · Clea's Death from Clea Unleashed"
+    },
+    {
+      "label": "Unlocks",
+      "value": "Maelle's ending outfit"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Who Clea Is",
+      "content": "<p>Clea is <strong>Verso's sister</strong>, which is why the Nevrons refer to her as <em>Mistress</em> - see <a href=\"/world-lore\">the world lore page</a> for how that family relationship fits the wider setting. She is fought rather than recruited, and her defeat is a checkpoint for both gear and one character's ending outfit.</p>"
+    },
+    {
+      "id": "how-to-find",
+      "title": "Where You Fight Her",
+      "content": "<p>There are two separate encounters, and they are easy to conflate:</p><ul><li><strong>Clea</strong> - <a href=\"/flying-manor\">Flying Manor</a>. Beating her here is what drops <a href=\"/clea-s-life\">Clea's Life</a>.</li><li><strong>Clea Unleashed</strong> - the <a href=\"/endless-tower\">Endless Tower</a> version. This is the one that drops <a href=\"/clea-s-death\">Clea's Death</a>.</li></ul><p>If you are looking for a specific Pictos, check which of the two it comes from before farming - the tower version sits behind a different gate than the manor fight.</p>"
+    },
+    {
+      "id": "weakness",
+      "title": "Weaknesses and Resistances",
+      "content": "<p>Not confirmed for either encounter. Elemental affinities are listed on the <a href=\"/enemy-weaknesses\">enemy weaknesses</a> and <a href=\"/boss-guide\">boss guide</a> pages once they have been verified, rather than inferred from the fact that she is a Nevron-linked character.</p>"
+    },
+    {
+      "id": "rewards",
+      "title": "What Defeating Her Gives You",
+      "content": "<ul><li><a href=\"/clea-s-life\">Clea's Life</a> - Pictos, from Clea at Flying Manor. Unlocks a Lumina after 4 battles.</li><li><a href=\"/clea-s-death\">Clea's Death</a> - Pictos, from Clea Unleashed in the Endless Tower. Unlocks a Lumina after 4 battles.</li><li><strong>Maelle's ending outfit</strong> - after defeating Clea, talk to the Young Boy in Central Plaza. Full list on <a href=\"/Outfits\">outfits</a>.</li></ul><p><a href=\"/best-builds\">Best builds</a> treats the Clea Unleashed drops as endgame pieces, so the tower fight is the one to prioritise once your party is built out.</p>"
+    },
+    {
+      "id": "strategy",
+      "title": "How to Approach the Fight",
+      "content": "<p>The <a href=\"/boss-order\">boss order</a> guide's advice on Clea Unleashed applies to the enhanced form specifically: it is an encounter worth building for rather than walking into with a general-purpose party. Beyond that, no verified move list or parry pattern is recorded here yet.</p>"
+    },
+    {
+      "id": "status",
+      "title": "Source Status",
+      "content": "<p>Every claim on this page is drawn from material already published elsewhere on this site - the Flying Manor and Endless Tower locations come from the <a href=\"/clea-s-life\">Clea's Life</a> and <a href=\"/clea-s-death\">Clea's Death</a> Pictos pages, the outfit from <a href=\"/Outfits\">outfits</a>, and the family relationship from <a href=\"/world-lore\">world lore</a>. Anything not stated there is left as not confirmed rather than filled in.</p><p>Return to <a href=\"/characters\">all characters</a> or the <a href=\"/boss-guide\">boss guide</a>.</p>"
+    }
+  ]
+}
