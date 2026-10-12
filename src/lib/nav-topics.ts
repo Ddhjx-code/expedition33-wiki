@@ -76,6 +76,12 @@ export const BOSS_PAGES: NavPage[] = [
 
 export const TOPICS: NavTopic[] = [
   {
+    label: "Cosmetics",
+    pages: [
+      { slug: "Haircuts", title: "All Haircuts" },
+    ],
+  },
+  {
     label: "Pictos & Lumina",
     pages: [
       { slug: "accelerating-heal", title: "Accelerating Heal" },
@@ -485,6 +491,7 @@ export const TOPICS: NavTopic[] = [
     label: "Walkthrough",
     pages: [
       { slug: "guide", title: "Beginner Guide" },
+      { slug: "beginner-guide", title: "Beginner Guide" },
       { slug: "walkthrough", title: "Full Walkthrough" },
       { slug: "walkthrough-act-1", title: "Act 1 Walkthrough" },
     ],

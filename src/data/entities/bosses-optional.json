@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "glaise",
+    "name": "Glaise",
+    "weak": "Fire, Ice",
+    "resists": "Lightning",
+    "immune": null,
+    "absorbs": "Earth",
+    "areas": "Yellow Harvest, The Chosen Path",
+    "note": "The base form of the Glaise boss. Earth is absorbed, which is the trap most players fall into first."
+  },
+  {
+    "slug": "rocher",
+    "name": "Rocher",
+    "weak": "Ice",
+    "resists": "Fire",
+    "immune": null,
+    "absorbs": null,
+    "areas": "Stone Wave Cliffs",
+    "note": "A rock-bodied Nevron. Ice lands and Fire is resisted."
+  }
+]
