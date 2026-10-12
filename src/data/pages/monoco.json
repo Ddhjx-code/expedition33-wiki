@@ -1,0 +1,66 @@
+{
+  "slug": "monoco",
+  "title": "Monoco - Location, Weakness & How to Beat",
+  "description": "Monoco in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Monoco Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Playable",
+      "value": "Yes"
+    },
+    {
+      "label": "Role",
+      "value": "Flex / AP Support"
+    },
+    {
+      "label": "Unique mechanic",
+      "value": "Bestial Wheel (Transform)"
+    },
+    {
+      "label": "Joins",
+      "value": "Late Act 2 - after being fought as a story boss"
+    },
+    {
+      "label": "Tier",
+      "value": "B"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Who They Are",
+      "content": "<p>Monoco is the most flexible party member and the least specialised. He is fought as a story boss alongside Stalact before he can be recruited, and his value is AP generation for the whole party rather than personal damage.</p><p><strong>Joins:</strong> Late Act 2 - after being fought as a story boss</p>"
+    },
+    {
+      "id": "background",
+      "title": "Background",
+      "content": "<p class=\"text-sm italic opacity-75\">Contains story spoilers - stop here if you have not finished the game.</p><p>Monoco is a Gestral. The Gestrals were created by the painted Verso, and Monoco specifically was modelled on his real-world dog.</p>"
+    },
+    {
+      "id": "playable",
+      "title": "Playable or NPC",
+      "content": "<p>Their defining mechanic is <strong>Bestial Wheel (Transform)</strong>.</p><p>Party role: <strong>Flex / AP Support</strong>.</p><p>In the <a href=\"/tier-list\">party tier list</a> they sit at <strong>B</strong>.</p>"
+    },
+    {
+      "id": "weapons",
+      "title": "Weapon Set",
+      "content": "<p>Monoco wields 11 weapons. Their element and scaling are listed here; which ones are worth upgrading is on <a href=\"/best-weapons\">best weapons</a> and <a href=\"/weapons-tier-list\">the tier list</a>.</p><table><thead><tr><th>Weapon</th><th>Element</th><th>Scaling</th><th>How to obtain</th></tr></thead><tbody><tr><td><a href=\"/ballaro\">Ballaro</a></td><td>Light</td><td>Defense (A), Agility (B)</td><td>Lumiere (Act 3) - merchant</td></tr><tr><td><a href=\"/boucharo\">Boucharo</a></td><td>Fire</td><td>Agility (B), Luck (C)</td><td>Gestral merchants</td></tr><tr><td><a href=\"/brumaro\">Brumaro</a></td><td>Physical</td><td>Vitality (D), Agility (C)</td><td>Stone Wave Cliffs cave</td></tr><tr><td><a href=\"/chromaro\">Chromaro</a></td><td>Ice</td><td>Defense (B), Agility (C)</td><td>Sirene's Dress - defeat the Chromatic Glissando</td></tr><tr><td><a href=\"/fragaro\">Fragaro</a></td><td>Physical</td><td>Defense (C)</td><td>Starting weapon</td></tr><tr><td><a href=\"/grandaro\">Grandaro</a></td><td>Earth</td><td>Vitality (A), Defense (B)</td><td>Monoco's Station - deliver the Eternal Ice to the Grandis trader</td></tr><tr><td><a href=\"/joyaro\">Joyaro</a></td><td>Lightning</td><td>Defense (A), Agility (B)</td><td>Flying Manor - enemy drop</td></tr><tr><td><a href=\"/monocaro\">Monocaro</a></td><td>Physical</td><td>Agility (B), Luck (C)</td><td>Starting weapon</td></tr><tr><td><a href=\"/nusaro\">Nusaro</a></td><td>Dark</td><td>Defense (A), Agility (A)</td><td>Crimson Forest - Paint Cage</td></tr><tr><td><a href=\"/sidaro\">Sidaro</a></td><td>Dark</td><td>Defense (A), Vitality (B)</td><td>Renoir's Gallery - Paint Cage</td></tr><tr><td><a href=\"/urnaro\">Urnaro</a></td><td>Earth</td><td>Vitality (B), Luck (C)</td><td>Forgotten Battlefield</td></tr></tbody></table>"
+    },
+    {
+      "id": "relationships",
+      "title": "Relationships",
+      "content": "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead><tbody><tr><td><a href=\"/verso\">Verso</a></td><td>Created the Gestrals; Monoco was based on his dog</td></tr></tbody></table>"
+    },
+    {
+      "id": "appearances",
+      "title": "Where They Appear",
+      "content": "<ul><li>Fought as a story boss in Act 2 with Stalact</li><li>Joins late in Act 2</li><li>His weapon set is the Gestral-themed one listed on <a href=\"/weapons\">all weapons</a></li></ul>"
+    },
+    {
+      "id": "status",
+      "title": "Source Status",
+      "content": "<p>Story facts here are drawn from <a href=\"/world-lore\">the world lore page</a>, the join timing and mechanic from the <a href=\"/guide\">beginner guide</a>, and the tier placement from the <a href=\"/tier-list\">tier list</a>. Anything those pages do not state is left unrecorded rather than guessed. Back to <a href=\"/characters\">all characters</a>.</p>"
+    }
+  ]
+}

@@ -77,6 +77,22 @@ export const BOSS_PAGES: NavPage[] = [
 
 export const TOPICS: NavTopic[] = [
   {
+    label: "Characters",
+    pages: [
+      { slug: "gustave", title: "Gustave" },
+      { slug: "lune", title: "Lune" },
+      { slug: "maelle", title: "Maelle" },
+      { slug: "sciel", title: "Sciel" },
+      { slug: "verso", title: "Verso" },
+      { slug: "monoco", title: "Monoco" },
+      { slug: "esquie", title: "Esquie" },
+      { slug: "clea", title: "Clea" },
+      { slug: "Eloise", title: "Eloise" },
+      { slug: "Lucie", title: "Lucie" },
+      { slug: "Jules", title: "Jules" },
+    ],
+  },
+  {
     label: "Cosmetics",
     pages: [
       { slug: "Haircuts", title: "All Haircuts" },

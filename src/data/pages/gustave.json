@@ -1,0 +1,66 @@
+{
+  "slug": "gustave",
+  "title": "Gustave - Location, Weakness & How to Beat",
+  "description": "Gustave in Clair Obscur: Expedition 33 - location, elemental weakness and how to beat it.",
+  "keyword": "Gustave Expedition 33",
+  "lastUpdated": "2026-09-24",
+  "facts": [
+    {
+      "label": "Playable",
+      "value": "Yes"
+    },
+    {
+      "label": "Role",
+      "value": "DPS / Mark Applier"
+    },
+    {
+      "label": "Unique mechanic",
+      "value": "Overcharge"
+    },
+    {
+      "label": "Joins",
+      "value": "Start - playable from the opening expedition"
+    },
+    {
+      "label": "Tier",
+      "value": "A"
+    }
+  ],
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Who They Are",
+      "content": "<p>Gustave is the character the game starts on. Act 1 follows him as he assembles his expedition team and crosses The Continent toward the Paintress.</p><p><strong>Joins:</strong> Start - playable from the opening expedition</p>"
+    },
+    {
+      "id": "background",
+      "title": "Background",
+      "content": "<p>In the prologue he says goodbye to his former partner Sophie on the day she is Gomaged - along with every other 33-year-old in Lumiere. That loss is what sets his expedition in motion. See the Gommage day section of <a href=\"/world-lore\">world lore</a>.</p>"
+    },
+    {
+      "id": "playable",
+      "title": "Playable or NPC",
+      "content": "<p>Their defining mechanic is <strong>Overcharge</strong>.</p><p>Party role: <strong>DPS / Mark Applier</strong>.</p><p>In the <a href=\"/tier-list\">party tier list</a> they sit at <strong>A</strong>.</p>"
+    },
+    {
+      "id": "weapons",
+      "title": "Weapon Set",
+      "content": "<p>Gustave wields 26 weapons. Their element and scaling are listed here; which ones are worth upgrading is on <a href=\"/best-weapons\">best weapons</a> and <a href=\"/weapons-tier-list\">the tier list</a>.</p><table><thead><tr><th>Weapon</th><th>Element</th><th>Scaling</th><th>How to obtain</th></tr></thead><tbody><tr><td><a href=\"/abysseram\">Abysseram</a></td><td>Physical</td><td>Vitality (S), Agility (B)</td><td>Flying Waters - Coral Cave Flag, past a handhold wall</td></tr><tr><td><a href=\"/blodam\">Blodam</a></td><td>Light</td><td>Vitality (C), Defense (B)</td><td>The Continent - defeat the Chromatic Reaper Cultist</td></tr><tr><td><a href=\"/chevalam\">Chevalam</a></td><td>Physical</td><td>Agility (B), Luck (C)</td><td>Crimson Forest - defeat the area's final boss</td></tr><tr><td><a href=\"/confuso\">Confuso</a></td><td>Light</td><td>Agility (D), Luck (C)</td><td>Visages - Joy Vale</td></tr><tr><td><a href=\"/contorso\">Contorso</a></td><td>Lightning</td><td>Defense (A), Agility (S)</td><td>Visages</td></tr><tr><td><a href=\"/corpeso\">Corpeso</a></td><td>Fire</td><td>Vitality (D), Agility (C)</td><td>The Continent - beach south of Spring Meadows</td></tr><tr><td><a href=\"/cruleram\">Cruleram</a></td><td>Ice</td><td>Defense (B), Luck (C)</td><td>Flying Waters</td></tr><tr><td><a href=\"/cultam\">Cultam</a></td><td>Dark</td><td>Defense (A), Agility (B)</td><td>Monoco's Station - Grandis merchant</td></tr><tr><td><a href=\"/danseso\">Danseso</a></td><td>Fire</td><td>Agility (D), Luck (C)</td><td>Old Lumiere - Chromatic Danseuse drop</td></tr><tr><td><a href=\"/delaram\">Delaram</a></td><td>Light</td><td>Vitality (C), Luck (B)</td><td>Stone Wave Cliffs</td></tr><tr><td><a href=\"/demonam\">Demonam</a></td><td>Light</td><td>Defense (C), Agility (B)</td><td>Gestral Village - merchant after the duel</td></tr><tr><td><a href=\"/dreameso\">Dreameso</a></td><td>Physical</td><td>Agility (B), Luck (C)</td><td>The Monolith - Clair Obscur enemy drop</td></tr><tr><td><a href=\"/dualiso\">Dualiso</a></td><td>Lightning</td><td>Vitality (S), Defense (A)</td><td>Forgotten Battlefield - defeat Dualliste</td></tr><tr><td><a href=\"/gaulteram\">Gaulteram</a></td><td>Earth</td><td>Agility (B), Luck (C)</td><td>Yellow Harvest</td></tr><tr><td><a href=\"/gesam\">Gesam</a></td><td>Physical</td><td>Agility (B), Vitality (C)</td><td>Flying Manor</td></tr><tr><td><a href=\"/glaceso\">Glaceso</a></td><td>Ice</td><td>Luck (C), Defense (B)</td><td>Frozen Hearts</td></tr><tr><td><a href=\"/lanceram\">Lanceram</a></td><td>Physical</td><td>Vitality (B), Agility (C)</td><td>Spring Meadows - found on the main path</td></tr><tr><td><a href=\"/liteso\">Liteso</a></td><td>Physical</td><td>Defense (B), Agility (C)</td><td>Lumiere (Act 3)</td></tr><tr><td><a href=\"/noahram\">Noahram</a></td><td>Physical</td><td>Vitality (C)</td><td>Starting weapon</td></tr><tr><td><a href=\"/nosaram\">Nosaram</a></td><td>Physical</td><td>Agility (B), Luck (C)</td><td>The Continent</td></tr><tr><td><a href=\"/sakaram\">Sakaram</a></td><td>Physical</td><td>Agility (B), Luck (C)</td><td>Ancient Sanctuary - defeat the Robust Sakapatate</td></tr><tr><td><a href=\"/seeram\">Seeram</a></td><td>Light</td><td>Agility (C), Vitality (B)</td><td>Coastal Cave</td></tr><tr><td><a href=\"/simoso\">Simoso</a></td><td>Light</td><td>Agility (A), Vitality (S)</td><td>The Abyss - defeat Simon</td></tr><tr><td><a href=\"/sireso\">Sireso</a></td><td>Physical</td><td>Vitality (B), Agility (C)</td><td>Sirene - defeat the Chromatic Greatsword Cultist</td></tr><tr><td><a href=\"/tireso\">Tireso</a></td><td>Earth</td><td>Vitality (A), Defense (B)</td><td>The Reacher</td></tr><tr><td><a href=\"/verleso\">Verleso</a></td><td>Physical</td><td>Vitality (B)</td><td>Starting weapon (Verso)</td></tr></tbody></table>"
+    },
+    {
+      "id": "relationships",
+      "title": "Relationships",
+      "content": "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead><tbody><tr><td><a href=\"/verso\">Verso</a></td><td>Share the same weapon set - every Gustave Lumina is listed as Gustave / Verso</td></tr></tbody></table>"
+    },
+    {
+      "id": "appearances",
+      "title": "Where They Appear",
+      "content": "<ul><li>Playable from the start of the game</li><li>Act 1 is framed around him - see the <a href=\"/walkthrough\">walkthrough</a></li><li>His weapons are catalogued on <a href=\"/weapons\">all weapons</a></li></ul>"
+    },
+    {
+      "id": "status",
+      "title": "Source Status",
+      "content": "<p>Story facts here are drawn from <a href=\"/world-lore\">the world lore page</a>, the join timing and mechanic from the <a href=\"/guide\">beginner guide</a>, and the tier placement from the <a href=\"/tier-list\">tier list</a>. Anything those pages do not state is left unrecorded rather than guessed. Back to <a href=\"/characters\">all characters</a>.</p>"
+    }
+  ]
+}
