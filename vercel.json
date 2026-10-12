@@ -60,6 +60,71 @@
       "permanent": true
     },
     {
+      "source": "/Renoir_Dessendre",
+      "destination": "/renoir",
+      "permanent": true
+    },
+    {
+      "source": "/Clea_Dessendre",
+      "destination": "/clea",
+      "permanent": true
+    },
+    {
+      "source": "/Danseuse_Teacher",
+      "destination": "/danseuse",
+      "permanent": true
+    },
+    {
+      "source": "/Painted_Alicia",
+      "destination": "/alicia",
+      "permanent": true
+    },
+    {
+      "source": "/François",
+      "destination": "/francois",
+      "permanent": true
+    },
+    {
+      "source": "/Blanche",
+      "destination": "/blanche",
+      "permanent": true
+    },
+    {
+      "source": "/Locations",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/Characters",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Emma",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Victor",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Amandine",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/Main_Page",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/endings",
+      "destination": "/endings-explained",
+      "permanent": true
+    },
+    {
       "source": "/wiki/Characters",
       "destination": "/characters",
       "permanent": true

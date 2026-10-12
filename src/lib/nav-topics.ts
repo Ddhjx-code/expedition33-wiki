@@ -72,6 +72,7 @@ export const BOSS_PAGES: NavPage[] = [
   { slug: "jar", title: "Jar" },
   { slug: "bourgeon", title: "Bourgeon" },
   { slug: "mime", title: "Mime" },
+      { slug: "clea", title: "Clea" },
 ];
 
 export const TOPICS: NavTopic[] = [
@@ -376,6 +377,7 @@ export const TOPICS: NavTopic[] = [
       { slug: "urnaro", title: "Urnaro" },
       { slug: "nusaro", title: "Nusaro" },
       { slug: "sidaro", title: "Sidaro" },
+          { slug: "weapons", title: "All Weapons" },
     ],
   },
   {
