@@ -20,46 +20,6 @@
       "permanent": true
     },
     {
-      "source": "/expedition-33-wiki/characters-3/:path*",
-      "destination": "/characters",
-      "permanent": true
-    },
-    {
-      "source": "/expedition-33-wiki/characters-3/:path*/",
-      "destination": "/characters",
-      "permanent": true
-    },
-    {
-      "source": "/expedition-33-wiki/locations-3/:path*",
-      "destination": "/locations",
-      "permanent": true
-    },
-    {
-      "source": "/expedition-33-wiki/locations-3/:path*/",
-      "destination": "/locations",
-      "permanent": true
-    },
-    {
-      "source": "/expedition-33-wiki/enemies-3/:path*",
-      "destination": "/Enemies",
-      "permanent": true
-    },
-    {
-      "source": "/expedition-33-wiki/enemies-3/:path*/",
-      "destination": "/Enemies",
-      "permanent": true
-    },
-    {
-      "source": "/expedition-33-wiki/:path*",
-      "destination": "/guide",
-      "permanent": true
-    },
-    {
-      "source": "/expedition-33-wiki/:path*/",
-      "destination": "/guide",
-      "permanent": true
-    },
-    {
       "source": "/Renoir_Dessendre",
       "destination": "/renoir",
       "permanent": true
@@ -152,16 +112,6 @@
     {
       "source": "/wiki/Clea/",
       "destination": "/characters",
-      "permanent": true
-    },
-    {
-      "source": "/wiki/:path*",
-      "destination": "/guide",
-      "permanent": true
-    },
-    {
-      "source": "/wiki/:path*/",
-      "destination": "/guide",
       "permanent": true
     },
     {
@@ -617,6 +567,81 @@
     {
       "source": "/Sirene_Dress",
       "destination": "/Outfits",
+      "permanent": true
+    },
+    {
+      "source": "/characters/maelle",
+      "destination": "/maelle",
+      "permanent": true
+    },
+    {
+      "source": "/characters/Maelle",
+      "destination": "/maelle",
+      "permanent": true
+    },
+    {
+      "source": "/characters/verso",
+      "destination": "/verso",
+      "permanent": true
+    },
+    {
+      "source": "/characters/maellum",
+      "destination": "/maellum",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/characters-3/:path*",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/characters-3/:path*/",
+      "destination": "/characters",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/locations-3/:path*",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/locations-3/:path*/",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/enemies-3/:path*",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/enemies-3/:path*/",
+      "destination": "/Enemies",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/:path*",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/expedition-33-wiki/:path*/",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/:path*",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/wiki/:path*/",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/characters/:path*",
+      "destination": "/characters",
       "permanent": true
     }
   ]
