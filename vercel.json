@@ -590,6 +590,61 @@
       "permanent": true
     },
     {
+      "source": "/characters/Esquie",
+      "destination": "/esquie",
+      "permanent": true
+    },
+    {
+      "source": "/characters/esquie",
+      "destination": "/esquie",
+      "permanent": true
+    },
+    {
+      "source": "/characters/gustave",
+      "destination": "/gustave",
+      "permanent": true
+    },
+    {
+      "source": "/characters/Gustave",
+      "destination": "/gustave",
+      "permanent": true
+    },
+    {
+      "source": "/characters/Lune",
+      "destination": "/lune",
+      "permanent": true
+    },
+    {
+      "source": "/characters/lune",
+      "destination": "/lune",
+      "permanent": true
+    },
+    {
+      "source": "/characters/monoco",
+      "destination": "/monoco",
+      "permanent": true
+    },
+    {
+      "source": "/characters/Monoco",
+      "destination": "/monoco",
+      "permanent": true
+    },
+    {
+      "source": "/characters/Sciel",
+      "destination": "/sciel",
+      "permanent": true
+    },
+    {
+      "source": "/characters/sciel",
+      "destination": "/sciel",
+      "permanent": true
+    },
+    {
+      "source": "/characters/Verso",
+      "destination": "/verso",
+      "permanent": true
+    },
+    {
       "source": "/expedition-33-wiki/characters-3/:path*",
       "destination": "/characters",
       "permanent": true
@@ -626,6 +681,16 @@
     },
     {
       "source": "/expedition-33-wiki/:path*/",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/w/:path*",
+      "destination": "/guide",
+      "permanent": true
+    },
+    {
+      "source": "/w/:path*/",
       "destination": "/guide",
       "permanent": true
     },
