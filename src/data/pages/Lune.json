@@ -1,5 +1,5 @@
 {
-  "slug": "lune",
+  "slug": "Lune",
   "title": "Lune - Expedition 33 Character Guide & Lore",
   "description": "Lune in Clair Obscur: Expedition 33 - who they are, when they join the party, their unique mechanic, relationships and role in the story.",
   "keyword": "Lune Expedition 33",
@@ -50,7 +50,7 @@
     {
       "id": "relationships",
       "title": "Relationships",
-      "content": "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead><tbody><tr><td><a href=\"/maelle\">Maelle</a></td><td>Her Burn setup is the trigger for Maelle's Rain of Fire - the pair is called the strongest early-game synergy</td></tr></tbody></table>"
+      "content": "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead><tbody><tr><td><a href=\"/Maelle\">Maelle</a></td><td>Her Burn setup is the trigger for Maelle's Rain of Fire - the pair is called the strongest early-game synergy</td></tr></tbody></table>"
     },
     {
       "id": "appearances",

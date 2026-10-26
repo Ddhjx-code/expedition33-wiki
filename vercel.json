@@ -571,17 +571,17 @@
     },
     {
       "source": "/characters/maelle",
-      "destination": "/maelle",
+      "destination": "/Maelle",
       "permanent": true
     },
     {
       "source": "/characters/Maelle",
-      "destination": "/maelle",
+      "destination": "/Maelle",
       "permanent": true
     },
     {
       "source": "/characters/verso",
-      "destination": "/verso",
+      "destination": "/Verso",
       "permanent": true
     },
     {
@@ -591,57 +591,107 @@
     },
     {
       "source": "/characters/Esquie",
-      "destination": "/esquie",
+      "destination": "/Esquie",
       "permanent": true
     },
     {
       "source": "/characters/esquie",
-      "destination": "/esquie",
+      "destination": "/Esquie",
       "permanent": true
     },
     {
       "source": "/characters/gustave",
-      "destination": "/gustave",
+      "destination": "/Gustave",
       "permanent": true
     },
     {
       "source": "/characters/Gustave",
-      "destination": "/gustave",
+      "destination": "/Gustave",
       "permanent": true
     },
     {
       "source": "/characters/Lune",
-      "destination": "/lune",
+      "destination": "/Lune",
       "permanent": true
     },
     {
       "source": "/characters/lune",
-      "destination": "/lune",
+      "destination": "/Lune",
       "permanent": true
     },
     {
       "source": "/characters/monoco",
-      "destination": "/monoco",
+      "destination": "/Monoco",
       "permanent": true
     },
     {
       "source": "/characters/Monoco",
-      "destination": "/monoco",
+      "destination": "/Monoco",
       "permanent": true
     },
     {
       "source": "/characters/Sciel",
-      "destination": "/sciel",
+      "destination": "/Sciel",
       "permanent": true
     },
     {
       "source": "/characters/sciel",
-      "destination": "/sciel",
+      "destination": "/Sciel",
       "permanent": true
     },
     {
       "source": "/characters/Verso",
-      "destination": "/verso",
+      "destination": "/Verso",
+      "permanent": true
+    },
+    {
+      "source": "/gustave",
+      "destination": "/Gustave",
+      "permanent": true
+    },
+    {
+      "source": "/lune",
+      "destination": "/Lune",
+      "permanent": true
+    },
+    {
+      "source": "/maelle",
+      "destination": "/Maelle",
+      "permanent": true
+    },
+    {
+      "source": "/sciel",
+      "destination": "/Sciel",
+      "permanent": true
+    },
+    {
+      "source": "/verso",
+      "destination": "/Verso",
+      "permanent": true
+    },
+    {
+      "source": "/monoco",
+      "destination": "/Monoco",
+      "permanent": true
+    },
+    {
+      "source": "/esquie",
+      "destination": "/Esquie",
+      "permanent": true
+    },
+    {
+      "source": "/eloise",
+      "destination": "/Eloise",
+      "permanent": true
+    },
+    {
+      "source": "/jules",
+      "destination": "/Jules",
+      "permanent": true
+    },
+    {
+      "source": "/lucie",
+      "destination": "/Lucie",
       "permanent": true
     },
     {

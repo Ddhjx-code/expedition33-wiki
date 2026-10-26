@@ -1,6 +1,6 @@
 [
   {
-    "slug": "gustave",
+    "slug": "Gustave",
     "name": "Gustave",
     "playable": true,
     "role": "DPS / Mark Applier",
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "slug": "lune",
+    "slug": "Lune",
     "name": "Lune",
     "playable": true,
     "role": "Mage / Healer",
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "slug": "maelle",
+    "slug": "Maelle",
     "name": "Maelle",
     "playable": true,
     "role": "Melee DPS / Support",
@@ -86,7 +86,7 @@
     ]
   },
   {
-    "slug": "sciel",
+    "slug": "Sciel",
     "name": "Sciel",
     "playable": true,
     "role": "AoE DPS",
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "slug": "verso",
+    "slug": "Verso",
     "name": "Verso",
     "playable": true,
     "role": "DPS / Mark Support",
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "slug": "monoco",
+    "slug": "Monoco",
     "name": "Monoco",
     "playable": true,
     "role": "Flex / AP Support",
@@ -170,7 +170,7 @@
     ]
   },
   {
-    "slug": "esquie",
+    "slug": "Esquie",
     "name": "Esquie",
     "playable": false,
     "role": "Mythical mount",

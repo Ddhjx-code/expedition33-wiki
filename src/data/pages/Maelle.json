@@ -1,5 +1,5 @@
 {
-  "slug": "maelle",
+  "slug": "Maelle",
   "title": "Maelle - Expedition 33 Character Guide & Lore",
   "description": "Maelle in Clair Obscur: Expedition 33 - who they are, when they join the party, their unique mechanic, relationships and role in the story.",
   "keyword": "Maelle Expedition 33",
@@ -50,7 +50,7 @@
     {
       "id": "relationships",
       "title": "Relationships",
-      "content": "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead><tbody><tr><td><a href=\"/verso\">Verso</a></td><td>Brother - though the Verso in your party is a painted copy, not the original</td></tr><tr><td><a href=\"/clea\">Clea</a></td><td>Sister; the Nevrons call her Mistress because of the family link</td></tr><tr><td><a href=\"/renoir\">Renoir</a></td><td>The painted Renoir is the antagonist for most of the game; the real one causes the Gommage</td></tr></tbody></table>"
+      "content": "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead><tbody><tr><td><a href=\"/Verso\">Verso</a></td><td>Brother - though the Verso in your party is a painted copy, not the original</td></tr><tr><td><a href=\"/clea\">Clea</a></td><td>Sister; the Nevrons call her Mistress because of the family link</td></tr><tr><td><a href=\"/renoir\">Renoir</a></td><td>The painted Renoir is the antagonist for most of the game; the real one causes the Gommage</td></tr></tbody></table>"
     },
     {
       "id": "appearances",

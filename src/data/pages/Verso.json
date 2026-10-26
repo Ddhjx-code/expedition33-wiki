@@ -1,5 +1,5 @@
 {
-  "slug": "verso",
+  "slug": "Verso",
   "title": "Verso - Expedition 33 Character Guide & Lore",
   "description": "Verso in Clair Obscur: Expedition 33 - who they are, when they join the party, their unique mechanic, relationships and role in the story.",
   "keyword": "Verso Expedition 33",
@@ -50,7 +50,7 @@
     {
       "id": "relationships",
       "title": "Relationships",
-      "content": "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead><tbody><tr><td><a href=\"/maelle\">Maelle</a></td><td>His sister - she is Alicia Dessendre, reborn inside the Canvas without her memories</td></tr><tr><td><a href=\"/clea\">Clea</a></td><td>Sister; she created the Nevrons</td></tr><tr><td><a href=\"/monoco\">Monoco</a></td><td>The painted Verso created the Gestrals, and Monoco was based on his real-world dog</td></tr></tbody></table>"
+      "content": "<table><thead><tr><th>Character</th><th>Relationship</th></tr></thead><tbody><tr><td><a href=\"/Maelle\">Maelle</a></td><td>His sister - she is Alicia Dessendre, reborn inside the Canvas without her memories</td></tr><tr><td><a href=\"/clea\">Clea</a></td><td>Sister; she created the Nevrons</td></tr><tr><td><a href=\"/Monoco\">Monoco</a></td><td>The painted Verso created the Gestrals, and Monoco was based on his real-world dog</td></tr></tbody></table>"
     },
     {
       "id": "appearances",
